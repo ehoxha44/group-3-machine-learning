@@ -9,7 +9,7 @@
       <p>Inxhinieri Kompjuterike dhe Softuerike - Programi Master</p>
       <p><strong>Lënda:</strong> Machine Learning</p>
       <p><strong>Profesorët:</strong> Prof. Dr. Lule Ahmedi dhe Dr. Sc. Mërgim Hoti</p>
-      <p><strong>Studentët:</strong></p>
+      <p><strong>Studentët (Gr. 3):</strong></p>
       <ul>
         <li>Enis Hoxha</li>
         <li>Fisnik Hazrolli</li>
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-# Projekti i Përgatitjes dhe Pastrimit të të Dhënave të Qarkullimit
+# Trajnimi i modelit per parashikimin e rritjes se te ardhurave te bizneseve ne Kosove
 
 Ky projekt paraqet një pipeline të ndërtuar në Python për ingestimin, pastrimin, profilizimin, agregimin, kampionimin, detektimin e outliers dhe analizën e imbalance për datasetin `Qarkullimi.xlsx`.
 
@@ -40,8 +40,13 @@ Dataseti kryesor i përdorur në projekt është:
 
 - `Faza 1/dataset/Qarkullimi.xlsx`
 
+Burimi i të dhënave:
+
+- [ATK Open Data](https://www.atk-ks.org/en/open-data/)
+
 Karakteristikat kryesore të datasetit:
 
+- madhësia fillestare: `753,891` rreshta dhe `7` kolona
 - formati burimor: Excel
 - rreshti i header-it: rreshti `9`
 - fokusi kryesor aktual: dataseti bazë
