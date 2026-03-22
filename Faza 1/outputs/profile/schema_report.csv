@@ -1,0 +1,8 @@
+column,dtype,semantic_type,null_count,null_rate_decimal,null_rate_percent,unique_count,sample_values
+year,float64,numeric,0,0.0,0.000000%,7,2025.0 | 2025.0 | 2025.0
+month,float64,numeric,0,0.0,0.000000%,12,1.0 | 1.0 | 1.0
+num_taxpayers,float64,numeric,0,0.0,0.000000%,477,2.0 | 2.0 | 1.0
+turnover_eur,float64,numeric,0,0.0,0.000000%,442973,0.0 | 13436.77 | 0.0
+primary_sector,object,categorical,0,0.0,0.000000%,23,Bujqesia;Pylltaria dhe Peshkimi | Bujqesia;Pylltaria dhe Peshkimi | Bujqesia;Pylltaria dhe Peshkimi
+municipality,object,categorical,0,0.0,0.000000%,38,KLINË | PODUJEVË | MITROVICË VERIORE
+registration_status,object,categorical,0,0.0,0.000000%,30,SH.P.K. | SH.P.K. | SH.P.K.

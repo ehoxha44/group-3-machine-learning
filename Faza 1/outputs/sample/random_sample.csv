@@ -1,0 +1,1001 @@
+year,month,primary_sector,municipality,registration_status,num_taxpayers,turnover_eur,invalid_reason,year_was_imputed,month_was_imputed,num_taxpayers_was_imputed,turnover_eur_was_imputed,primary_sector_was_imputed,municipality_was_imputed,registration_status_was_imputed,year_month,turnover_eur_log1p
+2025.0,9.0,Industria perpunuese,GJILAN,INDIVIDUAL,9.0,7770.0,,False,False,False,False,False,False,False,2025-09,8.958154135209242
+2020.0,3.0,Sherbimet administrative dhe mbeshtetese,PRISHTINË,INDIVIDUAL,14.0,19850.09,,False,False,False,False,False,False,False,2020-03,9.896014196446528
+2019.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MAMUSHË,SH.P.K.,1.0,14415.68,,False,False,False,False,False,False,False,2019-08,9.57614114854698
+2022.0,10.0,Arsimi,PRIZREN,INDIVIDUAL,1.0,8330.82,,False,False,False,False,False,False,False,2022-10,9.027837198690952
+2020.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,HANI I ELEZIT,INDIVIDUAL,2.0,1210.0,,False,False,False,False,False,False,False,2020-09,7.099201743553092
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,SH.P.K.,3.0,774.5,,False,False,False,False,False,False,False,2019-12,6.653507982616594
+2021.0,12.0,Ndertimtaria,DEÇAN,SH.P.K.,1.0,6909.66,,False,False,False,False,False,False,False,2021-12,8.84082042594876
+2021.0,9.0,Industria perpunuese,PRISHTINË,ORTAKËRIA E PËRGJ.,2.0,46182.66,,False,False,False,False,False,False,False,2021-09,10.740381334856751
+2024.0,2.0,Ndertimtaria,PRIZREN,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2024-02,0.0
+2021.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2021-08,0.0
+2025.0,4.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,1.0,4466.06,,False,False,False,False,False,False,False,2025-04,8.404485753095358
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,141.0,8962688.91,,False,False,False,False,False,False,False,2023-03,16.0085809530658
+2019.0,9.0,Ndertimtaria,LIPJAN,INDIVIDUAL,5.0,9010.0,,False,False,False,False,False,False,False,2019-09,9.106201332235038
+2020.0,12.0,"Artet, Argetimi dhe rekreacioni",KAÇANIK,INDIVIDUAL,3.0,493.0,,False,False,False,False,False,False,False,2020-12,6.202535517187923
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,SH.P.K.,4.0,309608.49,,False,False,False,False,False,False,False,2019-12,12.643067072682712
+2019.0,6.0,Industria perpunuese,GJILAN,INDIVIDUAL,3.0,4400.0,,False,False,False,False,False,False,False,2019-06,8.38958706681109
+2024.0,9.0,"Aktivitetet profesionale, shkencore dhe teknike",SKENDERAJ,INDIVIDUAL,2.0,2125.8,,False,False,False,False,False,False,False,2024-09,7.662373781630183
+2024.0,12.0,Aktivitetet e tjera sherbyese,PRISHTINË,INDIVIDUAL,5.0,5972.42,,False,False,False,False,False,False,False,2024-12,8.69507490668413
+2022.0,12.0,Bujqesia;Pylltaria dhe Peshkimi,PRISHTINË,SH.P.K.,1.0,9925.18,,False,False,False,False,False,False,False,2022-12,9.202930990175991
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,SH.P.K.,32.0,637217.15,,False,False,False,False,False,False,False,2019-12,13.364867340604835
+2019.0,6.0,Akomodimi dhe sherbimi ushqimor,SUHAREKË,INDIVIDUAL,61.0,82829.84,,False,False,False,False,False,False,False,2019-06,11.324555734794057
+2022.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,INDIVIDUAL,8.0,8148.88,,False,False,False,False,False,False,False,2022-03,9.00575848220013
+2022.0,5.0,Aktivitetet e patundshmerise,GLLOGOC,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2022-05,0.0
+2022.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,GJILAN,SH.P.K.,1.0,27132.42,,False,False,False,False,False,False,False,2022-02,10.208521457420614
+2019.0,7.0,Industria perpunuese,VUSHTRRI,SH.P.K.,1.0,18531.02,,False,False,False,False,False,False,False,2019-07,9.827255325750288
+2025.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,1.0,24990.16,,False,False,False,False,False,False,False,2025-09,10.126277441319116
+2022.0,4.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,FUSHË KOSOVË,SH.P.K.,1.0,804.78,,False,False,False,False,False,False,False,2022-04,6.69181075239462
+2019.0,6.0,"Artet, Argetimi dhe rekreacioni",KAMENICË,INDIVIDUAL,1.0,1547.92,,False,False,False,False,False,False,False,2019-06,7.345313192859787
+2023.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,SH.P.K.,8.0,162118.31,,False,False,False,False,False,False,False,2023-11,11.9960878246266
+2020.0,6.0,Industria perpunuese,RAHOVEC,INDIVIDUAL,1.0,9502.35,,False,False,False,False,False,False,False,2020-06,9.159399647007676
+2022.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,1.0,1010926.91,,False,False,False,False,False,False,False,2022-09,13.82637918982226
+2019.0,9.0,Person Fizik,GJAKOVË,PERSON FIZIK,298.0,1731531.21,,False,False,False,False,False,False,False,2019-09,14.36451724501948
+2021.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,INDIVIDUAL,1.0,1179.53,,False,False,False,False,False,False,False,2021-05,7.073718769163274
+2022.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,SH.P.K.,5.0,749312.3,,False,False,False,False,False,False,False,2022-06,13.526912466094782
+2024.0,3.0,Industria perpunuese,LIPJAN,SH.P.K.,2.0,205460.86,,False,False,False,False,False,False,False,2024-03,12.233015699586282
+2025.0,7.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,GRAÇANICË,SH.P.K.,1.0,46897.36,,False,False,False,False,False,False,False,2025-07,10.75573798580592
+2024.0,6.0,Industria perpunuese,FERIZAJ,INDIVIDUAL,1.0,1024.58,,False,False,False,False,False,False,False,2024-06,6.933013585196232
+2025.0,1.0,Industria perpunuese,FERIZAJ,ORTAKËRIA E PËRGJ.,1.0,40.25,,False,False,False,False,False,False,False,2025-01,3.71965111278069
+2021.0,6.0,Industria perpunuese,PRIZREN,SH.P.K.,2.0,4191.88,,False,False,False,False,False,False,False,2021-06,8.34114312763411
+2023.0,7.0,Aktivitetet e tjera sherbyese,FUSHË KOSOVË,SH.P.K.,1.0,914.4,,False,False,False,False,False,False,False,2023-07,6.819361128219541
+2020.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,NDËRMARRJE SHOQ.,2.0,0.0,,False,False,False,False,False,False,False,2020-07,0.0
+2020.0,12.0,Industria perpunuese,GJILAN,SHOQËRI AKCIONARE,1.0,191313.87,,False,False,False,False,False,False,False,2020-12,12.161675883719498
+2020.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,37.0,417483.54,,False,False,False,False,False,False,False,2020-05,12.942002792647305
+2019.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,2.0,64143.4,,False,False,False,False,False,False,False,2019-04,11.068892070831916
+2025.0,1.0,Ndertimtaria,GJILAN,SH.P.K.,8.0,38016.54,,False,False,False,False,False,False,False,2025-01,10.5458029111611
+2021.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SHOQËRI AKCIONARE,1.0,966.5,,False,False,False,False,False,False,False,2021-07,6.874715424903937
+2022.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,20.0,457548.87,,False,False,False,False,False,False,False,2022-10,13.03364116322153
+2022.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,15.0,133952.64,,False,False,False,False,False,False,False,2022-02,11.805249048922317
+2020.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,INDIVIDUAL,3.0,9617.43,,False,False,False,False,False,False,False,2020-09,9.17143632867771
+2019.0,9.0,Industria perpunuese,VUSHTRRI,SH.P.K.,2.0,6735.96,,False,False,False,False,False,False,False,2019-09,8.81536406358219
+2025.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,44.0,6086843.45,,False,False,False,False,False,False,False,2025-01,15.621640352689216
+2025.0,12.0,Industria nxjerrese,PRIZREN,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2025-12,0.0
+2024.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2024-09,0.0
+2024.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,SH.P.K.,2.0,4253.99,,False,False,False,False,False,False,False,2024-08,8.35584769082845
+2023.0,6.0,Aktivitetet e tjera sherbyese,MITROVICË,INDIVIDUAL,119.0,68494.58,,False,False,False,False,False,False,False,2023-06,11.134524496621008
+2024.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,1.0,11923.22,,False,False,False,False,False,False,False,2024-02,9.38632690481226
+2021.0,3.0,"Artet, Argetimi dhe rekreacioni",KAÇANIK,SH.P.K.,3.0,3144.99,,False,False,False,False,False,False,False,2021-03,8.05388390497363
+2023.0,1.0,Bujqesia;Pylltaria dhe Peshkimi,FERIZAJ,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-01,0.0
+2022.0,6.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,PRIZREN,SH.P.K.,6.0,9540.0,,False,False,False,False,False,False,False,2022-06,9.163353580751846
+2025.0,5.0,Industria perpunuese,PEJË,SH.P.K.,3.0,224194.8,,False,False,False,False,False,False,False,2025-05,12.320275056170864
+2020.0,6.0,Industria perpunuese,SUHAREKË,INDIVIDUAL,4.0,42265.9,,False,False,False,False,False,False,False,2020-06,10.651759552806649
+2019.0,10.0,Industria perpunuese,RAHOVEC,SH.P.K.,1.0,354627.2,,False,False,False,False,False,False,False,2019-10,12.778825195686936
+2025.0,8.0,Ndertimtaria,SUHAREKË,SH.P.K.,16.0,387180.49,,False,False,False,False,False,False,False,2025-08,12.86664882848981
+2020.0,11.0,Sherbimet administrative dhe mbeshtetese,SUHAREKË,INDIVIDUAL,1.0,2624.58,,False,False,False,False,False,False,False,2020-11,7.873057103000294
+2023.0,4.0,Ndertimtaria,LIPJAN,SH.P.K.,2.0,29027.02,,False,False,False,False,False,False,False,2023-04,10.27601684938773
+2023.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,SH.P.K.,9.0,121358.26,,False,False,False,False,False,False,False,2023-12,11.706510516442847
+2025.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,7.0,476578.36,,False,False,False,False,False,False,False,2025-05,13.074389535952823
+2020.0,7.0,Ndertimtaria,PRIZREN,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2020-07,0.0
+2022.0,2.0,Transporti dhe magazinimi,PEJË,SH.P.K.,13.0,72994.13,,False,False,False,False,False,False,False,2022-02,11.198148005576394
+2020.0,12.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,9.0,71833.55,,False,False,False,False,False,False,False,2020-12,11.182120837069382
+2024.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SKENDERAJ,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2024-12,0.0
+2022.0,12.0,Informimi dhe komunikimi,KAÇANIK,SH.P.K.,1.0,500.0,,False,False,False,False,False,False,False,2022-12,6.2166061010848646
+2024.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,INDIVIDUAL,5.0,62440.02,,False,False,False,False,False,False,False,2024-10,11.041977710178198
+2025.0,1.0,Transporti dhe magazinimi,PRISHTINË,SHOQËRI AKCIONARE,2.0,132134.98,,False,False,False,False,False,False,False,2025-01,11.79158682284171
+2023.0,3.0,Ndertimtaria,OBILIQ,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2023-03,0.0
+2025.0,11.0,Industria perpunuese,VUSHTRRI,SH.P.K.,5.0,516683.43,,False,False,False,False,False,False,False,2025-11,13.15518758028148
+2022.0,8.0,Ndertimtaria,SUHAREKË,INDIVIDUAL,3.0,44746.46,,False,False,False,False,False,False,False,2022-08,10.708789962315567
+2023.0,12.0,Bujqesia;Pylltaria dhe Peshkimi,ISTOG,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2023-12,0.0
+2025.0,10.0,Bujqesia;Pylltaria dhe Peshkimi,VITI,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2025-10,0.0
+2024.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,16.0,1758926.93,,False,False,False,False,False,False,False,2024-01,14.380215050737052
+2021.0,7.0,Industria nxjerrese,GLLOGOC,SH.P.K.,3.0,820026.86,,False,False,False,False,False,False,False,2021-07,13.617093594273031
+2025.0,11.0,Industria perpunuese,PEJË,INDIVIDUAL,2.0,14944.8,,False,False,False,False,False,False,False,2025-11,9.612185602893945
+2023.0,12.0,Industria perpunuese,LIPJAN,SH.P.K.,1.0,14300.0,,False,False,False,False,False,False,False,2023-12,9.568084743872936
+2020.0,5.0,Bujqesia;Pylltaria dhe Peshkimi,MALISHEVË,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2020-05,0.0
+2020.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,6.0,0.0,,False,False,False,False,False,False,False,2020-09,0.0
+2020.0,4.0,Informimi dhe komunikimi,PRISHTINË,PËRFAQËSUES FISKAL,1.0,0.0,,False,False,False,False,False,False,False,2020-04,0.0
+2019.0,9.0,Industria perpunuese,PRISHTINË,SH.P.K.,2.0,4131.93,,False,False,False,False,False,False,False,2019-09,8.326741877518556
+2021.0,9.0,"Aktivitetet profesionale, shkencore dhe teknike",GJAKOVË,SH.P.K.,2.0,10276.75,,False,False,False,False,False,False,False,2021-09,9.237736643457945
+2024.0,6.0,"Aktivitetet e ekonomive familjare si punedhenes; Mallrat dhe sherbimet e padiferencuara, Aktivitetet e ekonomive familjare per perdorim vetanak",PRISHTINË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2024-06,0.0
+2023.0,5.0,Bujqesia;Pylltaria dhe Peshkimi,PODUJEVË,SH.P.K.,2.0,19572.22,,False,False,False,False,False,False,False,2023-05,9.881917584412788
+2023.0,10.0,Aktivitetet e tjera sherbyese,GJAKOVË,INDIVIDUAL,1.0,5136.3,,False,False,False,False,False,False,False,2023-10,8.54428292860633
+2020.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,GJILAN,SH.P.K.,1.0,37350.45,,False,False,False,False,False,False,False,2020-02,10.528127011761896
+2021.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SHTËRPCË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2021-07,0.0
+2019.0,5.0,Mungon aktiviteti,ZUBIN POTOK,OJQ,2.0,0.0,,False,False,False,False,False,False,False,2019-05,0.0
+2019.0,9.0,Ndertimtaria,VITI,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2019-09,0.0
+2025.0,8.0,Informimi dhe komunikimi,FERIZAJ,INDIVIDUAL,1.0,307.54,,False,False,False,False,False,False,False,2025-08,5.731851494583793
+2025.0,3.0,Bujqesia;Pylltaria dhe Peshkimi,MITROVICË,INDIVIDUAL,4.0,0.0,,False,False,False,False,False,False,False,2025-03,0.0
+2024.0,11.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,MITROVICË,INDIVIDUAL,2.0,15850.26,,False,False,False,False,False,False,False,2024-11,9.671004271413985
+2022.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,4.0,307595.27,,False,False,False,False,False,False,False,2022-04,12.636543390402265
+2025.0,5.0,"Aktivitetet profesionale, shkencore dhe teknike",FUSHË KOSOVË,SH.P.K.,5.0,477098.68,,False,False,False,False,False,False,False,2025-05,13.075480720785048
+2020.0,11.0,Bujqesia;Pylltaria dhe Peshkimi,DEÇAN,SH.P.K.,1.0,1058.35,,False,False,False,False,False,False,False,2020-11,6.965410791470299
+2023.0,6.0,Industria perpunuese,RAHOVEC,INDIVIDUAL,1.0,18424.86,,False,False,False,False,False,False,False,2023-06,9.821510391680608
+2019.0,3.0,Industria perpunuese,PRISHTINË,SH.P.K.,1.0,43762.91,,False,False,False,False,False,False,False,2019-03,10.686564784109784
+2025.0,7.0,Industria perpunuese,ZUBIN POTOK,SH.P.K.,1.0,18399.45,,False,False,False,False,False,False,False,2025-07,9.82013039981976
+2023.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,30.0,921324.35,,False,False,False,False,False,False,False,2023-08,13.733568510185757
+2019.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,INDIVIDUAL,3.0,37954.59,,False,False,False,False,False,False,False,2019-07,10.544172071054064
+2023.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,INDIVIDUAL,5.0,29769.44,,False,False,False,False,False,False,False,2023-02,10.301271233880446
+2023.0,10.0,Transporti dhe magazinimi,KAMENICË,INDIVIDUAL,2.0,29378.42,,False,False,False,False,False,False,False,2023-10,10.28804970821238
+2019.0,4.0,Ndertimtaria,MALISHEVË,INDIVIDUAL,1.0,7607.67,,False,False,False,False,False,False,False,2019-04,8.937043665542246
+2025.0,2.0,Industria perpunuese,GJAKOVË,INDIVIDUAL,1.0,6938.64,,False,False,False,False,False,False,False,2025-02,8.845005178956542
+2020.0,9.0,Industria perpunuese,PEJË,SH.P.K.,3.0,62489.07,,False,False,False,False,False,False,False,2020-09,11.042762943101728
+2024.0,1.0,Informimi dhe komunikimi,GJAKOVË,INDIVIDUAL,1.0,1389.83,,False,False,False,False,False,False,False,2024-01,7.237655970220311
+2021.0,9.0,Ndertimtaria,VITI,INDIVIDUAL,4.0,8471.5,,False,False,False,False,False,False,False,2021-09,9.044580903481206
+2025.0,4.0,Industria perpunuese,KLINË,SH.P.K.,15.0,1131561.53,,False,False,False,False,False,False,False,2025-04,13.93911000545411
+2019.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,SH.P.K.,2.0,1182.2,,False,False,False,False,False,False,False,2019-02,7.07597791139659
+2024.0,2.0,Informimi dhe komunikimi,FUSHË KOSOVË,SH.P.K.,3.0,15497.4,,False,False,False,False,False,False,False,2024-02,9.648492071772736
+2020.0,10.0,Industria perpunuese,MITROVICË,SH.P.K.,1.0,20984.0,,False,False,False,False,False,False,False,2020-10,9.951563175767692
+2020.0,8.0,Industria perpunuese,PEJË,INDIVIDUAL,1.0,394.07,,False,False,False,False,False,False,False,2020-08,5.979062964390239
+2025.0,10.0,Sherbimet administrative dhe mbeshtetese,PEJË,INDIVIDUAL,1.0,6153.85,,False,False,False,False,False,False,False,2025-10,8.724995667891045
+2020.0,7.0,Ndertimtaria,FUSHË KOSOVË,INDIVIDUAL,11.0,65412.96,,False,False,False,False,False,False,False,2020-07,11.088490970324363
+2024.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,INDIVIDUAL,1.0,665.75,,False,False,False,False,False,False,False,2024-05,6.502415163062124
+2025.0,3.0,Aktivitetet e tjera sherbyese,OBILIQ,INDIVIDUAL,1.0,395.0,,False,False,False,False,False,False,False,2025-03,5.981414211254481
+2023.0,1.0,Industria perpunuese,PRIZREN,INDIVIDUAL,3.0,1551.26,,False,False,False,False,False,False,False,2023-01,7.347467212485484
+2020.0,7.0,Bujqesia;Pylltaria dhe Peshkimi,FERIZAJ,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2020-07,0.0
+2021.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,4.0,118025.1,,False,False,False,False,False,False,False,2021-02,11.678661065430363
+2025.0,3.0,Transporti dhe magazinimi,RAHOVEC,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2025-03,0.0
+2023.0,12.0,Informimi dhe komunikimi,PRISHTINË,KONSORCIUM,1.0,0.0,,False,False,False,False,False,False,False,2023-12,0.0
+2020.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,1.0,7485.89,,False,False,False,False,False,False,False,2020-05,8.920908769989724
+2024.0,6.0,Sherbimet administrative dhe mbeshtetese,SHTIME,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2024-06,0.0
+2021.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,INDIVIDUAL,5.0,25635.0,,False,False,False,False,False,False,False,2021-04,10.151752892624115
+2023.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,2.0,92186.8,,False,False,False,False,False,False,False,2023-04,11.43158307974827
+2023.0,5.0,Ndertimtaria,GLLOGOC,INDIVIDUAL,3.0,44912.44,,False,False,False,False,False,False,False,2023-05,10.712492360788058
+2025.0,3.0,Informimi dhe komunikimi,MITROVICË,SH.P.K.,8.0,93968.77,,False,False,False,False,False,False,False,2025-03,11.45072841378446
+2024.0,11.0,Industria perpunuese,RAHOVEC,SH.P.K.,2.0,15582.01,,False,False,False,False,False,False,False,2024-11,9.653936497170363
+2025.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MAMUSHË,SH.P.K.,1.0,46864.41,,False,False,False,False,False,False,False,2025-12,10.75503515567534
+2024.0,11.0,Industria perpunuese,GJAKOVË,SH.P.K.,2.0,25539.13,,False,False,False,False,False,False,False,2024-11,10.148006219628392
+2019.0,1.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",GJAKOVË,SHOQËRI AKCIONARE,1.0,93403.72,,False,False,False,False,False,False,False,2019-01,11.444697158271971
+2019.0,8.0,Industria nxjerrese,MITROVICË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2019-08,0.0
+2021.0,10.0,Transporti dhe magazinimi,VITI,SH.P.K.,1.0,1518.64,,False,False,False,False,False,False,False,2021-10,7.326228743683538
+2020.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",SKENDERAJ,SH.P.K.,1.0,736.0,,False,False,False,False,False,False,False,2020-06,6.602587892189336
+2025.0,3.0,Akomodimi dhe sherbimi ushqimor,KLINË,INDIVIDUAL,3.0,9537.97,,False,False,False,False,False,False,False,2025-03,9.163140792156511
+2022.0,5.0,Informimi dhe komunikimi,FERIZAJ,SH.P.K.,3.0,17763.89,,False,False,False,False,False,False,False,2022-05,9.784979316485494
+2020.0,8.0,Arsimi,PRISHTINË,ORTAKËRIA E PËRGJ.,1.0,0.0,,False,False,False,False,False,False,False,2020-08,0.0
+2025.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,1.0,29955.66,,False,False,False,False,False,False,False,2025-02,10.30750694944061
+2020.0,12.0,Industria perpunuese,KAMENICË,INDIVIDUAL,2.0,9705.09,,False,False,False,False,False,False,False,2020-12,9.180508802537048
+2022.0,2.0,Informimi dhe komunikimi,PRISHTINË,SH.P.K.,3.0,2182.88,,False,False,False,False,False,False,False,2022-02,7.688858390300316
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,SH.P.K.,11.0,328803.54,,False,False,False,False,False,False,False,2022-07,12.703218749854724
+2022.0,6.0,Industria perpunuese,VITI,ORTAKËRIA E PËRGJ.,1.0,0.0,,False,False,False,False,False,False,False,2022-06,0.0
+2021.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,259.0,1269057.97,,False,False,False,False,False,False,False,2021-09,14.053786215277992
+2020.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,SKENDERAJ,INDIVIDUAL,1.0,11577.26,,False,False,False,False,False,False,False,2020-02,9.356884480769605
+2024.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,INDIVIDUAL,1.0,18333.89,,False,False,False,False,False,False,False,2024-06,9.816561081032834
+2024.0,4.0,Akomodimi dhe sherbimi ushqimor,VUSHTRRI,INDIVIDUAL,4.0,6192.01,,False,False,False,False,False,False,False,2024-04,8.73117651566306
+2019.0,10.0,Ndertimtaria,LIPJAN,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2019-10,0.0
+2020.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,1.0,1520.71,,False,False,False,False,False,False,False,2020-02,7.327589981502031
+2020.0,7.0,Industria perpunuese,PODUJEVË,SH.P.K.,2.0,20341.84,,False,False,False,False,False,False,False,2020-07,9.920484286207715
+2019.0,3.0,Aktivitetet e patundshmerise,SUHAREKË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2019-03,0.0
+2025.0,5.0,Aktivitetet e tjera sherbyese,GRAÇANICË,SH.P.K.,1.0,2271.33,,False,False,False,False,False,False,False,2025-05,7.728561015772667
+2020.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,SH.P.K.,1.0,15095.18,,False,False,False,False,False,False,False,2020-04,9.622197010665694
+2024.0,4.0,Industria perpunuese,PEJË,INDIVIDUAL,2.0,38980.0,,False,False,False,False,False,False,False,2024-04,10.57082962691412
+2020.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,INDIVIDUAL,2.0,338640.94,,False,False,False,False,False,False,False,2020-01,12.73269860397594
+2024.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,INDIVIDUAL,1.0,45354.91,,False,False,False,False,False,False,False,2024-10,10.722295766787797
+2021.0,12.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,431340.22,,False,False,False,False,False,False,False,2021-12,12.974654749597205
+2025.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAÇANIK,INDIVIDUAL,1.0,7662.6,,False,False,False,False,False,False,False,2025-07,8.944237126221838
+2025.0,12.0,Administrimi publik dhe mbrojtja; Sigurimi social i detyrueshem,PRISHTINË,PROJEKT,1.0,0.0,,False,False,False,False,False,False,False,2025-12,0.0
+2019.0,12.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",PRISHTINË,SHOQËRI AKCIONARE,3.0,16041553.74,,False,False,False,False,False,False,False,2019-12,16.590693084633017
+2020.0,12.0,Transporti dhe magazinimi,FERIZAJ,INDIVIDUAL,38.0,4309520.36,,False,False,False,False,False,False,False,2020-12,15.27633740254878
+2022.0,10.0,Arsimi,VUSHTRRI,INDIVIDUAL,1.0,4720.0,,False,False,False,False,False,False,False,2022-10,8.459775920546287
+2020.0,10.0,Sherbimet administrative dhe mbeshtetese,PEJË,SH.P.K.,1.0,334.75,,False,False,False,False,False,False,False,2020-10,5.816366835403347
+2019.0,3.0,Ndertimtaria,KLINË,INDIVIDUAL,5.0,3441.45,,False,False,False,False,False,False,False,2019-03,8.14393870616908
+2023.0,12.0,Informimi dhe komunikimi,LEPOSAVIQ,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-12,0.0
+2023.0,11.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,FERIZAJ,SH.P.K.,10.0,60477.26,,False,False,False,False,False,False,False,2023-11,11.010039240598283
+2022.0,2.0,Industria perpunuese,PRISHTINË,SH.P.K.,24.0,370528.99,,False,False,False,False,False,False,False,2022-02,12.8226896651118
+2020.0,11.0,Ndertimtaria,DEÇAN,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-11,0.0
+2022.0,7.0,Ndertimtaria,SUHAREKË,INDIVIDUAL,9.0,49482.79,,False,False,False,False,False,False,False,2022-07,10.809400420177743
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2020-06,0.0
+2019.0,7.0,Ndertimtaria,PRIZREN,SH.P.K.,8.0,27996.2,,False,False,False,False,False,False,False,2019-07,10.239859784157009
+2019.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,OBILIQ,SH.P.K.,1.0,9153.21,,False,False,False,False,False,False,False,2019-02,9.121969161741362
+2019.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,INDIVIDUAL,3.0,5740.5,,False,False,False,False,False,False,False,2019-09,8.655475779216244
+2021.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,FUSHË KOSOVË,SH.P.K.,2.0,8268.5,,False,False,False,False,False,False,False,2021-02,9.020329326697848
+2025.0,1.0,Ndertimtaria,FUSHË KOSOVË,SH.P.K.,2.0,15255.66,,False,False,False,False,False,False,False,2025-01,9.632771408012037
+2021.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,42.0,783922.09,,False,False,False,False,False,False,False,2021-04,13.57206619503068
+2022.0,9.0,Ndertimtaria,MITROVICË VERIORE,SH.P.K.,5.0,71075.4,,False,False,False,False,False,False,False,2022-09,11.171510633827843
+2022.0,7.0,Industria perpunuese,PEJË,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2022-07,0.0
+2023.0,12.0,Aktivitetet e tjera sherbyese,PRIZREN,INDIVIDUAL,5.0,6216.0,,False,False,False,False,False,False,False,2023-12,8.735042754269337
+2024.0,6.0,Bujqesia;Pylltaria dhe Peshkimi,PODUJEVË,KOOPERATIVA BUJQ.,1.0,0.0,,False,False,False,False,False,False,False,2024-06,0.0
+2022.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,9.0,105628.68,,False,False,False,False,False,False,False,2022-11,11.567694671370226
+2022.0,4.0,Industria perpunuese,SUHAREKË,SH.P.K.,8.0,134997.35,,False,False,False,False,False,False,False,2022-04,11.813017835123652
+2021.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,NDËRMARRJE SHOQ.,1.0,3082.7,,False,False,False,False,False,False,False,2021-08,8.033885453686986
+2023.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,SH.P.K.,2.0,3903.09,,False,False,False,False,False,False,False,2023-06,8.269780000545948
+2019.0,4.0,Ndertimtaria,SKENDERAJ,INDIVIDUAL,3.0,7950.0,,False,False,False,False,False,False,False,2019-04,8.981052985901483
+2024.0,3.0,"Aktivitetet profesionale, shkencore dhe teknike",KAMENICË,INDIVIDUAL,7.0,26766.93,,False,False,False,False,False,False,False,2024-03,10.194959808160425
+2023.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,2.0,25833.0,,False,False,False,False,False,False,False,2023-09,10.15944673279196
+2025.0,11.0,Sherbimet administrative dhe mbeshtetese,PRISHTINË,SH.P.K.,2.0,23305.08,,False,False,False,False,False,False,False,2025-11,10.056469549719782
+2023.0,7.0,Transporti dhe magazinimi,LIPJAN,SH.P.K.,1.0,6373.62,,False,False,False,False,False,False,False,2023-07,8.760079760406871
+2022.0,9.0,Akomodimi dhe sherbimi ushqimor,LIPJAN,INDIVIDUAL,8.0,25812.43,,False,False,False,False,False,False,False,2022-09,10.158650178110047
+2024.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,2.0,23748.27,,False,False,False,False,False,False,False,2024-04,10.075307072148297
+2025.0,6.0,Industria perpunuese,FERIZAJ,SH.P.K.,2.0,3721.96,,False,False,False,False,False,False,False,2025-06,8.222274329791363
+2020.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,DEÇAN,SH.P.K.,1.0,48.81,,False,False,False,False,False,False,False,2020-10,3.908215767085192
+2023.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,SH.P.K.,1.0,94405.44,,False,False,False,False,False,False,False,2023-01,11.455364570145674
+2020.0,11.0,Aktivitetet e tjera sherbyese,GJAKOVË,ORTAKËRIA E PËRGJ.,1.0,11580.93,,False,False,False,False,False,False,False,2020-11,9.357201403906307
+2019.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,INDIVIDUAL,20.0,42349.58,,False,False,False,False,False,False,False,2019-09,10.653737395381931
+2024.0,1.0,Industria perpunuese,PRIZREN,SH.P.K.,2.0,7648.9,,False,False,False,False,False,False,False,2024-01,8.942447854839719
+2022.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,INDIVIDUAL,1.0,1893.5,,False,False,False,False,False,False,False,2022-03,7.546710230458656
+2025.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,INDIVIDUAL,1.0,6596.39,,False,False,False,False,False,False,False,2025-11,8.794429395256293
+2024.0,9.0,Ndertimtaria,PRISHTINË,KOMPANI E HUAJ,1.0,2180.0,,False,False,False,False,False,False,False,2024-09,7.687538766201629
+2025.0,7.0,Akomodimi dhe sherbimi ushqimor,SKENDERAJ,SH.P.K.,5.0,27528.39,,False,False,False,False,False,False,False,2025-07,10.223009440244963
+2022.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,SH.P.K.,4.0,51335.28,,False,False,False,False,False,False,False,2022-02,10.846152993677594
+2022.0,3.0,Sherbimet administrative dhe mbeshtetese,FERIZAJ,INDIVIDUAL,3.0,250.0,,False,False,False,False,False,False,False,2022-03,5.5254529391317835
+2022.0,5.0,Sherbimet administrative dhe mbeshtetese,VUSHTRRI,SHOQËRI AKCIONARE,1.0,70057.26,,False,False,False,False,False,False,False,2022-05,11.15708246058808
+2024.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,INDIVIDUAL,18.0,89284.74,,False,False,False,False,False,False,False,2024-12,11.399597067663183
+2025.0,6.0,Industria perpunuese,PEJË,INDIVIDUAL,1.0,5700.85,,False,False,False,False,False,False,False,2025-06,8.648545962567491
+2024.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,2.0,26650.08,,False,False,False,False,False,False,False,2024-10,10.190584954101192
+2020.0,8.0,Industria perpunuese,GJILAN,SH.P.K.,1.0,5318.0,,False,False,False,False,False,False,False,2020-08,8.579040594742317
+2024.0,3.0,Industria perpunuese,VUSHTRRI,SH.P.K.,12.0,163573.33,,False,False,False,False,False,False,False,2024-03,12.005022783749114
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,INDIVIDUAL,3.0,1471.7,,False,False,False,False,False,False,False,2019-12,7.294852729732116
+2021.0,12.0,Aktivitetet e tjera sherbyese,PRISHTINË,OJQ,3.0,821592.81,,False,False,False,False,False,False,False,2021-12,13.61900140348826
+2021.0,12.0,Industria perpunuese,PRIZREN,SH.P.K.,1.0,43327.63,,False,False,False,False,False,False,False,2021-12,10.676568896417349
+2024.0,11.0,Aktivitetet e patundshmerise,GJAKOVË,SH.P.K.,2.0,3453.09,,False,False,False,False,False,False,False,2024-11,8.147314315112954
+2025.0,9.0,Transporti dhe magazinimi,SUHAREKË,INDIVIDUAL,16.0,208103.78,,False,False,False,False,False,False,False,2025-09,12.24579698184402
+2024.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,DEÇAN,INDIVIDUAL,2.0,10169.17,,False,False,False,False,False,False,False,2024-08,9.227214204733771
+2019.0,9.0,"Artet, Argetimi dhe rekreacioni",MALISHEVË,INDIVIDUAL,8.0,9126.1,,False,False,False,False,False,False,False,2019-09,9.11900328895954
+2020.0,8.0,Administrimi publik dhe mbrojtja; Sigurimi social i detyrueshem,GRAÇANICË,SH.P.K.,1.0,3000.0,,False,False,False,False,False,False,False,2020-08,8.006700845440367
+2025.0,11.0,Informimi dhe komunikimi,PEJË,SH.P.K.,3.0,36131.91,,False,False,False,False,False,False,False,2025-11,10.494959363383783
+2022.0,9.0,Transporti dhe magazinimi,ZUBIN POTOK,INDIVIDUAL,1.0,5000.0,,False,False,False,False,False,False,False,2022-09,8.517393171418904
+2023.0,2.0,Arsimi,PEJË,SH.P.K.,1.0,64689.95,,False,False,False,False,False,False,False,2023-02,11.077376594352987
+2020.0,5.0,Ndertimtaria,VUSHTRRI,INDIVIDUAL,12.0,184501.76,,False,False,False,False,False,False,False,2020-05,12.125419701700425
+2022.0,1.0,Akomodimi dhe sherbimi ushqimor,MITROVICË,INDIVIDUAL,15.0,223023.12,,False,False,False,False,False,False,False,2022-01,12.315035206028208
+2021.0,4.0,"Aktivitetet profesionale, shkencore dhe teknike",VUSHTRRI,SH.P.K.,1.0,10768.56,,False,False,False,False,False,False,False,2021-04,9.28447891509118
+2020.0,11.0,"Aktivitetet profesionale, shkencore dhe teknike",PRISHTINË,ORTAKËRIA E PËRGJ.,2.0,0.0,,False,False,False,False,False,False,False,2020-11,0.0
+2023.0,5.0,"Aktivitetet profesionale, shkencore dhe teknike",GJAKOVË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2023-05,0.0
+2021.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,HANI I ELEZIT,SH.P.K.,1.0,320763.02,,False,False,False,False,False,False,False,2021-12,12.678460991577186
+2023.0,4.0,Arsimi,GJAKOVË,INDIVIDUAL,6.0,40172.88,,False,False,False,False,False,False,False,2023-04,10.600972312183512
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,14.0,119220.42,,False,False,False,False,False,False,False,2022-12,11.688737715456217
+2019.0,2.0,Transporti dhe magazinimi,FUSHË KOSOVË,SH.P.K.,11.0,226196.5,,False,False,False,False,False,False,False,2019-02,12.329163790436857
+2022.0,8.0,Informimi dhe komunikimi,PRISHTINË,SH.P.K.,4.0,0.0,,False,False,False,False,False,False,False,2022-08,0.0
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,19.0,419735.2,,False,False,False,False,False,False,False,2022-07,12.947381697687009
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,INDIVIDUAL,9.0,823179.02,,False,False,False,False,False,False,False,2020-06,13.620930192070402
+2025.0,1.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,PODUJEVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-01,0.0
+2022.0,4.0,"Aktivitetet profesionale, shkencore dhe teknike",LIPJAN,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2022-04,0.0
+2019.0,8.0,Industria perpunuese,PEJË,INDIVIDUAL,1.0,241.52,,False,False,False,False,False,False,False,2019-08,5.49108418120353
+2022.0,1.0,Bujqesia;Pylltaria dhe Peshkimi,NOVOBËRDË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2022-01,0.0
+2025.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,INDIVIDUAL,1.0,400.0,,False,False,False,False,False,False,False,2025-09,5.993961427306569
+2024.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,INDIVIDUAL,7.0,49942.44,,False,False,False,False,False,False,False,2024-12,10.818646444120654
+2022.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,INDIVIDUAL,4.0,52802.01,,False,False,False,False,False,False,False,2022-11,10.87432347564524
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,1.0,2725.0,,False,False,False,False,False,False,False,2020-06,7.910590612256477
+2024.0,3.0,Sherbimet administrative dhe mbeshtetese,PRIZREN,SH.P.K.,4.0,441000.0,,False,False,False,False,False,False,False,2024-03,12.996802422000108
+2021.0,8.0,Industria perpunuese,PRISHTINË,SH.P.K.,10.0,42246.63,,False,False,False,False,False,False,False,2021-08,10.651303536537398
+2021.0,9.0,Industria perpunuese,MITROVICË,INDIVIDUAL,3.0,7077.97,,False,False,False,False,False,False,False,2021-09,8.864883695878502
+2020.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,SH.P.K.,1.0,15647.85,,False,False,False,False,False,False,False,2020-12,9.658152710840218
+2025.0,4.0,Aktivitetet e tjera sherbyese,FERIZAJ,INDIVIDUAL,2.0,27412.09,,False,False,False,False,False,False,False,2025-04,10.218775915522343
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,DEÇAN,INDIVIDUAL,1.0,5751.91,,False,False,False,False,False,False,False,2022-12,8.657461092729104
+2022.0,6.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,RAHOVEC,INDIVIDUAL,4.0,11421.85,,False,False,False,False,False,False,False,2022-06,9.343371014246172
+2025.0,12.0,Ndertimtaria,PRIZREN,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-12,0.0
+2019.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,3.0,340.68,,False,False,False,False,False,False,False,2019-04,5.833874626533211
+2019.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAMENICË,INDIVIDUAL,1.0,9984.19,,False,False,False,False,False,False,False,2019-04,9.20885827421169
+2019.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,SH.P.K.,3.0,124499.33,,False,False,False,False,False,False,False,2019-11,11.732063645485796
+2021.0,4.0,Informimi dhe komunikimi,GLLOGOC,SH.P.K.,1.0,3490.72,,False,False,False,False,False,False,False,2021-04,8.158149730468583
+2021.0,11.0,Ndertimtaria,SHTIME,SH.P.K.,1.0,12977.25,,False,False,False,False,False,False,False,2021-11,9.471030158364355
+2020.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,INDIVIDUAL,1.0,2102.1,,False,False,False,False,False,False,False,2020-12,7.651167725689633
+2022.0,3.0,Person Fizik,FUSHË KOSOVË,PERSON FIZIK,60.0,811913.22,,False,False,False,False,False,False,False,2022-03,13.607149973169388
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,INDIVIDUAL,1.0,1391.0,,False,False,False,False,False,False,False,2023-03,7.238496840894365
+2025.0,10.0,Industria perpunuese,ISTOG,INDIVIDUAL,1.0,25884.21,,False,False,False,False,False,False,False,2025-10,10.161427042109738
+2024.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,16.0,189954.52,,False,False,False,False,False,False,False,2024-10,12.15454521847255
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,INDIVIDUAL,1.0,700.0,,False,False,False,False,False,False,False,2020-06,6.55250788703459
+2019.0,8.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,GJAKOVË,OJQ,1.0,883.94,,False,False,False,False,False,False,False,2019-08,6.785519846099466
+2021.0,7.0,Industria perpunuese,MITROVICË VERIORE,INDIVIDUAL,2.0,357.28,,False,False,False,False,False,False,False,2021-07,5.881314803606995
+2022.0,5.0,Bujqesia;Pylltaria dhe Peshkimi,KLINË,INDIVIDUAL,2.0,49687.64,,False,False,False,False,False,False,False,2022-05,10.81353161452972
+2022.0,12.0,"Aktivitetet profesionale, shkencore dhe teknike",GJAKOVË,INDIVIDUAL,6.0,8640.0,,False,False,False,False,False,False,False,2022-12,9.0642735958414
+2019.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,INDIVIDUAL,4.0,23668.63,,False,False,False,False,False,False,False,2019-05,10.071948070784671
+2025.0,1.0,Transporti dhe magazinimi,MITROVICË,INDIVIDUAL,3.0,45616.99,,False,False,False,False,False,False,False,2025-01,10.728057435244754
+2020.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,PODUJEVË,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2020-02,0.0
+2022.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,46.0,530854.59,,False,False,False,False,False,False,False,2022-02,13.1822453046679
+2022.0,6.0,"Artet, Argetimi dhe rekreacioni",ISTOG,INDIVIDUAL,6.0,3282.0,,False,False,False,False,False,False,False,2022-06,8.096512917501594
+2021.0,6.0,"Artet, Argetimi dhe rekreacioni",GLLOGOC,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2021-06,0.0
+2023.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAÇANIK,SH.P.K.,1.0,6900.0,,False,False,False,False,False,False,False,2023-05,8.839421607620602
+2021.0,1.0,"Aktivitetet profesionale, shkencore dhe teknike",GJAKOVË,SH.P.K.,1.0,3055.93,,False,False,False,False,False,False,False,2021-01,8.025166423362391
+2022.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,SH.P.K.,3.0,2606012.24,,False,False,False,False,False,False,False,2022-04,14.77333211723729
+2024.0,3.0,Bujqesia;Pylltaria dhe Peshkimi,GJILAN,SH.P.K.,3.0,0.0,,False,False,False,False,False,False,False,2024-03,0.0
+2025.0,1.0,Informimi dhe komunikimi,PRISHTINË,INDIVIDUAL,6.0,35877.09,,False,False,False,False,False,False,False,2025-01,10.48788208175692
+2021.0,9.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,LIPJAN,INDIVIDUAL,13.0,68029.89,,False,False,False,False,False,False,False,2021-09,11.12771714571715
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,ORTAKËRIA E PËRGJ.,2.0,1581365.62,,False,False,False,False,False,False,False,2022-12,14.273799980517095
+2019.0,8.0,Mungon aktiviteti,PRIZREN,ORGANIZATA BUXHETORE,1.0,0.0,,False,False,False,False,False,False,False,2019-08,0.0
+2024.0,6.0,Bujqesia;Pylltaria dhe Peshkimi,GLLOGOC,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2024-06,0.0
+2019.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,INDIVIDUAL,48.0,45844.61,,False,False,False,False,False,False,False,2019-03,10.733034726099485
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SHTIME,INDIVIDUAL,49.0,99373.84,,False,False,False,False,False,False,False,2020-06,11.506654241892443
+2021.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,5.0,750077.22,,False,False,False,False,False,False,False,2021-05,13.527932773407654
+2020.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VITI,INDIVIDUAL,3.0,4245.76,,False,False,False,False,False,False,False,2020-08,8.35391161823851
+2025.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,SH.P.K.,1.0,60656.1,,False,False,False,False,False,False,False,2025-03,11.012991972648392
+2023.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,2.0,224254.58,,False,False,False,False,False,False,False,2023-01,12.32054166255461
+2019.0,10.0,Aktivitetet e patundshmerise,SHTIME,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2019-10,0.0
+2020.0,8.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",GJAKOVË,SHOQËRI AKCIONARE,1.0,673.28,,False,False,False,False,False,False,False,2020-08,6.5136454549121074
+2021.0,6.0,"Artet, Argetimi dhe rekreacioni",FERIZAJ,INDIVIDUAL,3.0,1000.8,,False,False,False,False,False,False,False,2021-06,6.909553660923517
+2022.0,7.0,Industria perpunuese,PODUJEVË,INDIVIDUAL,3.0,6202.55,,False,False,False,False,False,False,False,2022-07,8.732876987816592
+2019.0,3.0,Industria perpunuese,KLINË,SH.P.K.,1.0,1593.94,,False,False,False,False,False,False,False,2019-03,7.374591396956528
+2025.0,12.0,Ndertimtaria,GJAKOVË,INDIVIDUAL,1.0,6560.0,,False,False,False,False,False,False,False,2025-12,8.788898309344878
+2019.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,INDIVIDUAL,1.0,25434.85,,False,False,False,False,False,False,False,2019-08,10.14391487521627
+2023.0,11.0,Arsimi,VITI,INDIVIDUAL,1.0,8400.0,,False,False,False,False,False,False,False,2023-11,9.036106025364846
+2019.0,2.0,Industria perpunuese,PRIZREN,SH.P.K.,6.0,2955888.98,,False,False,False,False,False,False,False,2019-02,14.89931034114242
+2020.0,7.0,Industria perpunuese,KLINË,SH.P.K.,1.0,11865.0,,False,False,False,False,False,False,False,2020-07,9.381432446818588
+2024.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,2.0,4628.3,,False,False,False,False,False,False,False,2024-03,8.44016094774527
+2025.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,INDIVIDUAL,10.0,215512.09,,False,False,False,False,False,False,False,2025-10,12.280776929140588
+2022.0,6.0,Industria perpunuese,FERIZAJ,INDIVIDUAL,52.0,299266.85,,False,False,False,False,False,False,False,2022-06,12.60909427076409
+2020.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,INDIVIDUAL,4.0,14698.17,,False,False,False,False,False,False,False,2020-07,9.59554630858772
+2023.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,SH.P.K.,3.0,16062.51,,False,False,False,False,False,False,False,2023-06,9.68430551903818
+2019.0,2.0,Arsimi,GJILAN,SH.P.K.,3.0,11805.05,,False,False,False,False,False,False,False,2019-02,9.376367390926344
+2020.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,9.0,431819.01,,False,False,False,False,False,False,False,2020-03,12.975764136887705
+2024.0,7.0,"Artet, Argetimi dhe rekreacioni",FERIZAJ,INDIVIDUAL,2.0,391914.13,,False,False,False,False,False,False,False,2024-07,12.878800590229943
+2020.0,5.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,2.0,311.47,,False,False,False,False,False,False,False,2020-05,5.744508464568161
+2023.0,8.0,Industria perpunuese,RAHOVEC,SH.P.K.,1.0,5503.79,,False,False,False,False,False,False,False,2023-08,8.613373901290196
+2019.0,3.0,Ndertimtaria,SUHAREKË,INDIVIDUAL,3.0,5010.74,,False,False,False,False,False,False,False,2019-03,8.519538439171576
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,INDIVIDUAL,3.0,5444.0,,False,False,False,False,False,False,False,2022-12,8.602453035367061
+2022.0,1.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,MITROVICË,SHOQËRI AKCIONARE,1.0,141267.96,,False,False,False,False,False,False,False,2022-01,11.85842087008913
+2020.0,9.0,"Aktivitetet profesionale, shkencore dhe teknike",PEJË,INDIVIDUAL,83.0,168465.58,,False,False,False,False,False,False,False,2020-09,12.034492670823983
+2024.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,3.0,9205.05,,False,False,False,False,False,False,False,2024-02,9.127616155602931
+2022.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,INDIVIDUAL,4.0,122662.59,,False,False,False,False,False,False,False,2022-08,11.717200846646673
+2020.0,12.0,"Artet, Argetimi dhe rekreacioni",FERIZAJ,OJQ,2.0,47571.39,,False,False,False,False,False,False,False,2020-12,10.770007829913254
+2025.0,12.0,Industria perpunuese,PRIZREN,SH.P.K.,4.0,35413.81,,False,False,False,False,False,False,False,2025-12,10.47488537321498
+2020.0,9.0,Bujqesia;Pylltaria dhe Peshkimi,FUSHË KOSOVË,INDIVIDUAL,3.0,0.0,,False,False,False,False,False,False,False,2020-09,0.0
+2021.0,12.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,VITI,INDIVIDUAL,6.0,40506.44,,False,False,False,False,False,False,False,2021-12,10.609240939926876
+2019.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,45.0,687635.63,,False,False,False,False,False,False,False,2019-10,13.441015823323225
+2025.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,SH.P.K.,8.0,172103.26,,False,False,False,False,False,False,False,2025-06,12.055855734943831
+2019.0,7.0,Industria perpunuese,VUSHTRRI,SH.P.K.,3.0,292152.22,,False,False,False,False,False,False,False,2019-07,12.585033669657252
+2020.0,6.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,GJILAN,ORTAKËRIA E PËRGJ.,1.0,4302.55,,False,False,False,False,False,False,False,2020-06,8.367195542472134
+2025.0,7.0,"Artet, Argetimi dhe rekreacioni",VITI,SH.P.K.,1.0,181068.94,,False,False,False,False,False,False,False,2025-07,12.106638644451072
+2024.0,11.0,Akomodimi dhe sherbimi ushqimor,VUSHTRRI,INDIVIDUAL,2.0,8002.45,,False,False,False,False,False,False,False,2024-11,8.987627977700416
+2020.0,1.0,Ndertimtaria,PRISHTINË,INDIVIDUAL,22.0,72523.6,,False,False,False,False,False,False,False,2020-01,11.191681093634855
+2025.0,10.0,Industria perpunuese,PRISHTINË,SH.P.K.,1.0,1386.34,,False,False,False,False,False,False,False,2025-10,7.235143523655952
+2024.0,9.0,Industria perpunuese,SKENDERAJ,INDIVIDUAL,1.0,3303.4,,False,False,False,False,False,False,False,2024-09,8.10301019268835
+2019.0,9.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,1.0,2500.0,,False,False,False,False,False,False,False,2019-09,7.824445930877619
+2021.0,6.0,Industria perpunuese,FERIZAJ,SH.P.K.,2.0,27835.9,,False,False,False,False,False,False,False,2021-06,10.234117757673708
+2022.0,7.0,Arsimi,PRISHTINË,INDIVIDUAL,8.0,9992.59,,False,False,False,False,False,False,False,2022-07,9.20969916644785
+2022.0,7.0,Informimi dhe komunikimi,PRISHTINË,INDIVIDUAL,5.0,12190.0,,False,False,False,False,False,False,False,2022-07,9.408453253565146
+2020.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,SH.P.K.,5.0,53006.99,,False,False,False,False,False,False,False,2020-07,10.87819793588889
+2024.0,10.0,Ndertimtaria,PRISHTINË,DEGA E SHOQËRISË SË HUAJ,1.0,0.0,,False,False,False,False,False,False,False,2024-10,0.0
+2020.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,SH.P.K.,3.0,70429.51,,False,False,False,False,False,False,False,2020-10,11.162381828945668
+2019.0,2.0,Industria perpunuese,MITROVICË VERIORE,SH.P.K.,1.0,4699.55,,False,False,False,False,False,False,False,2019-02,8.45543480212829
+2021.0,12.0,Bujqesia;Pylltaria dhe Peshkimi,PEJË,INDIVIDUAL,14.0,0.0,,False,False,False,False,False,False,False,2021-12,0.0
+2024.0,10.0,Person Fizik,LIPJAN,PERSON FIZIK,2.0,103904.23,,False,False,False,False,False,False,False,2024-10,11.551234512682829
+2022.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",ISTOG,INDIVIDUAL,3.0,5574.0,,False,False,False,False,False,False,False,2022-06,8.62604759632832
+2025.0,12.0,"Artet, Argetimi dhe rekreacioni",PRISHTINË,INDIVIDUAL,6.0,19085.74,,False,False,False,False,False,False,False,2025-12,9.856749132100262
+2021.0,8.0,Ndertimtaria,PEJË,INDIVIDUAL,3.0,5915.25,,False,False,False,False,False,False,False,2021-08,8.685458081220458
+2022.0,3.0,Aktivitetet e tjera sherbyese,GJILAN,INDIVIDUAL,3.0,929.0,,False,False,False,False,False,False,False,2022-03,6.835184586147301
+2022.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",SUHAREKË,INDIVIDUAL,14.0,46039.3,,False,False,False,False,False,False,False,2022-06,10.73727237888757
+2023.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,INDIVIDUAL,7.0,25430.65,,False,False,False,False,False,False,False,2023-05,10.143749740306571
+2025.0,2.0,Sherbimet administrative dhe mbeshtetese,KLINË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-02,0.0
+2019.0,8.0,Ndertimtaria,PRIZREN,SH.P.K.,2.0,2198.81,,False,False,False,False,False,False,False,2019-08,7.69612627198049
+2025.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,INDIVIDUAL,6.0,142958.64,,False,False,False,False,False,False,False,2025-01,11.870317631643234
+2025.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SKENDERAJ,SH.P.K.,1.0,1247.75,,False,False,False,False,False,False,False,2025-02,7.129898329962764
+2025.0,8.0,Industria perpunuese,ZUBIN POTOK,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-08,0.0
+2025.0,8.0,Sherbimet administrative dhe mbeshtetese,ISTOG,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2025-08,0.0
+2023.0,1.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",FUSHË KOSOVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-01,0.0
+2021.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,14.0,614952.09,,False,False,False,False,False,False,False,2021-06,13.329301267456696
+2023.0,4.0,Industria perpunuese,GJILAN,INDIVIDUAL,1.0,7385.61,,False,False,False,False,False,False,False,2023-04,8.90742418068354
+2019.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAMENICË,INDIVIDUAL,1.0,873.62,,False,False,False,False,False,False,False,2019-01,6.773789506313976
+2021.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,SH.P.K.,3.0,30453.81,,False,False,False,False,False,False,False,2021-09,10.32399922453827
+2021.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,SH.P.K.,5.0,412241.91,,False,False,False,False,False,False,False,2021-05,12.929368041971951
+2025.0,3.0,Industria perpunuese,PRIZREN,SH.P.K.,6.0,217517.44,,False,False,False,False,False,False,False,2025-03,12.290038907526316
+2021.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,SH.P.K.,1.0,2809.32,,False,False,False,False,False,False,False,2021-01,7.941053634847629
+2023.0,10.0,Transporti dhe magazinimi,PEJË,INDIVIDUAL,1.0,3364.4,,False,False,False,False,False,False,False,2023-10,8.121302105742346
+2023.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË VERIORE,SH.P.K.,1.0,26766.81,,False,False,False,False,False,False,False,2023-02,10.194955325173918
+2020.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,SH.P.K.,1.0,14669.87,,False,False,False,False,False,False,False,2020-10,9.593619174082049
+2022.0,11.0,Industria perpunuese,GLLOGOC,SH.P.K.,2.0,93122.03,,False,False,False,False,False,False,False,2022-11,11.441676801095689
+2023.0,9.0,Sherbimet administrative dhe mbeshtetese,PRIZREN,INDIVIDUAL,14.0,32484.25,,False,False,False,False,False,False,False,2023-09,10.388541419144646
+2021.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,INDIVIDUAL,5.0,59969.02,,False,False,False,False,False,False,False,2021-04,11.001600049662583
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2022-07,0.0
+2025.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLLOKOT,INDIVIDUAL,1.0,3850.0,,False,False,False,False,False,False,False,2025-03,8.25608813381491
+2019.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,INDIVIDUAL,1.0,1723.08,,False,False,False,False,False,False,False,2019-09,7.452448853859316
+2022.0,4.0,Industria nxjerrese,PEJË,INDIVIDUAL,1.0,5966.1,,False,False,False,False,False,False,False,2022-04,8.694016326221943
+2020.0,9.0,Aktivitetet financiare dhe te sigurimit,VUSHTRRI,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-09,0.0
+2023.0,3.0,Industria perpunuese,FUSHË KOSOVË,SH.P.K.,4.0,12820.42,,False,False,False,False,False,False,False,2023-03,9.458872488771313
+2020.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,26.0,142243.46,,False,False,False,False,False,False,False,2020-02,11.865302405711727
+2022.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,INDIVIDUAL,7.0,405653.15,,False,False,False,False,False,False,False,2022-05,12.913256228265148
+2023.0,12.0,Person Fizik,RAHOVEC,PERSON FIZIK,37.0,144424.13,,False,False,False,False,False,False,False,2023-12,11.88051652077023
+2022.0,6.0,Aktivitetet e patundshmerise,DEÇAN,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2022-06,0.0
+2025.0,9.0,Transporti dhe magazinimi,ISTOG,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2025-09,0.0
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,HANI I ELEZIT,INDIVIDUAL,1.0,6268.25,,False,False,False,False,False,False,False,2023-03,8.743412009247375
+2025.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,INDIVIDUAL,9.0,13428.75,,False,False,False,False,False,False,False,2025-02,9.505227674303068
+2025.0,10.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,GRAÇANICË,SH.P.K.,2.0,153955.0,,False,False,False,False,False,False,False,2025-10,11.94442212628595
+2022.0,9.0,Aktivitetet e patundshmerise,PRISHTINË,INDIVIDUAL,42.0,22271.77,,False,False,False,False,False,False,False,2022-09,10.011120135094
+2022.0,9.0,"Artet, Argetimi dhe rekreacioni",PRISHTINË,SH.P.K.,41.0,203347.59,,False,False,False,False,False,False,False,2022-09,12.222676977453451
+2024.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,INDIVIDUAL,1.0,25124.89,,False,False,False,False,False,False,False,2024-03,10.131654067619571
+2021.0,12.0,Bujqesia;Pylltaria dhe Peshkimi,GJILAN,SH.P.K.,2.0,16742.95,,False,False,False,False,False,False,False,2021-12,9.725792277977089
+2022.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,1.0,166653.93,,False,False,False,False,False,False,False,2022-05,12.023680666256617
+2024.0,5.0,Industria perpunuese,PRISHTINË,SH.P.K.,1.0,20508.47,,False,False,False,False,False,False,False,2024-05,9.928642009679397
+2019.0,9.0,Aktivitetet e tjera sherbyese,GJAKOVË,SH.P.K.,1.0,298.0,,False,False,False,False,False,False,False,2019-09,5.700443573390687
+2024.0,5.0,Industria perpunuese,GLLOGOC,SH.P.K.,1.0,5155.29,,False,False,False,False,False,False,False,2024-05,8.547972607628658
+2023.0,2.0,Informimi dhe komunikimi,PRISHTINË,SHOQËRI AKCIONARE,3.0,253286.76,,False,False,False,False,False,False,False,2023-02,12.442281512674564
+2022.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ZVEÇAN,INDIVIDUAL,2.0,4311.92,,False,False,False,False,False,False,False,2022-03,8.369370447901737
+2025.0,5.0,Industria perpunuese,GJAKOVË,SH.P.K.,9.0,131423.58,,False,False,False,False,False,False,False,2025-05,11.786188429943529
+2021.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,SH.P.K.,3.0,48804.07,,False,False,False,False,False,False,False,2021-03,10.795589479887312
+2020.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË VERIORE,SH.P.K.,1.0,900.0,,False,False,False,False,False,False,False,2020-08,6.803505257608338
+2025.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",GRAÇANICË,SH.P.K.,4.0,72398.78,,False,False,False,False,False,False,False,2025-06,11.18995853969516
+2021.0,3.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,1.0,12787.28,,False,False,False,False,False,False,False,2021-03,9.456284405467086
+2023.0,2.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,MITROVICË,INDIVIDUAL,2.0,1653.81,,False,False,False,False,False,False,False,2023-02,7.411441477595344
+2023.0,11.0,Informimi dhe komunikimi,MITROVICË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-11,0.0
+2022.0,12.0,Industria perpunuese,LIPJAN,SH.P.K.,8.0,211094.15,,False,False,False,False,False,False,False,2022-12,12.26006425867907
+2019.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,INDIVIDUAL,1.0,1291.0,,False,False,False,False,False,False,False,2019-02,7.163946684342547
+2021.0,11.0,Sherbimet administrative dhe mbeshtetese,PRISHTINË,INDIVIDUAL,7.0,15593.9,,False,False,False,False,False,False,False,2021-11,9.654699216709709
+2020.0,7.0,Ndertimtaria,KAÇANIK,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-07,0.0
+2024.0,8.0,Ndertimtaria,FERIZAJ,SH.P.K.,22.0,618278.7,,False,False,False,False,False,False,False,2024-08,13.334696223049084
+2022.0,4.0,Akomodimi dhe sherbimi ushqimor,FERIZAJ,INDIVIDUAL,1.0,9118.64,,False,False,False,False,False,False,False,2022-04,9.11818560860506
+2020.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VITI,INDIVIDUAL,3.0,52275.62,,False,False,False,False,False,False,False,2020-05,10.864304513773616
+2025.0,12.0,Ndertimtaria,PRISHTINË,KOMPANI E HUAJ,1.0,175175.54,,False,False,False,False,False,False,False,2025-12,12.073549544408884
+2025.0,5.0,Ndertimtaria,PRISHTINË,DEGA E SHOQËRISË SË HUAJ,1.0,0.0,,False,False,False,False,False,False,False,2025-05,0.0
+2023.0,12.0,Akomodimi dhe sherbimi ushqimor,MITROVICË,SH.P.K.,36.0,686630.05,,False,False,False,False,False,False,False,2023-12,13.439552381820375
+2023.0,11.0,Industria perpunuese,GJILAN,INDIVIDUAL,1.0,1317.0,,False,False,False,False,False,False,False,2023-11,7.183870715062453
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,SH.P.K.,2.0,2213775.02,,False,False,False,False,False,False,False,2023-03,14.61021022182151
+2024.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,INDIVIDUAL,2.0,134945.94,,False,False,False,False,False,False,False,2024-10,11.812636943124229
+2021.0,10.0,Informimi dhe komunikimi,PRISHTINË,SH.P.K.,4.0,193963.44,,False,False,False,False,False,False,False,2021-10,12.175430122275085
+2021.0,12.0,Industria perpunuese,GJAKOVË,INDIVIDUAL,3.0,13633.0,,False,False,False,False,False,False,False,2021-12,9.52032195192273
+2019.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,13771.44,,False,False,False,False,False,False,False,2019-09,9.530424772829848
+2020.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VITI,INDIVIDUAL,4.0,28924.86,,False,False,False,False,False,False,False,2020-02,10.272491283685577
+2019.0,2.0,Ndertimtaria,GLLOGOC,SH.P.K.,2.0,29739.82,,False,False,False,False,False,False,False,2019-02,10.300275791927245
+2022.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,INDIVIDUAL,1.0,13029.68,,False,False,False,False,False,False,False,2022-04,9.475061856017351
+2024.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,ORTAKËRIA E PËRGJ.,1.0,184314.36,,False,False,False,False,False,False,False,2024-11,12.124403482561693
+2025.0,9.0,"Artet, Argetimi dhe rekreacioni",KAMENICË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-09,0.0
+2021.0,2.0,Akomodimi dhe sherbimi ushqimor,SHTËRPCË,SH.P.K.,3.0,28089.0,,False,False,False,False,False,False,False,2021-02,10.24316892009829
+2024.0,10.0,Arsimi,VITI,INDIVIDUAL,1.0,1322.04,,False,False,False,False,False,False,False,2024-10,7.187687397973857
+2025.0,5.0,Sherbimet administrative dhe mbeshtetese,PRISHTINË,SH.P.K.,12.0,350525.17,,False,False,False,False,False,False,False,2025-05,12.767190647434129
+2019.0,4.0,"Aktivitetet profesionale, shkencore dhe teknike",PRISHTINË,KOMPANI E HUAJ,1.0,5103.77,,False,False,False,False,False,False,False,2019-04,8.537930675715053
+2021.0,11.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,GLLOGOC,SH.P.K.,2.0,352084.86,,False,False,False,False,False,False,False,2021-11,12.771630345291022
+2025.0,10.0,"Aktivitetet profesionale, shkencore dhe teknike",GJAKOVË,SH.P.K.,2.0,56217.52,,False,False,False,False,False,False,False,2025-10,10.937001518962818
+2020.0,9.0,Aktivitetet e tjera sherbyese,DEÇAN,INDIVIDUAL,4.0,5315.16,,False,False,False,False,False,False,False,2020-09,8.578506517198115
+2023.0,4.0,Akomodimi dhe sherbimi ushqimor,PEJË,INDIVIDUAL,3.0,62914.82,,False,False,False,False,False,False,False,2023-04,11.049552921398972
+2022.0,1.0,Industria perpunuese,PRIZREN,INDIVIDUAL,2.0,2773.72,,False,False,False,False,False,False,False,2022-01,7.928305120188796
+2020.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,INDIVIDUAL,1.0,2542.37,,False,False,False,False,False,False,False,2020-12,7.841245252282357
+2019.0,12.0,Industria perpunuese,LIPJAN,ORTAKËRIA E PËRGJ.,2.0,0.0,,False,False,False,False,False,False,False,2019-12,0.0
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,5.0,147667.54,,False,False,False,False,False,False,False,2023-03,11.902725446508942
+2025.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SHTËRPCË,SH.P.K.,6.0,228451.25,,False,False,False,False,False,False,False,2025-09,12.339082495925188
+2024.0,3.0,Aktivitetet e tjera sherbyese,LIPJAN,SH.P.K.,1.0,756.5,,False,False,False,False,False,False,False,2024-03,6.630023537383524
+2020.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAMENICË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2020-01,0.0
+2021.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,1.0,7750.0,,False,False,False,False,False,False,False,2021-04,8.955577146281511
+2020.0,2.0,Ndertimtaria,PRIZREN,INDIVIDUAL,3.0,67921.82,,False,False,False,False,False,False,False,2020-02,11.12612733955795
+2023.0,5.0,Sherbimet administrative dhe mbeshtetese,RAHOVEC,SH.P.K.,1.0,6676.0,,False,False,False,False,False,False,False,2023-05,8.806424063857868
+2021.0,8.0,Bujqesia;Pylltaria dhe Peshkimi,GJAKOVË,SH.P.K.,1.0,986.5,,False,False,False,False,False,False,False,2021-08,6.895176496775277
+2025.0,9.0,Industria perpunuese,SKENDERAJ,INDIVIDUAL,1.0,2375.0,,False,False,False,False,False,False,False,2025-09,7.773173680482536
+2023.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,SH.P.K.,1.0,1246.65,,False,False,False,False,False,False,False,2023-09,7.129017060878328
+2019.0,9.0,Transporti dhe magazinimi,FUSHË KOSOVË,SH.P.K.,4.0,55064.94,,False,False,False,False,False,False,False,2019-09,10.916286655187928
+2022.0,6.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,PRIZREN,INDIVIDUAL,1.0,7030.0,,False,False,False,False,False,False,False,2022-06,8.858084222199162
+2023.0,6.0,Industria perpunuese,PARTESH,INDIVIDUAL,1.0,688.0,,False,False,False,False,False,False,False,2023-06,6.535241271013659
+2024.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,1.0,1890.0,,False,False,False,False,False,False,False,2024-01,7.544861068658458
+2021.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,1.0,22140.68,,False,False,False,False,False,False,False,2021-02,10.005217084142636
+2025.0,3.0,Transporti dhe magazinimi,VUSHTRRI,SH.P.K.,1.0,18150.0,,False,False,False,False,False,False,False,2025-03,9.806480934593978
+2025.0,3.0,Aktivitetet e tjera sherbyese,FERIZAJ,SH.P.K.,11.0,12208.12,,False,False,False,False,False,False,False,2025-03,9.409938492435362
+2019.0,12.0,"Aktivitetet profesionale, shkencore dhe teknike",SKENDERAJ,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2019-12,0.0
+2025.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,8.0,450644.85,,False,False,False,False,False,False,False,2025-08,13.018437055021703
+2025.0,9.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",GJAKOVË,SH.P.K.,1.0,83361.8,,False,False,False,False,False,False,False,2025-09,11.330957445674526
+2021.0,5.0,Ndertimtaria,SUHAREKË,SH.P.K.,14.0,100949.76,,False,False,False,False,False,False,False,2021-05,11.52238815219209
+2024.0,7.0,Informimi dhe komunikimi,PRISHTINË,SH.P.K.,113.0,3489883.53,,False,False,False,False,False,False,False,2024-07,15.065379207671372
+2022.0,2.0,"Artet, Argetimi dhe rekreacioni",LIPJAN,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2022-02,0.0
+2022.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,SH.P.K.,6.0,79066.91,,False,False,False,False,False,False,False,2022-02,11.278062382440435
+2024.0,6.0,Ndertimtaria,GLLOGOC,SH.P.K.,7.0,7997.46,,False,False,False,False,False,False,False,2024-06,8.98700430213147
+2020.0,9.0,Industria perpunuese,SHTIME,SH.P.K.,1.0,356283.85,,False,False,False,False,False,False,False,2020-09,12.78348583034189
+2020.0,12.0,Industria perpunuese,PODUJEVË,SH.P.K.,2.0,65081.54,,False,False,False,False,False,False,False,2020-12,11.08341158945889
+2020.0,4.0,Industria perpunuese,FERIZAJ,INDIVIDUAL,1.0,3459.32,,False,False,False,False,False,False,False,2020-04,8.149116349324379
+2021.0,12.0,Informimi dhe komunikimi,KLINË,INDIVIDUAL,1.0,250.0,,False,False,False,False,False,False,False,2021-12,5.5254529391317835
+2020.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,4.0,44599.08,,False,False,False,False,False,False,False,2020-10,10.70549093172852
+2024.0,9.0,Aktivitetet e tjera sherbyese,SKENDERAJ,INDIVIDUAL,1.0,3885.0,,False,False,False,False,False,False,False,2024-09,8.265135629937385
+2020.0,9.0,Aktivitetet e tjera sherbyese,VITI,INDIVIDUAL,2.0,400.0,,False,False,False,False,False,False,False,2020-09,5.993961427306569
+2025.0,6.0,Mungon aktiviteti,RAHOVEC,OJQ,4.0,0.0,,False,False,False,False,False,False,False,2025-06,0.0
+2022.0,9.0,Informimi dhe komunikimi,GJAKOVË,SH.P.K.,7.0,170417.78,,False,False,False,False,False,False,False,2022-09,12.046014098572142
+2022.0,12.0,Ndertimtaria,MITROVICË,SH.P.K.,57.0,5545667.36,,False,False,False,False,False,False,False,2022-12,15.528527705317234
+2021.0,8.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,LIPJAN,TJETER,1.0,0.0,,False,False,False,False,False,False,False,2021-08,0.0
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,SH.P.K.,2.0,11452.45,,False,False,False,False,False,False,False,2020-06,9.3460462736413
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SHTIME,SH.P.K.,2.0,362326.2,,False,False,False,False,False,False,False,2022-07,12.80030294996906
+2020.0,10.0,Industria perpunuese,PRISHTINË,SH.P.K.,2.0,2604.0,,False,False,False,False,False,False,False,2020-10,7.865187954187467
+2020.0,2.0,Aktivitetet financiare dhe te sigurimit,GJAKOVË,NDËRMARRJE NËN MENAXHIM TË AKP-SË,1.0,10423.36,,False,False,False,False,False,False,False,2020-02,9.251900653895214
+2025.0,10.0,Industria perpunuese,VUSHTRRI,INDIVIDUAL,2.0,14055.13,,False,False,False,False,False,False,False,2025-10,9.550813878543572
+2025.0,8.0,Bujqesia;Pylltaria dhe Peshkimi,MALISHEVË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2025-08,0.0
+2024.0,6.0,Sherbimet administrative dhe mbeshtetese,ISTOG,KOMPANI E HUAJ,1.0,10610.0,,False,False,False,False,False,False,False,2024-06,9.269646477873591
+2025.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,INDIVIDUAL,1.0,34316.33,,False,False,False,False,False,False,False,2025-10,10.443405753372742
+2023.0,6.0,Industria perpunuese,GRAÇANICË,SH.P.K.,1.0,126285.34,,False,False,False,False,False,False,False,2023-06,11.746307147303323
+2024.0,3.0,Ndertimtaria,GLLOGOC,SH.P.K.,3.0,59392.0,,False,False,False,False,False,False,False,2024-03,10.99193165328861
+2020.0,2.0,Industria perpunuese,FERIZAJ,ORTAKËRIA E PËRGJ.,1.0,0.0,,False,False,False,False,False,False,False,2020-02,0.0
+2023.0,12.0,Aktivitetet e tjera sherbyese,PODUJEVË,INDIVIDUAL,3.0,3152.0,,False,False,False,False,False,False,False,2023-12,8.056109659545061
+2020.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,INDIVIDUAL,1.0,17796.61,,False,False,False,False,False,False,False,2020-10,9.786819457602276
+2025.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,SH.P.K.,3.0,91030.31,,False,False,False,False,False,False,False,2025-06,11.418958792255944
+2021.0,8.0,Aktivitetet e tjera sherbyese,GJAKOVË,OJQ,3.0,3918.14,,False,False,False,False,False,False,False,2021-08,8.273627520960392
+2019.0,4.0,Industria perpunuese,KLINË,INDIVIDUAL,1.0,325.42,,False,False,False,False,False,False,False,2019-04,5.78818489572255
+2021.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2021-05,0.0
+2021.0,3.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,DEÇAN,INDIVIDUAL,2.0,1525.0,,False,False,False,False,False,False,False,2021-03,7.330405211844402
+2025.0,4.0,Akomodimi dhe sherbimi ushqimor,FERIZAJ,ORTAKËRIA E PËRGJ.,1.0,10292.29,,False,False,False,False,False,False,False,2025-04,9.239247505617184
+2025.0,3.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,FERIZAJ,INDIVIDUAL,7.0,6247.0,,False,False,False,False,False,False,False,2025-03,8.740016691519521
+2025.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,INDIVIDUAL,11.0,245185.47,,False,False,False,False,False,False,False,2025-10,12.409774302076402
+2020.0,3.0,Akomodimi dhe sherbimi ushqimor,VITI,INDIVIDUAL,10.0,12627.73,,False,False,False,False,False,False,False,2020-03,9.443729656052676
+2020.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",PRIZREN,KOMPANI E HUAJ,1.0,0.0,,False,False,False,False,False,False,False,2020-06,0.0
+2022.0,4.0,Industria perpunuese,FERIZAJ,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2022-04,0.0
+2021.0,6.0,Sherbimet administrative dhe mbeshtetese,PRISHTINË,KOMPANI E HUAJ,2.0,24807.51,,False,False,False,False,False,False,False,2021-06,10.118942018453527
+2020.0,3.0,Aktivitetet e tjera sherbyese,LIPJAN,SH.P.K.,4.0,550.0,,False,False,False,False,False,False,False,2020-03,6.311734809152915
+2022.0,7.0,Industria nxjerrese,PRIZREN,SH.P.K.,10.0,189630.83,,False,False,False,False,False,False,False,2022-07,12.152839734459668
+2025.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,2.0,312.63,,False,False,False,False,False,False,False,2025-08,5.74821394716612
+2021.0,9.0,Industria perpunuese,SKENDERAJ,SH.P.K.,1.0,298246.34,,False,False,False,False,False,False,False,2021-09,12.60567842122802
+2025.0,6.0,Arsimi,PEJË,SH.P.K.,11.0,66899.55,,False,False,False,False,False,False,False,2025-06,11.110962467308235
+2025.0,11.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",PEJË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2025-11,0.0
+2022.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,1.0,9314.4,,False,False,False,False,False,False,False,2022-09,9.139424223605946
+2019.0,6.0,Industria perpunuese,PRISHTINË,SH.P.K.,10.0,229023.71,,False,False,False,False,False,False,False,2019-06,12.341585180645298
+2021.0,3.0,Industria perpunuese,SKENDERAJ,SH.P.K.,1.0,1701.0,,False,False,False,False,False,False,False,2021-03,7.43955930913332
+2024.0,10.0,Bujqesia;Pylltaria dhe Peshkimi,LIPJAN,SH.P.K.,1.0,212416.77,,False,False,False,False,False,False,False,2024-10,12.266310227750564
+2024.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,2.0,4392.88,,False,False,False,False,False,False,False,2024-08,8.387967942603494
+2024.0,10.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,PEJË,SH.P.K.,6.0,58485.76,,False,False,False,False,False,False,False,2024-10,10.976555682818304
+2022.0,6.0,Industria perpunuese,PRIZREN,SH.P.K.,7.0,345867.22,,False,False,False,False,False,False,False,2022-06,12.75381311443956
+2019.0,3.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,OBILIQ,SH.P.K.,2.0,128705.64,,False,False,False,False,False,False,False,2019-03,11.765290985104944
+2021.0,11.0,Industria perpunuese,VUSHTRRI,SH.P.K.,2.0,18954.04,,False,False,False,False,False,False,False,2021-11,9.849825138209354
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,INDIVIDUAL,3.0,1420640.32,,False,False,False,False,False,False,False,2022-07,14.166618961424412
+2023.0,4.0,Industria perpunuese,VITI,SH.P.K.,1.0,7524.32,,False,False,False,False,False,False,False,2023-04,8.926028613629862
+2021.0,9.0,Akomodimi dhe sherbimi ushqimor,PODUJEVË,INDIVIDUAL,13.0,31900.09,,False,False,False,False,False,False,False,2021-09,10.370395457468176
+2020.0,4.0,"Artet, Argetimi dhe rekreacioni",PRIZREN,SH.P.K.,3.0,0.0,,False,False,False,False,False,False,False,2020-04,0.0
+2025.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,INDIVIDUAL,1.0,2542.37,,False,False,False,False,False,False,False,2025-11,7.841245252282357
+2024.0,9.0,Informimi dhe komunikimi,GRAÇANICË,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2024-09,0.0
+2025.0,9.0,Aktivitetet e tjera sherbyese,MALISHEVË,INDIVIDUAL,33.0,21030.25,,False,False,False,False,False,False,False,2025-09,9.95376470582714
+2019.0,12.0,Informimi dhe komunikimi,VITI,NDËRMARRJE SHOQ.,1.0,0.0,,False,False,False,False,False,False,False,2019-12,0.0
+2025.0,7.0,Transporti dhe magazinimi,SUHAREKË,SH.P.K.,6.0,110087.99,,False,False,False,False,False,False,False,2025-07,11.609044317710438
+2020.0,10.0,Industria perpunuese,NOVOBËRDË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-10,0.0
+2021.0,5.0,Transporti dhe magazinimi,DEÇAN,SH.P.K.,3.0,20841.43,,False,False,False,False,False,False,False,2021-05,9.944746091756878
+2025.0,12.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,1.0,400.0,,False,False,False,False,False,False,False,2025-12,5.993961427306569
+2021.0,3.0,Industria perpunuese,FUSHË KOSOVË,INDIVIDUAL,2.0,3863.1,,False,False,False,False,False,False,False,2021-03,8.259484074914713
+2024.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SKENDERAJ,SH.P.K.,2.0,14364.3,,False,False,False,False,False,False,False,2024-06,9.572570855288603
+2023.0,10.0,Aktivitetet financiare dhe te sigurimit,PEJË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-10,0.0
+2023.0,2.0,Industria perpunuese,FERIZAJ,SH.P.K.,1.0,301.16,,False,False,False,False,False,False,False,2023-02,5.710956678404202
+2021.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SKENDERAJ,SH.P.K.,2.0,78868.63,,False,False,False,False,False,False,False,2021-05,11.275551515116929
+2020.0,9.0,Sherbimet administrative dhe mbeshtetese,VITI,SH.P.K.,1.0,1453.5,,False,False,False,False,False,False,False,2020-09,7.282417477935256
+2021.0,7.0,Akomodimi dhe sherbimi ushqimor,KLLOKOT,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2021-07,0.0
+2020.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,SH.P.K.,1.0,6198.7,,False,False,False,False,False,False,False,2020-02,8.732256182765715
+2020.0,2.0,Sherbimet administrative dhe mbeshtetese,PRISHTINË,SH.P.K.,53.0,3007527.3,,False,False,False,False,False,False,False,2020-02,14.91662913659551
+2024.0,9.0,Sherbimet administrative dhe mbeshtetese,MITROVICË,INDIVIDUAL,7.0,17541.08,,False,False,False,False,False,False,False,2024-09,9.77235784498434
+2021.0,6.0,Industria nxjerrese,PEJË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2021-06,0.0
+2023.0,6.0,Aktivitetet e patundshmerise,SUHAREKË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2023-06,0.0
+2022.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,INDIVIDUAL,2.0,252598.14,,False,False,False,False,False,False,False,2022-02,12.439559084300493
+2023.0,8.0,Informimi dhe komunikimi,PRISHTINË,SHOQËRI AKCIONARE,3.0,351440.5,,False,False,False,False,False,False,False,2023-08,12.769798546794432
+2020.0,6.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,PRISHTINË,ORTAKËRIA E PËRGJ.,1.0,26106.54,,False,False,False,False,False,False,False,2020-06,10.169979440479311
+2019.0,9.0,Ndertimtaria,OBILIQ,INDIVIDUAL,6.0,13082.59,,False,False,False,False,False,False,False,2019-09,9.479114052184412
+2023.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,INDIVIDUAL,6.0,35489.36,,False,False,False,False,False,False,False,2023-06,10.477016389291547
+2020.0,10.0,Industria perpunuese,VUSHTRRI,SH.P.K.,1.0,28948.22,,False,False,False,False,False,False,False,2020-10,10.273298539632991
+2019.0,9.0,Bujqesia;Pylltaria dhe Peshkimi,ISTOG,SH.P.K.,2.0,17526.86,,False,False,False,False,False,False,False,2019-09,9.771546894022958
+2024.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,76.0,1458454.89,,False,False,False,False,False,False,False,2024-12,14.19288882443182
+2020.0,12.0,Industria perpunuese,GJILAN,SH.P.K.,6.0,88971.37,,False,False,False,False,False,False,False,2020-12,11.396081151076672
+2021.0,10.0,Aktivitetet financiare dhe te sigurimit,FUSHË KOSOVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2021-10,0.0
+2020.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,SH.P.K.,1.0,3330.96,,False,False,False,False,False,False,False,2020-11,8.111315998412755
+2022.0,11.0,Industria perpunuese,PEJË,INDIVIDUAL,2.0,23606.52,,False,False,False,False,False,False,False,2022-11,10.06932058432526
+2021.0,6.0,Akomodimi dhe sherbimi ushqimor,KAMENICË,INDIVIDUAL,22.0,17961.1,,False,False,False,False,False,False,False,2021-06,9.79601926152416
+2022.0,8.0,Informimi dhe komunikimi,MITROVICË,SH.P.K.,1.0,7504.28,,False,False,False,False,False,False,False,2022-08,8.923362051832646
+2019.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,INDIVIDUAL,4.0,10607.79,,False,False,False,False,False,False,False,2019-05,9.269438181749264
+2025.0,1.0,Aktivitetet e patundshmerise,PRISHTINË,SHOQËRI AKCIONARE,2.0,157430.72,,False,False,False,False,False,False,False,2025-01,11.966747119439686
+2022.0,8.0,"Artet, Argetimi dhe rekreacioni",VUSHTRRI,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2022-08,0.0
+2019.0,4.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,SHOQËRI AKCIONARE,2.0,348718.51,,False,False,False,False,False,False,False,2019-04,12.762023181772491
+2023.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,2.0,26317.4,,False,False,False,False,False,False,False,2023-10,10.178023593317894
+2024.0,6.0,Industria nxjerrese,LEPOSAVIQ,INDIVIDUAL,1.0,3715.15,,False,False,False,False,False,False,False,2024-06,8.220443465103974
+2024.0,2.0,Ndertimtaria,FERIZAJ,SH.P.K.,6.0,169957.62,,False,False,False,False,False,False,False,2024-02,12.04331027463824
+2022.0,1.0,Bujqesia;Pylltaria dhe Peshkimi,MITROVICË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2022-01,0.0
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,3.0,3335.0,,False,False,False,False,False,False,False,2022-12,8.112527763478637
+2021.0,6.0,Industria perpunuese,SKENDERAJ,SH.P.K.,1.0,7020.0,,False,False,False,False,False,False,False,2021-06,8.85666093701725
+2021.0,8.0,Person Fizik,FERIZAJ,PERSON FIZIK,18.0,1036242.58,,False,False,False,False,False,False,False,2021-08,13.851112789996286
+2025.0,12.0,Industria perpunuese,FERIZAJ,INDIVIDUAL,4.0,615.0,,False,False,False,False,False,False,False,2025-12,6.423246963533519
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SKENDERAJ,SH.P.K.,7.0,168221.9,,False,False,False,False,False,False,False,2023-03,12.033045164697285
+2020.0,6.0,Industria perpunuese,MAMUSHË,SH.P.K.,1.0,2791.74,,False,False,False,False,False,False,False,2020-06,7.93477847174452
+2020.0,1.0,Industria perpunuese,PRIZREN,SH.P.K.,2.0,2267.79,,False,False,False,False,False,False,False,2020-01,7.727001928711734
+2022.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,3.0,0.0,,False,False,False,False,False,False,False,2022-09,0.0
+2020.0,3.0,Sherbimet administrative dhe mbeshtetese,GRAÇANICË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-03,0.0
+2020.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,6.0,2227.0,,False,False,False,False,False,False,False,2020-03,7.708859601047175
+2024.0,6.0,Ndertimtaria,HANI I ELEZIT,INDIVIDUAL,5.0,0.0,,False,False,False,False,False,False,False,2024-06,0.0
+2019.0,3.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,KLLOKOT,INDIVIDUAL,2.0,709942.23,,False,False,False,False,False,False,False,2019-03,13.472940288074229
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,93.0,7679711.14,,False,False,False,False,False,False,False,2019-12,15.854092622650562
+2024.0,3.0,Bujqesia;Pylltaria dhe Peshkimi,KAMENICË,INDIVIDUAL,14.0,22150.0,,False,False,False,False,False,False,False,2024-03,10.00563792118106
+2020.0,10.0,Industria nxjerrese,SHTIME,SH.P.K.,1.0,2118.64,,False,False,False,False,False,False,False,2020-10,7.659001541925728
+2021.0,7.0,Sherbimet administrative dhe mbeshtetese,GJILAN,SH.P.K.,3.0,11254.15,,False,False,False,False,False,False,False,2021-07,9.328581080662063
+2024.0,6.0,Ndertimtaria,ISTOG,INDIVIDUAL,9.0,35083.57,,False,False,False,False,False,False,False,2024-06,10.465516711661447
+2020.0,11.0,Sherbimet administrative dhe mbeshtetese,VUSHTRRI,SH.P.K.,1.0,14893.27,,False,False,False,False,False,False,False,2020-11,9.608731854211555
+2021.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,SH.P.K.,5.0,322412.52,,False,False,False,False,False,False,False,2021-04,12.683590224219213
+2025.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,INDIVIDUAL,8.0,11889.5,,False,False,False,False,False,False,False,2025-09,9.38349504094532
+2021.0,11.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",KLINË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2021-11,0.0
+2020.0,11.0,Industria perpunuese,PRISHTINË,ORTAKËRIA E PËRGJ.,1.0,0.0,,False,False,False,False,False,False,False,2020-11,0.0
+2024.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,11.0,467334.54,,False,False,False,False,False,False,False,2024-10,13.054802779723378
+2019.0,3.0,Aktivitetet financiare dhe te sigurimit,DRAGASH,INDIVIDUAL,1.0,2321.14,,False,False,False,False,False,False,False,2019-03,7.750244453291287
+2022.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,INDIVIDUAL,4.0,6527.58,,False,False,False,False,False,False,False,2022-01,8.783944740736406
+2022.0,9.0,"Aktivitetet profesionale, shkencore dhe teknike",PODUJEVË,SH.P.K.,4.0,1500.0,,False,False,False,False,False,False,False,2022-09,7.313886831633462
+2020.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2020-01,0.0
+2022.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,3.0,141710.62,,False,False,False,False,False,False,False,2022-10,11.861549426550908
+2025.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,4.0,8233.0,,False,False,False,False,False,False,False,2025-03,9.01602720232985
+2025.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,4.0,27069.95,,False,False,False,False,False,False,False,2025-07,10.20621647619278
+2025.0,10.0,"Aktivitetet profesionale, shkencore dhe teknike",PEJË,SH.P.K.,2.0,845.0,,False,False,False,False,False,False,False,2025-10,6.740519359606223
+2020.0,8.0,Industria perpunuese,RAHOVEC,SH.P.K.,1.0,333275.76,,False,False,False,False,False,False,False,2020-08,12.716728534892097
+2025.0,12.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",FUSHË KOSOVË,SH.P.K.,7.0,139722.61,,False,False,False,False,False,False,False,2025-12,11.847421535976052
+2025.0,8.0,Arsimi,GLLOGOC,INDIVIDUAL,3.0,11311.4,,False,False,False,False,False,False,False,2025-08,9.333654748190105
+2022.0,11.0,Transporti dhe magazinimi,PRISHTINË,SHOQËRI AKCIONARE,1.0,814456.76,,False,False,False,False,False,False,False,2022-11,13.610277845642626
+2025.0,8.0,Transporti dhe magazinimi,GJAKOVË,SHOQËRI AKCIONARE,1.0,25709.56,,False,False,False,False,False,False,False,2025-08,10.154657081430736
+2020.0,9.0,Industria perpunuese,RAHOVEC,INDIVIDUAL,1.0,83162.08,,False,False,False,False,False,False,False,2020-09,11.328558778323131
+2019.0,9.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",GLLOGOC,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2019-09,0.0
+2024.0,4.0,"Aktivitetet profesionale, shkencore dhe teknike",VITI,SH.P.K.,5.0,15932.47,,False,False,False,False,False,False,False,2024-04,9.67617720718051
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,4.0,71384.21,,False,False,False,False,False,False,False,2022-07,11.175845984013488
+2020.0,6.0,Industria perpunuese,KAMENICË,SH.P.K.,1.0,14400.0,,False,False,False,False,False,False,False,2020-06,9.575052927597383
+2023.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,TJETER,1.0,0.0,,False,False,False,False,False,False,False,2023-12,0.0
+2023.0,6.0,Industria perpunuese,LIPJAN,INDIVIDUAL,1.0,18573.03,,False,False,False,False,False,False,False,2023-06,9.829519647495626
+2024.0,7.0,"Artet, Argetimi dhe rekreacioni",PRISHTINË,SH.P.K.,6.0,0.0,,False,False,False,False,False,False,False,2024-07,0.0
+2023.0,5.0,Industria perpunuese,MITROVICË,SH.P.K.,2.0,121162.14,,False,False,False,False,False,False,False,2023-05,11.704893180949298
+2025.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,SH.P.K.,3.0,152394.36,,False,False,False,False,False,False,False,2025-09,11.934233475576962
+2020.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,47.0,389035.88,,False,False,False,False,False,False,False,2020-09,12.871429425304608
+2022.0,11.0,Industria perpunuese,OBILIQ,SH.P.K.,1.0,332295.04,,False,False,False,False,False,False,False,2022-11,12.713781537329156
+2020.0,9.0,Informimi dhe komunikimi,SHTIME,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-09,0.0
+2023.0,2.0,Informimi dhe komunikimi,PRISHTINË,SH.P.K.,33.0,328155.79,,False,False,False,False,False,False,False,2023-02,12.701246791444616
+2023.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,INDIVIDUAL,4.0,216299.53,,False,False,False,False,False,False,False,2023-11,12.284424062238656
+2025.0,10.0,Industria perpunuese,VUSHTRRI,SH.P.K.,1.0,1696.37,,False,False,False,False,False,False,False,2025-10,7.436835273289604
+2023.0,5.0,Arsimi,PRIZREN,SH.P.K.,2.0,22292.5,,False,False,False,False,False,False,False,2023-05,10.012050435139082
+2020.0,11.0,Industria perpunuese,GJAKOVË,INDIVIDUAL,1.0,7600.16,,False,False,False,False,False,False,False,2020-11,8.936056146206356
+2019.0,9.0,Sherbimet administrative dhe mbeshtetese,GLLOGOC,INDIVIDUAL,7.0,10184.47,,False,False,False,False,False,False,False,2019-09,9.228717473889768
+2025.0,7.0,Industria perpunuese,VUSHTRRI,INDIVIDUAL,1.0,1969.49,,False,False,False,False,False,False,False,2025-07,7.586037521768083
+2025.0,12.0,"Artet, Argetimi dhe rekreacioni",KAMENICË,SH.P.K.,2.0,2555.86,,False,False,False,False,False,False,False,2025-12,7.846535222130155
+2023.0,9.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,PRISHTINË,SH.P.K.,2.0,11923.0,,False,False,False,False,False,False,False,2023-09,9.386308454797962
+2021.0,4.0,Aktivitetet financiare dhe te sigurimit,PRIZREN,INDIVIDUAL,1.0,3472.54,,False,False,False,False,False,False,False,2021-04,8.15292952582883
+2021.0,1.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,1.0,10850.79,,False,False,False,False,False,False,False,2021-01,9.29208532231993
+2019.0,9.0,Industria perpunuese,HANI I ELEZIT,INDIVIDUAL,4.0,8279.25,,False,False,False,False,False,False,False,2019-09,9.021628440160214
+2021.0,7.0,Industria perpunuese,PRIZREN,SH.P.K.,1.0,11016.95,,False,False,False,False,False,False,False,2021-07,9.307281039993685
+2023.0,9.0,Sherbimet administrative dhe mbeshtetese,MITROVICË,SH.P.K.,7.0,5089.31,,False,False,False,False,False,False,False,2023-09,8.53509401142282
+2019.0,3.0,Industria perpunuese,GJAKOVË,SH.P.K.,1.0,6356.02,,False,False,False,False,False,False,False,2019-03,8.757314993069576
+2022.0,10.0,Aktivitetet e tjera sherbyese,RAHOVEC,SH.P.K.,1.0,2033.6,,False,False,False,False,False,False,False,2022-10,7.618054518359648
+2021.0,5.0,Ndertimtaria,PEJË,SH.P.K.,1.0,630.0,,False,False,False,False,False,False,False,2021-05,6.447305862541213
+2022.0,3.0,Aktivitetet financiare dhe te sigurimit,PEJË,INDIVIDUAL,1.0,4263.49,,False,False,False,False,False,False,False,2022-03,8.358077874815624
+2019.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,INDIVIDUAL,11.0,114696.88,,False,False,False,False,False,False,False,2019-10,11.65005681994752
+2024.0,3.0,Industria perpunuese,KAÇANIK,SH.P.K.,1.0,2509.07,,False,False,False,False,False,False,False,2024-03,7.828065920183169
+2021.0,8.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,PRISHTINË,INDIVIDUAL,19.0,160348.32,,False,False,False,False,False,False,False,2021-08,11.985109964388892
+2019.0,7.0,Industria perpunuese,VUSHTRRI,INDIVIDUAL,3.0,7101.91,,False,False,False,False,False,False,False,2019-07,8.868259838215016
+2024.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,14.0,722082.39,,False,False,False,False,False,False,False,2024-05,13.48989590982047
+2023.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,2.0,44568.03,,False,False,False,False,False,False,False,2023-02,10.704794502185711
+2025.0,9.0,Industria perpunuese,SKENDERAJ,SH.P.K.,5.0,22000.97,,False,False,False,False,False,False,False,2025-09,9.998887273786044
+2019.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,INDIVIDUAL,1.0,5955.78,,False,False,False,False,False,False,False,2019-02,8.692285345605429
+2024.0,4.0,Industria perpunuese,MAMUSHË,INDIVIDUAL,1.0,2669.03,,False,False,False,False,False,False,False,2024-04,7.889844987286229
+2023.0,1.0,Sherbimet administrative dhe mbeshtetese,SKENDERAJ,SHOQËRI AKCIONARE,1.0,16887.28,,False,False,False,False,False,False,False,2023-01,9.734375169210704
+2019.0,9.0,Ndertimtaria,FUSHË KOSOVË,INDIVIDUAL,2.0,867.0,,False,False,False,False,False,False,False,2019-09,6.7661917146603505
+2021.0,11.0,Industria perpunuese,FERIZAJ,SH.P.K.,4.0,133679.91,,False,False,False,False,False,False,False,2021-11,11.803210970547124
+2019.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,2.0,12579.9,,False,False,False,False,False,False,False,2019-10,9.43993506982578
+2023.0,8.0,Ndertimtaria,DEÇAN,INDIVIDUAL,1.0,3389.83,,False,False,False,False,False,False,False,2023-08,8.128830008164735
+2022.0,4.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,PRISHTINË,INDIVIDUAL,1.0,61916.76,,False,False,False,False,False,False,False,2022-04,11.033562331898658
+2021.0,6.0,Industria perpunuese,PRISHTINË,KOMPANI E HUAJ,1.0,1322.03,,False,False,False,False,False,False,False,2021-06,7.187679839594827
+2022.0,6.0,Transporti dhe magazinimi,GJAKOVË,SH.P.K.,1.0,240.0,,False,False,False,False,False,False,False,2022-06,5.484796933490655
+2025.0,5.0,Aktivitetet financiare dhe te sigurimit,GJAKOVË,INDIVIDUAL,1.0,1455.41,,False,False,False,False,False,False,False,2025-05,7.283729782523243
+2023.0,12.0,Aktivitetet e patundshmerise,KAMENICË,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2023-12,0.0
+2023.0,11.0,Sherbimet administrative dhe mbeshtetese,PODUJEVË,INDIVIDUAL,1.0,2477.42,,False,False,False,False,False,False,False,2023-11,7.815376539352446
+2022.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,INDIVIDUAL,4.0,15826.04,,False,False,False,False,False,False,False,2022-09,9.66947514865681
+2021.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,INDIVIDUAL,8.0,48818.21,,False,False,False,False,False,False,False,2021-09,10.795879161923356
+2019.0,12.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",PRISHTINË,SH.P.K.,65.0,1589849.53,,False,False,False,False,False,False,False,2019-12,14.27915056348824
+2022.0,6.0,"Artet, Argetimi dhe rekreacioni",PODUJEVË,SH.P.K.,1.0,82697.0,,False,False,False,False,False,False,False,2022-06,11.322950696922494
+2019.0,3.0,Aktivitetet e tjera sherbyese,ISTOG,INDIVIDUAL,1.0,985.0,,False,False,False,False,False,False,False,2019-03,6.893656354602635
+2019.0,6.0,Industria perpunuese,GJAKOVË,SH.P.K.,5.0,339572.51,,False,False,False,False,False,False,False,2019-06,12.735445726843327
+2022.0,2.0,Informimi dhe komunikimi,PRISHTINË,SH.P.K.,45.0,2160968.05,,False,False,False,False,False,False,False,2022-02,14.586067313313348
+2020.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAÇANIK,INDIVIDUAL,4.0,4550.95,,False,False,False,False,False,False,False,2020-12,8.423310991563064
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,INDIVIDUAL,2.0,4939.61,,False,False,False,False,False,False,False,2022-12,8.505244084340097
+2025.0,5.0,Informimi dhe komunikimi,GJAKOVË,INDIVIDUAL,5.0,19453.53,,False,False,False,False,False,False,False,2025-05,9.87583522681278
+2025.0,9.0,Industria perpunuese,PRIZREN,SH.P.K.,4.0,8304.75,,False,False,False,False,False,False,False,2025-09,9.02470332501391
+2021.0,3.0,"Aktivitetet profesionale, shkencore dhe teknike",DEÇAN,SH.P.K.,3.0,5000.0,,False,False,False,False,False,False,False,2021-03,8.517393171418904
+2022.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,INDIVIDUAL,2.0,5643.51,,False,False,False,False,False,False,False,2022-04,8.638438670336138
+2022.0,8.0,Industria perpunuese,SUHAREKË,SH.P.K.,1.0,3470.0,,False,False,False,False,False,False,False,2022-08,8.152198015861787
+2023.0,6.0,Informimi dhe komunikimi,PEJË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2023-06,0.0
+2020.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,3.0,12167.56,,False,False,False,False,False,False,False,2020-05,9.406610855233849
+2020.0,3.0,Industria perpunuese,MALISHEVË,INDIVIDUAL,1.0,33027.98,,False,False,False,False,False,False,False,2020-03,10.40514063689075
+2023.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SHTIME,SH.P.K.,6.0,16820.94,,False,False,False,False,False,False,False,2023-12,9.730439265758204
+2025.0,10.0,Aktivitetet e patundshmerise,GJAKOVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-10,0.0
+2022.0,12.0,Aktivitetet financiare dhe te sigurimit,GJAKOVË,SH.P.K.,8.0,36055.81,,False,False,False,False,False,False,False,2022-12,10.492851029172508
+2019.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,ORTAKËRIA E PËRGJ.,1.0,5553.98,,False,False,False,False,False,False,False,2019-08,8.622450101707212
+2024.0,9.0,Arsimi,PRISHTINË,ORTAKËRIA E PËRGJ.,3.0,7063.57,,False,False,False,False,False,False,False,2024-09,8.862847429855194
+2020.0,12.0,Ndertimtaria,HANI I ELEZIT,SH.P.K.,3.0,40987.29,,False,False,False,False,False,False,False,2020-12,10.621041695136114
+2025.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,6.0,5582.15,,False,False,False,False,False,False,False,2025-06,8.6275084122251
+2023.0,6.0,Bujqesia;Pylltaria dhe Peshkimi,PODUJEVË,SH.P.K.,1.0,69885.6,,False,False,False,False,False,False,False,2023-06,11.154629207412595
+2023.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,INDIVIDUAL,4.0,53574.37,,False,False,False,False,False,False,False,2023-10,10.888844726524184
+2020.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,INDIVIDUAL,3.0,23551.64,,False,False,False,False,False,False,False,2020-01,10.066993195072442
+2024.0,12.0,Transporti dhe magazinimi,PRISHTINË,INDIVIDUAL,189.0,140329.05,,False,False,False,False,False,False,False,2024-12,11.851752427048115
+2019.0,7.0,Industria perpunuese,PRIZREN,INDIVIDUAL,3.0,53741.25,,False,False,False,False,False,False,False,2019-07,10.89195474954759
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,6.0,204918.11,,False,False,False,False,False,False,False,2022-07,12.230370594885402
+2020.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAMENICË,SH.P.K.,1.0,1080.0,,False,False,False,False,False,False,False,2020-03,6.985641817639208
+2019.0,6.0,Aktivitetet financiare dhe te sigurimit,GRAÇANICË,INDIVIDUAL,2.0,3743.94,,False,False,False,False,False,False,False,2019-06,8.22816087446116
+2022.0,12.0,Industria perpunuese,VITI,INDIVIDUAL,1.0,2072.79,,False,False,False,False,False,False,False,2022-12,7.637133130046778
+2025.0,5.0,Sherbimet administrative dhe mbeshtetese,FERIZAJ,SH.P.K.,1.0,8784.13,,False,False,False,False,False,False,False,2025-05,9.080815798462762
+2022.0,6.0,Akomodimi dhe sherbimi ushqimor,KAMENICË,INDIVIDUAL,5.0,13485.4,,False,False,False,False,False,False,False,2022-06,9.509437049243218
+2024.0,4.0,Informimi dhe komunikimi,FERIZAJ,SH.P.K.,5.0,16276.12,,False,False,False,False,False,False,False,2024-04,9.697515719730236
+2020.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,11.0,790142.71,,False,False,False,False,False,False,False,2020-10,13.57997011929174
+2025.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,1.0,1908058.43,,False,False,False,False,False,False,False,2025-04,14.461597278304028
+2023.0,5.0,Aktivitetet financiare dhe te sigurimit,GJILAN,INDIVIDUAL,1.0,20128.11,,False,False,False,False,False,False,False,2023-05,9.909922305038448
+2025.0,12.0,Informimi dhe komunikimi,SKENDERAJ,SH.P.K.,2.0,18670.0,,False,False,False,False,False,False,False,2025-12,9.834726796965336
+2019.0,10.0,Bujqesia;Pylltaria dhe Peshkimi,PRIZREN,INDIVIDUAL,1.0,2794.92,,False,False,False,False,False,False,False,2019-10,7.935916490641071
+2025.0,7.0,Industria perpunuese,PEJË,SH.P.K.,4.0,11970.5,,False,False,False,False,False,False,False,2025-07,9.390284103984174
+2023.0,1.0,Bujqesia;Pylltaria dhe Peshkimi,PRISHTINË,INDIVIDUAL,3.0,13962.29,,False,False,False,False,False,False,False,2023-01,9.544187021902196
+2023.0,11.0,Bujqesia;Pylltaria dhe Peshkimi,LIPJAN,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2023-11,0.0
+2023.0,12.0,Industria perpunuese,MALISHEVË,INDIVIDUAL,1.0,844.07,,False,False,False,False,False,False,False,2023-12,6.739419464162798
+2022.0,10.0,"Aktivitetet profesionale, shkencore dhe teknike",SHTIME,INDIVIDUAL,1.0,6394.07,,False,False,False,False,False,False,False,2022-10,8.763282660004638
+2020.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2020-05,0.0
+2025.0,2.0,Industria nxjerrese,OBILIQ,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-02,0.0
+2019.0,6.0,Ndertimtaria,ISTOG,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2019-06,0.0
+2021.0,2.0,Akomodimi dhe sherbimi ushqimor,FERIZAJ,SH.P.K.,28.0,908811.02,,False,False,False,False,False,False,False,2021-02,13.719893553093952
+2019.0,6.0,"Artet, Argetimi dhe rekreacioni",PRISHTINË,SH.P.K.,7.0,108469.45,,False,False,False,False,False,False,False,2019-06,11.594233064638177
+2021.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,71875.05,,False,False,False,False,False,False,False,2021-06,11.182698386688598
+2024.0,12.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,LIPJAN,SH.P.K.,14.0,163563.76,,False,False,False,False,False,False,False,2024-12,12.004964276525152
+2020.0,11.0,Akomodimi dhe sherbimi ushqimor,PRISHTINË,SH.P.K.,226.0,2401497.08,,False,False,False,False,False,False,False,2020-11,14.691603300586385
+2021.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,SH.P.K.,5.0,315069.07,,False,False,False,False,False,False,False,2021-08,12.660550337515115
+2021.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,5.0,16868.09,,False,False,False,False,False,False,False,2021-08,9.733238232176385
+2023.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAMENICË,INDIVIDUAL,2.0,6667.16,,False,False,False,False,False,False,False,2023-05,8.805099238783765
+2022.0,5.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",PRISHTINË,SHOQËRI AKCIONARE,1.0,13312902.16,,False,False,False,False,False,False,False,2022-05,16.404244285294606
+2024.0,10.0,Sherbimet administrative dhe mbeshtetese,RAHOVEC,INDIVIDUAL,1.0,3557.0,,False,False,False,False,False,False,False,2024-10,8.17695386822578
+2020.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,DEÇAN,INDIVIDUAL,1.0,5163.0,,False,False,False,False,False,False,False,2020-09,8.549466751966532
+2024.0,10.0,Informimi dhe komunikimi,LIPJAN,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2024-10,0.0
+2023.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,27.0,351738.66,,False,False,False,False,False,False,False,2023-12,12.770646578666812
+2022.0,3.0,"Artet, Argetimi dhe rekreacioni",RAHOVEC,INDIVIDUAL,5.0,2701.5,,False,False,False,False,False,False,False,2022-03,7.901932549513363
+2021.0,8.0,Bujqesia;Pylltaria dhe Peshkimi,SUHAREKË,SH.P.K.,2.0,14308.89,,False,False,False,False,False,False,False,2021-08,9.568706185588736
+2025.0,2.0,"Aktivitetet profesionale, shkencore dhe teknike",GLLOGOC,INDIVIDUAL,7.0,97993.64,,False,False,False,False,False,False,False,2025-02,11.492668062279392
+2019.0,2.0,Informimi dhe komunikimi,PRIZREN,SH.P.K.,3.0,81248.85,,False,False,False,False,False,False,False,2019-02,11.305284254036431
+2020.0,11.0,"Aktivitetet profesionale, shkencore dhe teknike",ISTOG,SH.P.K.,3.0,177533.77,,False,False,False,False,False,False,False,2020-11,12.086921756038134
+2022.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LEPOSAVIQ,INDIVIDUAL,2.0,21630.0,,False,False,False,False,False,False,False,2022-04,9.981882749963502
+2023.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,INDIVIDUAL,1.0,46991.18,,False,False,False,False,False,False,False,2023-05,10.75773648387029
+2019.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2019-11,0.0
+2019.0,3.0,Industria nxjerrese,DEÇAN,SH.P.K.,4.0,5405.08,,False,False,False,False,False,False,False,2019-03,8.595279525099077
+2019.0,12.0,Industria perpunuese,GRAÇANICË,INDIVIDUAL,5.0,41645.31,,False,False,False,False,False,False,False,2019-12,10.636968048232006
+2021.0,6.0,Akomodimi dhe sherbimi ushqimor,FUSHË KOSOVË,INDIVIDUAL,17.0,54922.17,,False,False,False,False,False,False,False,2021-06,10.91369057853662
+2021.0,11.0,Industria perpunuese,GJILAN,SH.P.K.,1.0,34782.2,,False,False,False,False,False,False,False,2021-11,10.456889790576415
+2019.0,12.0,Industria perpunuese,SUHAREKË,INDIVIDUAL,1.0,1400.0,,False,False,False,False,False,False,False,2019-12,7.244941546337007
+2019.0,11.0,Akomodimi dhe sherbimi ushqimor,FUSHË KOSOVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2019-11,0.0
+2025.0,12.0,Industria perpunuese,PRISHTINË,SH.P.K.,49.0,3969998.82,,False,False,False,False,False,False,False,2025-12,15.19427660732332
+2024.0,8.0,Industria perpunuese,GLLOGOC,SH.P.K.,1.0,59447.39,,False,False,False,False,False,False,False,2024-08,10.992863820171054
+2019.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,NOVOBËRDË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2019-02,0.0
+2025.0,3.0,Transporti dhe magazinimi,MITROVICË,SH.P.K.,5.0,17278.63,,False,False,False,False,False,False,False,2025-03,9.757283630091768
+2024.0,7.0,Aktivitetet financiare dhe te sigurimit,PEJË,SH.P.K.,1.0,1647.46,,False,False,False,False,False,False,False,2024-07,7.407596797734535
+2019.0,12.0,Aktivitetet financiare dhe te sigurimit,KAÇANIK,NDËRMARRJE SHOQ.,1.0,0.0,,False,False,False,False,False,False,False,2019-12,0.0
+2023.0,5.0,Akomodimi dhe sherbimi ushqimor,MITROVICË VERIORE,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-05,0.0
+2024.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,2.0,183553.09,,False,False,False,False,False,False,False,2024-01,12.120264671433466
+2022.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,SH.P.K.,1.0,5373.57,,False,False,False,False,False,False,False,2022-03,8.589433849795693
+2021.0,9.0,Aktivitetet financiare dhe te sigurimit,RAHOVEC,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2021-09,0.0
+2023.0,9.0,Industria perpunuese,KAÇANIK,INDIVIDUAL,1.0,860.0,,False,False,False,False,False,False,False,2023-09,6.7580945044277305
+2021.0,1.0,Industria perpunuese,PRISHTINË,SH.P.K.,7.0,24860.26,,False,False,False,False,False,False,False,2021-01,10.121066047609766
+2023.0,11.0,Aktivitetet e patundshmerise,FUSHË KOSOVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-11,0.0
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,2.0,1081.0,,False,False,False,False,False,False,False,2020-06,6.9865664594064265
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,INDIVIDUAL,126.0,1977943.02,,False,False,False,False,False,False,False,2023-03,14.497568489449844
+2024.0,4.0,Informimi dhe komunikimi,PODUJEVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2024-04,0.0
+2019.0,12.0,Arsimi,VUSHTRRI,SH.P.K.,2.0,15596.5,,False,False,False,False,False,False,False,2019-12,9.65486592398494
+2022.0,8.0,Industria nxjerrese,PODUJEVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2022-08,0.0
+2025.0,10.0,"Aktivitetet profesionale, shkencore dhe teknike",PRISHTINË,INDIVIDUAL,1.0,7717.13,,False,False,False,False,False,False,False,2025-10,8.951327385697612
+2020.0,6.0,Ndertimtaria,SUHAREKË,SH.P.K.,3.0,218984.75,,False,False,False,False,False,False,False,2020-06,12.29676193818844
+2024.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",PEJË,INDIVIDUAL,98.0,429121.57,,False,False,False,False,False,False,False,2024-06,12.969497868058262
+2020.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,18.0,57123.88,,False,False,False,False,False,False,False,2020-03,10.952995027537844
+2024.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,SH.P.K.,27.0,202634.62,,False,False,False,False,False,False,False,2024-09,12.219164669755813
+2023.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,2.0,1010.59,,False,False,False,False,False,False,False,2023-11,6.91927862941678
+2020.0,3.0,Informimi dhe komunikimi,VUSHTRRI,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2020-03,0.0
+2025.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,26.0,2686016.54,,False,False,False,False,False,False,False,2025-02,14.803570186200364
+2020.0,11.0,Transporti dhe magazinimi,GRAÇANICË,SH.P.K.,2.0,108849.46,,False,False,False,False,False,False,False,2020-11,11.597730292652844
+2025.0,12.0,Akomodimi dhe sherbimi ushqimor,DRAGASH,INDIVIDUAL,13.0,29794.8,,False,False,False,False,False,False,False,2025-12,10.30212272296326
+2025.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,DRAGASH,INDIVIDUAL,1.0,1100.0,,False,False,False,False,False,False,False,2025-12,7.00397413672268
+2024.0,12.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,9.0,70464.78,,False,False,False,False,False,False,False,2024-12,11.162882480889545
+2025.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,2.0,493.07,,False,False,False,False,False,False,False,2025-10,6.202677207554227
+2023.0,9.0,"Artet, Argetimi dhe rekreacioni",SUHAREKË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-09,0.0
+2021.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,INDIVIDUAL,1.0,73599.19,,False,False,False,False,False,False,False,2021-08,11.206402886235376
+2022.0,1.0,Aktivitetet financiare dhe te sigurimit,FUSHË KOSOVË,INDIVIDUAL,1.0,2000.0,,False,False,False,False,False,False,False,2022-01,7.601402334583733
+2019.0,12.0,Ndertimtaria,VUSHTRRI,INDIVIDUAL,8.0,19090.0,,False,False,False,False,False,False,False,2019-12,9.85697229879466
+2021.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,SH.P.K.,4.0,765.0,,False,False,False,False,False,False,False,2021-06,6.641182169740591
+2022.0,12.0,"Aktivitetet profesionale, shkencore dhe teknike",FUSHË KOSOVË,SH.P.K.,5.0,19745.76,,False,False,False,False,False,False,False,2022-12,9.89074470623858
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2020-06,0.0
+2024.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,2.0,62370.4,,False,False,False,False,False,False,False,2024-01,11.040862115957358
+2020.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË VERIORE,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-08,0.0
+2024.0,8.0,Transporti dhe magazinimi,PEJË,SH.P.K.,1.0,15435.38,,False,False,False,False,False,False,False,2024-08,9.644482340131123
+2024.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,SH.P.K.,4.0,9640.56,,False,False,False,False,False,False,False,2024-09,9.173838200238364
+2024.0,6.0,Industria perpunuese,KLINË,SH.P.K.,1.0,42574.53,,False,False,False,False,False,False,False,2024-06,10.659034954073489
+2019.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,3.0,50651.99,,False,False,False,False,False,False,False,2019-10,10.83275354051098
+2019.0,3.0,"Artet, Argetimi dhe rekreacioni",GRAÇANICË,SH.P.K.,1.0,686.45,,False,False,False,False,False,False,False,2019-03,6.532989099623243
+2024.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAÇANIK,INDIVIDUAL,3.0,70409.67,,False,False,False,False,False,False,False,2024-09,11.162100093161698
+2022.0,9.0,"Artet, Argetimi dhe rekreacioni",PRIZREN,INDIVIDUAL,3.0,4765.5,,False,False,False,False,False,False,False,2022-09,8.469367561933632
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SHOQËRI AKCIONARE,1.0,12969.63,,False,False,False,False,False,False,False,2019-12,9.470442849762286
+2020.0,8.0,Transporti dhe magazinimi,FUSHË KOSOVË,SH.P.K.,1.0,17864.12,,False,False,False,False,False,False,False,2020-08,9.790605487479452
+2024.0,6.0,Aktivitetet e tjera sherbyese,PRISHTINË,ORTAKËRIA E PËRGJ.,1.0,0.0,,False,False,False,False,False,False,False,2024-06,0.0
+2020.0,3.0,Sherbimet administrative dhe mbeshtetese,KLINË,INDIVIDUAL,4.0,3535.12,,False,False,False,False,False,False,False,2020-03,8.170785359833282
+2020.0,8.0,Bujqesia;Pylltaria dhe Peshkimi,NOVOBËRDË,SH.P.K.,1.0,4791.17,,False,False,False,False,False,False,False,2020-08,8.474738614959023
+2020.0,3.0,Sherbimet administrative dhe mbeshtetese,PRISHTINË,INDIVIDUAL,2.0,2750.0,,False,False,False,False,False,False,False,2020-03,7.919719760924575
+2023.0,10.0,Industria perpunuese,DRAGASH,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-10,0.0
+2024.0,3.0,Arsimi,PEJË,SH.P.K.,4.0,17815.0,,False,False,False,False,False,False,False,2024-03,9.787852208937204
+2019.0,7.0,"Artet, Argetimi dhe rekreacioni",SUHAREKË,SH.P.K.,1.0,457.63,,False,False,False,False,False,False,False,2019-07,6.128243784769193
+2020.0,7.0,"Aktivitetet profesionale, shkencore dhe teknike",PEJË,SH.P.K.,1.0,2478.0,,False,False,False,False,False,False,False,2020-07,7.8156105320351905
+2020.0,7.0,Informimi dhe komunikimi,MALISHEVË,SH.P.K.,2.0,799.83,,False,False,False,False,False,False,False,2020-07,6.68564868983677
+2024.0,12.0,Sherbimet administrative dhe mbeshtetese,PODUJEVË,SH.P.K.,1.0,6290.5,,False,False,False,False,False,False,False,2024-12,8.746954795032023
+2022.0,1.0,Industria perpunuese,OBILIQ,INDIVIDUAL,1.0,3783.11,,False,False,False,False,False,False,False,2022-01,8.238565999516693
+2023.0,3.0,Aktivitetet e tjera sherbyese,PRIZREN,SH.P.K.,4.0,7227.2,,False,False,False,False,False,False,False,2023-03,8.885745321500861
+2019.0,2.0,"Aktivitetet profesionale, shkencore dhe teknike",FUSHË KOSOVË,SH.P.K.,2.0,732.87,,False,False,False,False,False,False,False,2019-02,6.598331901211762
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË VERIORE,INDIVIDUAL,1.0,4652.66,,False,False,False,False,False,False,False,2019-12,8.445409285757375
+2019.0,9.0,Bujqesia;Pylltaria dhe Peshkimi,MALISHEVË,SH.P.K.,2.0,5648.14,,False,False,False,False,False,False,False,2019-09,8.639258600165626
+2020.0,6.0,Industria perpunuese,SUHAREKË,SH.P.K.,2.0,1670.73,,False,False,False,False,False,False,False,2020-06,7.421614297351234
+2021.0,10.0,Informimi dhe komunikimi,GJAKOVË,SH.P.K.,1.0,13687.54,,False,False,False,False,False,False,False,2021-10,9.52431426540755
+2022.0,8.0,Aktivitetet e tjera sherbyese,GJAKOVË,ORTAKËRIA E PËRGJ.,1.0,177.12,,False,False,False,False,False,False,False,2022-08,5.182457480453501
+2024.0,7.0,Industria perpunuese,KLINË,INDIVIDUAL,2.0,1169.49,,False,False,False,False,False,False,False,2024-07,7.065177743536931
+2025.0,10.0,"Aktivitetet profesionale, shkencore dhe teknike",GJILAN,INDIVIDUAL,5.0,65496.62,,False,False,False,False,False,False,False,2025-10,11.089769085085315
+2021.0,7.0,Industria perpunuese,PRIZREN,ORTAKËRIA E PËRGJ.,1.0,29294.43,,False,False,False,False,False,False,False,2021-07,10.285186810143909
+2024.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,DEÇAN,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2024-02,0.0
+2025.0,3.0,Industria perpunuese,SHTIME,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-03,0.0
+2025.0,7.0,Arsimi,PEJË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2025-07,0.0
+2020.0,12.0,Sherbimet administrative dhe mbeshtetese,SHTIME,INDIVIDUAL,1.0,635.59,,False,False,False,False,False,False,False,2020-12,6.456125806273467
+2024.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VITI,SH.P.K.,3.0,0.0,,False,False,False,False,False,False,False,2024-04,0.0
+2019.0,8.0,Arsimi,PRISHTINË,SH.P.K.,2.0,1494.0,,False,False,False,False,False,False,False,2019-08,7.309881485824787
+2020.0,10.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",FERIZAJ,SH.P.K.,5.0,104196.78,,False,False,False,False,False,False,False,2020-10,11.554046102892103
+2019.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,3.0,24990.34,,False,False,False,False,False,False,False,2019-04,10.126284643839998
+2020.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,PRISHTINË,KONSORCIUM,1.0,8494.85,,False,False,False,False,False,False,False,2020-02,9.04733308795863
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,4.0,11558.03,,False,False,False,False,False,False,False,2022-07,9.355222228671122
+2022.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,9.0,194098.77,,False,False,False,False,False,False,False,2022-06,12.176127584200191
+2024.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,4.0,8313.9,,False,False,False,False,False,False,False,2024-06,9.0258043650965
+2025.0,10.0,Sherbimet administrative dhe mbeshtetese,FUSHË KOSOVË,INDIVIDUAL,2.0,3140.0,,False,False,False,False,False,False,False,2025-10,8.052296499538647
+2025.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,SH.P.K.,6.0,910134.68,,False,False,False,False,False,False,False,2025-08,13.721348966279995
+2019.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,SH.P.K.,2.0,5684.0,,False,False,False,False,False,False,False,2019-04,8.645586406184636
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,3.0,0.0,,False,False,False,False,False,False,False,2023-03,0.0
+2020.0,3.0,"Aktivitetet profesionale, shkencore dhe teknike",GJILAN,SH.P.K.,10.0,10205.12,,False,False,False,False,False,False,False,2020-03,9.23074281934433
+2023.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,8.0,6162.08,,False,False,False,False,False,False,False,2023-04,8.726331931569216
+2020.0,11.0,Bujqesia;Pylltaria dhe Peshkimi,VUSHTRRI,SH.P.K.,3.0,932835.4,,False,False,False,False,False,False,False,2020-11,13.745985116115472
+2022.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,DRAGASH,SH.P.K.,1.0,32399.39,,False,False,False,False,False,False,False,2022-05,10.385925738745014
+2024.0,8.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,1.0,34504.58,,False,False,False,False,False,False,False,2024-08,10.448876329071522
+2022.0,6.0,Sherbimet administrative dhe mbeshtetese,PRISHTINË,INDIVIDUAL,7.0,13959.32,,False,False,False,False,False,False,False,2022-06,9.543974298689747
+2023.0,3.0,Industria perpunuese,PRISHTINË,SH.P.K.,6.0,112792.24,,False,False,False,False,False,False,False,2023-03,11.633311687172265
+2024.0,1.0,Mungon aktiviteti,DRAGASH,OJQ,1.0,0.0,,False,False,False,False,False,False,False,2024-01,0.0
+2019.0,8.0,Industria perpunuese,PODUJEVË,INDIVIDUAL,2.0,5993.22,,False,False,False,False,False,False,False,2019-08,8.698550950573093
+2025.0,11.0,Informimi dhe komunikimi,OBILIQ,SH.P.K.,1.0,2500.0,,False,False,False,False,False,False,False,2025-11,7.824445930877619
+2019.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,2.0,75035.45,,False,False,False,False,False,False,False,2019-10,11.225729274458695
+2020.0,8.0,Industria perpunuese,DRAGASH,INDIVIDUAL,1.0,4976.51,,False,False,False,False,False,False,False,2020-08,8.512685044977017
+2021.0,2.0,Industria perpunuese,KAÇANIK,ORTAKËRIA E PËRGJ.,1.0,54028.09,,False,False,False,False,False,False,False,2021-02,10.897277884201364
+2025.0,3.0,Informimi dhe komunikimi,PRISHTINË,ORGANIZATA BUXHETORE,1.0,49457.11,,False,False,False,False,False,False,False,2025-03,10.808881327648155
+2019.0,7.0,Industria perpunuese,KAMENICË,INDIVIDUAL,1.0,13776.32,,False,False,False,False,False,False,False,2019-07,9.530779040892511
+2023.0,7.0,Industria perpunuese,MITROVICË,SH.P.K.,1.0,192270.26,,False,False,False,False,False,False,False,2023-07,12.166662466429353
+2024.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,6.0,42344.9,,False,False,False,False,False,False,False,2024-07,10.653626883114958
+2019.0,3.0,Transporti dhe magazinimi,PRISHTINË,SHOQËRI AKCIONARE,2.0,83687.4,,False,False,False,False,False,False,False,2019-03,11.334855656669951
+2019.0,11.0,Aktivitetet e tjera sherbyese,SUHAREKË,INDIVIDUAL,2.0,10855.08,,False,False,False,False,False,False,False,2019-11,9.29248057068431
+2020.0,7.0,"Artet, Argetimi dhe rekreacioni",MITROVICË,INDIVIDUAL,1.0,1355.92,,False,False,False,False,False,False,False,2020-07,7.212972704522978
+2019.0,12.0,"Aktivitetet profesionale, shkencore dhe teknike",KLINË,INDIVIDUAL,1.0,1143.81,,False,False,False,False,False,False,False,2019-12,7.042993963354334
+2025.0,1.0,Industria nxjerrese,PRIZREN,SH.P.K.,7.0,30096.45,,False,False,False,False,False,False,False,2025-01,10.312195729540257
+2025.0,2.0,"Aktivitetet profesionale, shkencore dhe teknike",FERIZAJ,SH.P.K.,10.0,52866.07,,False,False,False,False,False,False,False,2025-02,10.875535928741662
+2019.0,3.0,Akomodimi dhe sherbimi ushqimor,GLLOGOC,INDIVIDUAL,4.0,33632.39,,False,False,False,False,False,False,False,2019-03,10.423274602508643
+2020.0,12.0,Informimi dhe komunikimi,GJILAN,SH.P.K.,9.0,335413.37,,False,False,False,False,False,False,False,2020-12,12.72312197181839
+2023.0,6.0,Ndertimtaria,GLLOGOC,INDIVIDUAL,11.0,68036.09,,False,False,False,False,False,False,False,2023-06,11.127808276635744
+2023.0,1.0,Sherbimet administrative dhe mbeshtetese,FERIZAJ,SH.P.K.,6.0,73747.0,,False,False,False,False,False,False,False,2023-01,11.208409155190282
+2025.0,1.0,Industria perpunuese,FUSHË KOSOVË,SH.P.K.,2.0,115711.09,,False,False,False,False,False,False,False,2025-01,11.658860402104631
+2022.0,3.0,"Furnizimi me rryme, gaz, avull dhe ajer te kondicionuar",KLINË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2022-03,0.0
+2025.0,12.0,Industria perpunuese,GJAKOVË,INDIVIDUAL,1.0,1107.63,,False,False,False,False,False,False,False,2025-12,7.010880297777775
+2021.0,7.0,Ndertimtaria,PODUJEVË,SH.P.K.,1.0,25180.0,,False,False,False,False,False,False,False,2021-07,10.133845020868533
+2021.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",FUSHË KOSOVË,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2021-06,0.0
+2024.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,3.0,10807.3,,False,False,False,False,False,False,False,2024-12,9.288069636471686
+2020.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,2.0,14344.37,,False,False,False,False,False,False,False,2020-07,9.571182521042052
+2023.0,9.0,"Artet, Argetimi dhe rekreacioni",SHTIME,INDIVIDUAL,6.0,16988.2,,False,False,False,False,False,False,False,2023-09,9.740333127035887
+2019.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SUHAREKË,INDIVIDUAL,3.0,1498.19,,False,False,False,False,False,False,False,2019-02,7.312680241237792
+2019.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,10.0,748505.63,,False,False,False,False,False,False,False,2019-06,13.525835340518022
+2019.0,9.0,Industria perpunuese,RAHOVEC,INDIVIDUAL,8.0,26513.42,,False,False,False,False,False,False,False,2019-09,10.185444014921272
+2019.0,8.0,Industria perpunuese,PRIZREN,SH.P.K.,9.0,643670.83,,False,False,False,False,False,False,False,2019-08,13.374944294460756
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,4.0,134450.64,,False,False,False,False,False,False,False,2019-12,11.808959859465682
+2024.0,12.0,Industria perpunuese,SUHAREKË,INDIVIDUAL,5.0,46595.12,,False,False,False,False,False,False,False,2024-12,10.749272554844708
+2023.0,5.0,Ndertimtaria,GLLOGOC,SH.P.K.,5.0,86067.19,,False,False,False,False,False,False,False,2023-05,11.36289516802772
+2021.0,1.0,Administrimi publik dhe mbrojtja; Sigurimi social i detyrueshem,PODUJEVË,INDIVIDUAL,1.0,154.0,,False,False,False,False,False,False,False,2021-01,5.043425116919247
+2022.0,8.0,Informimi dhe komunikimi,PEJË,SH.P.K.,1.0,210239.76,,False,False,False,False,False,False,False,2022-08,12.256008629188136
+2022.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,1.0,138662.05,,False,False,False,False,False,False,False,2022-02,11.839802168504388
+2020.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,9.0,308611.37,,False,False,False,False,False,False,False,2020-07,12.639841302359304
+2020.0,12.0,Transporti dhe magazinimi,SKENDERAJ,INDIVIDUAL,8.0,4462.0,,False,False,False,False,False,False,False,2020-12,8.40357646462927
+2023.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,1.0,8886.55,,False,False,False,False,False,False,False,2023-12,9.092406699974717
+2019.0,3.0,Arsimi,PRIZREN,INDIVIDUAL,8.0,12141.02,,False,False,False,False,False,False,False,2019-03,9.404427442864115
+2025.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",SHTIME,INDIVIDUAL,4.0,24365.04,,False,False,False,False,False,False,False,2025-06,10.100945638544788
+2023.0,9.0,Ndertimtaria,PRIZREN,SH.P.K.,1.0,5084.74,,False,False,False,False,False,False,False,2023-09,8.534195823951801
+2025.0,10.0,"Aktivitetet profesionale, shkencore dhe teknike",GJAKOVË,INDIVIDUAL,2.0,9315.78,,False,False,False,False,False,False,False,2025-10,9.139572354420752
+2024.0,9.0,Aktivitetet e tjera sherbyese,RAHOVEC,SH.P.K.,1.0,2024.2,,False,False,False,False,False,False,False,2024-09,7.613423740095755
+2019.0,12.0,"Aktivitetet profesionale, shkencore dhe teknike",PRIZREN,INDIVIDUAL,24.0,888192.03,,False,False,False,False,False,False,False,2019-12,13.696944374477669
+2019.0,3.0,Ndertimtaria,GRAÇANICË,SHOQËRI AKCIONARE,1.0,0.0,,False,False,False,False,False,False,False,2019-03,0.0
+2019.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,25.0,363645.56,,False,False,False,False,False,False,False,2019-07,12.80393768589268
+2020.0,1.0,Ndertimtaria,SUHAREKË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-01,0.0
+2023.0,6.0,Industria perpunuese,GJILAN,SH.P.K.,3.0,6007.81,,False,False,False,False,False,False,False,2023-06,8.70098200459622
+2025.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,3.0,23445.85,,False,False,False,False,False,False,False,2025-06,10.062491436493357
+2021.0,6.0,"Artet, Argetimi dhe rekreacioni",KAÇANIK,SH.P.K.,1.0,758.73,,False,False,False,False,False,False,False,2021-06,6.632963107001577
+2025.0,2.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,DEÇAN,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-02,0.0
+2020.0,8.0,Informimi dhe komunikimi,LIPJAN,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2020-08,0.0
+2025.0,2.0,Akomodimi dhe sherbimi ushqimor,PRISHTINË,SH.P.K.,3.0,19927.51,,False,False,False,False,False,False,False,2025-02,9.899906648746216
+2025.0,5.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,PEJË,SH.P.K.,2.0,11810.83,,False,False,False,False,False,False,False,2025-05,9.376856850616663
+2023.0,11.0,Aktivitetet financiare dhe te sigurimit,FERIZAJ,INDIVIDUAL,3.0,15586.34,,False,False,False,False,False,False,False,2023-11,9.654214325300488
+2020.0,10.0,Industria perpunuese,PRISHTINË,SH.P.K.,2.0,842927.05,,False,False,False,False,False,False,False,2020-10,13.644636883400793
+2021.0,10.0,"Aktivitetet profesionale, shkencore dhe teknike",GJAKOVË,SH.P.K.,1.0,3166.1,,False,False,False,False,False,False,False,2021-10,8.060571621663758
+2024.0,1.0,Ndertimtaria,GJILAN,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2024-01,0.0
+2024.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,2.0,4263.0,,False,False,False,False,False,False,False,2024-12,8.357962965845681
+2024.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,INDIVIDUAL,1.0,1926.17,,False,False,False,False,False,False,False,2024-06,7.563807884554345
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,ORTAKËRIA E PËRGJ.,1.0,24740.48,,False,False,False,False,False,False,False,2020-06,10.11623646630757
+2021.0,12.0,Industria perpunuese,PEJË,SH.P.K.,2.0,611090.42,,False,False,False,False,False,False,False,2021-12,13.323001850529163
+2023.0,6.0,Industria perpunuese,OBILIQ,SH.P.K.,1.0,6247.0,,False,False,False,False,False,False,False,2023-06,8.740016691519521
+2020.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,2.0,650.0,,False,False,False,False,False,False,False,2020-03,6.478509642208569
+2021.0,10.0,Transporti dhe magazinimi,PRISHTINË,SH.P.K.,2.0,62538.9,,False,False,False,False,False,False,False,2021-10,11.043560032033898
+2022.0,9.0,Industria perpunuese,GJAKOVË,INDIVIDUAL,6.0,14446.17,,False,False,False,False,False,False,False,2022-09,9.578253826609036
+2022.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,INDIVIDUAL,3.0,9777.3,,False,False,False,False,False,False,False,2022-07,9.187920923788818
+2020.0,5.0,"Aktivitetet profesionale, shkencore dhe teknike",GRAÇANICË,SH.P.K.,1.0,10912.06,,False,False,False,False,False,False,False,2020-05,9.297715516127848
+2020.0,2.0,Industria perpunuese,ISTOG,INDIVIDUAL,1.0,1696.61,,False,False,False,False,False,False,False,2020-02,7.436976658511549
+2022.0,11.0,Ndertimtaria,KLINË,SH.P.K.,2.0,12923.72,,False,False,False,False,False,False,False,2022-11,9.466897035699034
+2022.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,SH.P.K.,3.0,46264.6,,False,False,False,False,False,False,False,2022-01,10.742153983365924
+2023.0,12.0,Sherbimet administrative dhe mbeshtetese,DEÇAN,SH.P.K.,2.0,1301.0,,False,False,False,False,False,False,False,2023-12,7.171656822768514
+2019.0,5.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,2074820.56,,False,False,False,False,False,False,False,2019-05,14.545385712768416
+2019.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,INDIVIDUAL,13.0,168366.58,,False,False,False,False,False,False,False,2019-05,12.033904844441704
+2021.0,7.0,Industria perpunuese,RAHOVEC,INDIVIDUAL,3.0,162547.03,,False,False,False,False,False,False,False,2021-07,11.99872880631072
+2022.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SKENDERAJ,INDIVIDUAL,1.0,6554.75,,False,False,False,False,False,False,False,2022-06,8.788097806128707
+2025.0,9.0,"Aktivitetet profesionale, shkencore dhe teknike",RAHOVEC,SH.P.K.,7.0,15775.0,,False,False,False,False,False,False,False,2025-09,9.666245076842417
+2024.0,8.0,Industria perpunuese,OBILIQ,SH.P.K.,2.0,2121.1,,False,False,False,False,False,False,False,2024-08,7.660161443417004
+2019.0,9.0,Transporti dhe magazinimi,PEJË,SH.P.K.,4.0,27943.65,,False,False,False,False,False,False,False,2019-09,10.23798104702347
+2023.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,INDIVIDUAL,2.0,12920.71,,False,False,False,False,False,False,False,2023-09,9.46666412151989
+2023.0,3.0,"Aktivitetet profesionale, shkencore dhe teknike",SUHAREKË,INDIVIDUAL,2.0,6861.86,,False,False,False,False,False,False,False,2023-03,8.833879543458254
+2025.0,11.0,Person Fizik,GLLOGOC,PERSON FIZIK,1.0,3210.56,,False,False,False,False,False,False,False,2025-11,8.074512079381803
+2020.0,12.0,Aktivitetet e tjera sherbyese,GJAKOVË,INDIVIDUAL,10.0,20288.0,,False,False,False,False,False,False,False,2020-12,9.917834146243049
+2020.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SHTIME,SH.P.K.,1.0,135309.69,,False,False,False,False,False,False,False,2020-09,11.815328820646062
+2025.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KAMENICË,SH.P.K.,1.0,139497.24,,False,False,False,False,False,False,False,2025-02,11.845807263676514
+2021.0,12.0,Informimi dhe komunikimi,GJAKOVË,SH.P.K.,2.0,8438.67,,False,False,False,False,False,False,False,2021-12,9.04069848729953
+2021.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,SH.P.K.,1.0,69622.37,,False,False,False,False,False,False,False,2021-08,11.15085556582448
+2023.0,9.0,Sherbimet administrative dhe mbeshtetese,GJAKOVË,SH.P.K.,1.0,12069.37,,False,False,False,False,False,False,False,2023-09,9.398508968137063
+2025.0,8.0,Industria perpunuese,VITI,SH.P.K.,2.0,5213.47,,False,False,False,False,False,False,False,2025-08,8.559192732356493
+2024.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,KLINË,INDIVIDUAL,1.0,33900.68,,False,False,False,False,False,False,False,2024-05,10.431219849662732
+2024.0,12.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,PEJË,SHOQËRI AKCIONARE,1.0,380173.91,,False,False,False,False,False,False,False,2024-12,12.848386715275549
+2020.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,INDIVIDUAL,4.0,42258.0,,False,False,False,False,False,False,False,2020-07,10.65157262785174
+2019.0,7.0,"Aktivitetet profesionale, shkencore dhe teknike",GJAKOVË,SH.P.K.,7.0,28781.68,,False,False,False,False,False,False,False,2019-07,10.267529096328316
+2021.0,9.0,Industria perpunuese,KAÇANIK,INDIVIDUAL,3.0,1150.0,,False,False,False,False,False,False,False,2021-09,7.048386408721883
+2024.0,3.0,Informimi dhe komunikimi,PRISHTINË,KOMPANI E HUAJ,1.0,632511.04,,False,False,False,False,False,False,False,2024-03,13.35745453497576
+2020.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,INDIVIDUAL,5.0,19672.91,,False,False,False,False,False,False,False,2020-02,9.887048671496824
+2020.0,6.0,Industria perpunuese,SKENDERAJ,SH.P.K.,1.0,621.0,,False,False,False,False,False,False,False,2020-06,6.432940092739179
+2022.0,3.0,Industria perpunuese,SHTËRPCË,SH.P.K.,1.0,36890.05,,False,False,False,False,False,False,False,2022-03,10.51572425318376
+2021.0,1.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,PRISHTINË,ORTAKËRIA E PËRGJ.,1.0,0.0,,False,False,False,False,False,False,False,2021-01,0.0
+2020.0,8.0,Furnizimi me uje; Kanalizimi; Aktivitetet e menaxhimit dhe te trajtimit te mbeturinave,GRAÇANICË,SH.P.K.,1.0,30419.86,,False,False,False,False,False,False,False,2020-08,10.322883836288096
+2019.0,11.0,Industria perpunuese,PRIZREN,INDIVIDUAL,3.0,10375.59,,False,False,False,False,False,False,False,2019-11,9.247307586368905
+2024.0,11.0,Industria perpunuese,GJAKOVË,SH.P.K.,1.0,8516.03,,False,False,False,False,False,False,False,2024-11,9.049822967501909
+2023.0,8.0,Aktivitetet financiare dhe te sigurimit,PEJË,INDIVIDUAL,2.0,4408.12,,False,False,False,False,False,False,False,2023-08,8.391430402043582
+2022.0,3.0,Aktivitetet financiare dhe te sigurimit,MALISHEVË,SH.P.K.,1.0,513.36,,False,False,False,False,False,False,False,2022-03,6.2429234094022386
+2019.0,8.0,Industria perpunuese,PEJË,SH.P.K.,1.0,103.5,,False,False,False,False,False,False,False,2019-08,4.6491870714048655
+2023.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,SH.P.K.,23.0,485019.48,,False,False,False,False,False,False,False,2023-04,13.091946395832217
+2021.0,4.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,2.0,61783.71,,False,False,False,False,False,False,False,2021-04,11.031411201831396
+2022.0,12.0,Industria perpunuese,PRIZREN,INDIVIDUAL,15.0,81381.62,,False,False,False,False,False,False,False,2022-12,11.306917015679865
+2023.0,3.0,Bujqesia;Pylltaria dhe Peshkimi,KAMENICË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2023-03,0.0
+2025.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,SH.P.K.,6.0,139830.33,,False,False,False,False,False,False,False,2025-10,11.8481921895394
+2023.0,11.0,Industria nxjerrese,KAMENICË,SH.P.K.,1.0,19788.73,,False,False,False,False,False,False,False,2023-11,9.892918395249373
+2022.0,6.0,"Aktivitetet profesionale, shkencore dhe teknike",PRIZREN,SH.P.K.,7.0,64095.9,,False,False,False,False,False,False,False,2022-06,11.068151279804807
+2023.0,3.0,"Artet, Argetimi dhe rekreacioni",PRISHTINË,ORTAKËRIA E PËRGJ.,1.0,0.0,,False,False,False,False,False,False,False,2023-03,0.0
+2025.0,1.0,Arsimi,FUSHË KOSOVË,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2025-01,0.0
+2020.0,9.0,Ndertimtaria,SHTIME,INDIVIDUAL,3.0,17928.75,,False,False,False,False,False,False,False,2020-09,9.79421662338987
+2020.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,SH.P.K.,4.0,14833.27,,False,False,False,False,False,False,False,2020-02,9.604695323560009
+2019.0,12.0,Industria perpunuese,PRISHTINË,SH.P.K.,5.0,6750.0,,False,False,False,False,False,False,False,2019-12,8.81744592104187
+2025.0,11.0,"Aktivitetet profesionale, shkencore dhe teknike",VUSHTRRI,INDIVIDUAL,2.0,10065.24,,False,False,False,False,False,False,False,2025-11,9.21694252969066
+2020.0,3.0,Sherbimet administrative dhe mbeshtetese,KLINË,SH.P.K.,2.0,135.0,,False,False,False,False,False,False,False,2020-03,4.912654885736052
+2020.0,2.0,Informimi dhe komunikimi,ISTOG,INDIVIDUAL,1.0,656.36,,False,False,False,False,False,False,False,2020-02,6.488231813622932
+2024.0,5.0,Industria perpunuese,PRIZREN,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2024-05,0.0
+2024.0,2.0,Person Fizik,GJILAN,PERSON FIZIK,8.0,35381.18,,False,False,False,False,False,False,False,2024-02,10.47396358254816
+2022.0,11.0,Transporti dhe magazinimi,GJAKOVË,SH.P.K.,3.0,23581.12,,False,False,False,False,False,False,False,2022-11,10.06824407675059
+2024.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,SH.P.K.,3.0,301026.02,,False,False,False,False,False,False,False,2024-06,12.614955307144015
+2022.0,10.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,PODUJEVË,INDIVIDUAL,1.0,6410.0,,False,False,False,False,False,False,False,2022-10,8.765770543987257
+2024.0,7.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,2.0,1513.05,,False,False,False,False,False,False,False,2024-07,7.322543458551153
+2021.0,6.0,Bujqesia;Pylltaria dhe Peshkimi,RAHOVEC,SH.P.K.,1.0,0.0,,False,False,False,False,False,False,False,2021-06,0.0
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,INDIVIDUAL,4.0,96706.1,,False,False,False,False,False,False,False,2020-06,11.479442101703652
+2022.0,12.0,Akomodimi dhe sherbimi ushqimor,GRAÇANICË,SH.P.K.,14.0,1183551.27,,False,False,False,False,False,False,False,2022-12,13.98403087257138
+2022.0,3.0,Ndertimtaria,SKENDERAJ,SH.P.K.,2.0,0.0,,False,False,False,False,False,False,False,2022-03,0.0
+2019.0,7.0,Ndertimtaria,VUSHTRRI,SH.P.K.,1.0,2237.29,,False,False,False,False,False,False,False,2019-07,7.713467460459237
+2019.0,7.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,2.0,27326.34,,False,False,False,False,False,False,False,2019-07,10.215642945242791
+2024.0,7.0,Ndertimtaria,PRIZREN,SH.P.K.,7.0,43425.2,,False,False,False,False,False,False,False,2024-07,10.678818224578968
+2019.0,8.0,"Aktivitetet profesionale, shkencore dhe teknike",PEJË,SH.P.K.,2.0,43155.0,,False,False,False,False,False,False,False,2019-08,10.67257673667123
+2022.0,4.0,Informimi dhe komunikimi,PRISHTINË,INDIVIDUAL,12.0,67513.69,,False,False,False,False,False,False,False,2022-04,11.120100482812358
+2025.0,7.0,Transporti dhe magazinimi,PRISHTINË,NDËRMARRJE PUB.,1.0,878239.38,,False,False,False,False,False,False,False,2025-07,13.685675616467172
+2024.0,6.0,Informimi dhe komunikimi,ISTOG,INDIVIDUAL,1.0,400.0,,False,False,False,False,False,False,False,2024-06,5.993961427306569
+2022.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,SH.P.K.,6.0,1873911.33,,False,False,False,False,False,False,False,2022-06,14.443538958402296
+2024.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VITI,SH.P.K.,6.0,4735.57,,False,False,False,False,False,False,False,2024-01,8.463068524051522
+2022.0,6.0,Industria perpunuese,DRAGASH,INDIVIDUAL,1.0,3150.0,,False,False,False,False,False,False,False,2022-06,8.055475141757274
+2024.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,KOMPANI E HUAJ,2.0,71181.4,,False,False,False,False,False,False,False,2024-03,11.173000875832097
+2020.0,9.0,Industria perpunuese,SHTËRPCË,INDIVIDUAL,1.0,1632.35,,False,False,False,False,False,False,False,2020-09,7.398388399460179
+2020.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË,SH.P.K.,1.0,80207.06,,False,False,False,False,False,False,False,2020-11,11.29237928755806
+2022.0,7.0,"Aktivitetet profesionale, shkencore dhe teknike",GJILAN,INDIVIDUAL,1.0,8330.0,,False,False,False,False,False,False,False,2022-07,9.027738775974909
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,INDIVIDUAL,5.0,4446.0,,False,False,False,False,False,False,False,2019-12,8.399984990510696
+2024.0,2.0,Ndertimtaria,MITROVICË,SH.P.K.,3.0,0.0,,False,False,False,False,False,False,False,2024-02,0.0
+2022.0,9.0,"Aktivitetet profesionale, shkencore dhe teknike",VITI,SH.P.K.,3.0,3413.17,,False,False,False,False,False,False,False,2022-09,8.135689697076579
+2025.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,SH.P.K.,3.0,21538.19,,False,False,False,False,False,False,False,2025-12,9.97762934554649
+2021.0,9.0,"Artet, Argetimi dhe rekreacioni",ISTOG,INDIVIDUAL,5.0,3570.0,,False,False,False,False,False,False,False,2021-09,8.18060094759445
+2025.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2025-06,0.0
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,SH.P.K.,1.0,1872.0,,False,False,False,False,False,False,False,2022-12,7.535296702444088
+2023.0,9.0,Arsimi,GJAKOVË,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2023-09,0.0
+2025.0,12.0,Sherbimet administrative dhe mbeshtetese,RAHOVEC,SH.P.K.,3.0,7798.0,,False,False,False,False,False,False,False,2025-12,8.961750799330497
+2021.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,8.0,153771.54,,False,False,False,False,False,False,False,2021-06,11.943229776549812
+2022.0,10.0,Informimi dhe komunikimi,FERIZAJ,SH.P.K.,4.0,17984.34,,False,False,False,False,False,False,False,2022-10,9.797312260593792
+2020.0,11.0,Ndertimtaria,ZVEÇAN,INDIVIDUAL,3.0,135068.07,,False,False,False,False,False,False,False,2020-11,11.813541556212382
+2022.0,11.0,Informimi dhe komunikimi,VITI,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2022-11,0.0
+2021.0,9.0,Aktivitetet e tjera sherbyese,PEJË,INDIVIDUAL,2.0,1106.0,,False,False,False,False,False,False,False,2021-09,7.009408932708637
+2023.0,12.0,Bujqesia;Pylltaria dhe Peshkimi,KAÇANIK,INDIVIDUAL,1.0,2800.0,,False,False,False,False,False,False,False,2023-12,7.937731775260109
+2025.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË VERIORE,SH.P.K.,2.0,30418.57,,False,False,False,False,False,False,False,2025-06,10.322841430276164
+2023.0,8.0,Industria perpunuese,MAMUSHË,SH.P.K.,2.0,205501.96,,False,False,False,False,False,False,False,2023-08,12.233215716707637
+2021.0,9.0,Transporti dhe magazinimi,LIPJAN,SH.P.K.,1.0,3996.28,,False,False,False,False,False,False,False,2021-09,8.293369408797163
+2022.0,6.0,Akomodimi dhe sherbimi ushqimor,PRIZREN,INDIVIDUAL,174.0,313696.82,,False,False,False,False,False,False,False,2022-06,12.656185444839991
+2022.0,11.0,Aktivitetet e tjera sherbyese,VITI,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2022-11,0.0
+2025.0,11.0,Bujqesia;Pylltaria dhe Peshkimi,PODUJEVË,INDIVIDUAL,4.0,3376.68,,False,False,False,False,False,False,False,2025-11,8.12494436227069
+2021.0,1.0,Mungon aktiviteti,PRIZREN,INDIVIDUAL,1.0,0.0,,False,False,False,False,False,False,False,2021-01,0.0
+2025.0,2.0,Sherbimet administrative dhe mbeshtetese,ISTOG,INDIVIDUAL,2.0,0.0,,False,False,False,False,False,False,False,2025-02,0.0
+2020.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,2.0,182497.52,,False,False,False,False,False,False,False,2020-02,12.11449734238276
+2023.0,4.0,"Aktivitetet profesionale, shkencore dhe teknike",PRIZREN,SH.P.K.,3.0,50830.07,,False,False,False,False,False,False,False,2023-04,10.83626306078008
+2019.0,12.0,Aktivitetet e tjera sherbyese,RANILLUG,INDIVIDUAL,1.0,1910.95,,False,False,False,False,False,False,False,2019-12,7.555878942641798
+2020.0,8.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,FERIZAJ,SH.P.K.,6.0,58300.0,,False,False,False,False,False,False,False,2020-08,10.97337452485014
+2025.0,11.0,Industria perpunuese,ISTOG,SH.P.K.,1.0,22395.16,,False,False,False,False,False,False,False,2025-11,10.016644794576145
+2020.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJAKOVË,SH.P.K.,5.0,6676.61,,False,False,False,False,False,False,False,2020-10,8.806515418079433
+2022.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,1.0,20262.03,,False,False,False,False,False,False,False,2022-02,9.91655332239525
+2021.0,4.0,Administrimi publik dhe mbrojtja; Sigurimi social i detyrueshem,PRISHTINË,KOMPANI E HUAJ,2.0,54152.75,,False,False,False,False,False,False,False,2021-04,10.899582502108885
+2022.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,INDIVIDUAL,4.0,70826.67,,False,False,False,False,False,False,False,2022-11,11.168005022540916
+2022.0,5.0,"Aktivitetet profesionale, shkencore dhe teknike",PRISHTINË,INDIVIDUAL,20.0,23825.77,,False,False,False,False,False,False,False,2022-05,10.0785650174733
+2023.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,14.0,115812.86,,False,False,False,False,False,False,False,2023-03,11.659739526078033
+2025.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,INDIVIDUAL,2.0,4371.62,,False,False,False,False,False,False,False,2025-06,8.38311765077003
+2023.0,1.0,Industria perpunuese,PRIZREN,SH.P.K.,5.0,28190.35,,False,False,False,False,False,False,False,2023-01,10.246770472283956
+2019.0,3.0,Aktivitetet e tjera sherbyese,MALISHEVË,INDIVIDUAL,2.0,8499.5,,False,False,False,False,False,False,False,2019-03,9.047880264277785
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PEJË,INDIVIDUAL,45.0,101668.43,,False,False,False,False,False,False,False,2022-12,11.52948194687993
+2019.0,6.0,Industria perpunuese,PRISHTINË,SH.P.K.,4.0,2432.0,,False,False,False,False,False,False,False,2019-06,7.796880342783522
+2024.0,2.0,Industria perpunuese,GJAKOVË,INDIVIDUAL,1.0,3305.93,,False,False,False,False,False,False,False,2024-02,8.103775545536717
+2025.0,7.0,Industria perpunuese,PEJË,INDIVIDUAL,6.0,70156.18,,False,False,False,False,False,False,False,2025-07,11.158493432395623
+2024.0,5.0,Informimi dhe komunikimi,FERIZAJ,SH.P.K.,3.0,7110.0,,False,False,False,False,False,False,False,2024-05,8.869398159883518
+2019.0,12.0,Akomodimi dhe sherbimi ushqimor,VUSHTRRI,SH.P.K.,12.0,143833.31,,False,False,False,False,False,False,False,2019-12,11.876417291080967
+2025.0,4.0,Aktivitetet e patundshmerise,PRISHTINË,INDIVIDUAL,9.0,436926.8,,False,False,False,False,False,False,False,2025-04,12.987523243036524
+2022.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,PRIZREN,KOOPERATIVA BUJQ.,1.0,1568.32,,False,False,False,False,False,False,False,2022-02,7.358397683499245
+2023.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,SH.P.K.,28.0,2450862.05,,False,False,False,False,False,False,False,2023-09,14.711950785796176
+2021.0,9.0,Industria perpunuese,PRIZREN,SH.P.K.,15.0,702491.24,,False,False,False,False,False,False,False,2021-09,13.462389633865682
+2025.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,7.0,105702.83,,False,False,False,False,False,False,False,2025-07,11.568396405828173

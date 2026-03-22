@@ -1,0 +1,11 @@
+action,column,count
+standardize_blank_strings,*,0
+drop_empty_or_header_rows,*,1
+coerce_numeric,year,0
+coerce_numeric,month,0
+coerce_numeric,num_taxpayers,0
+coerce_numeric,turnover_eur,0
+standardize_text,primary_sector,753890
+standardize_text,municipality,753890
+standardize_text,registration_status,753890
+drop_duplicates,*,102977

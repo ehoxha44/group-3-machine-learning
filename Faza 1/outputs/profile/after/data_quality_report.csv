@@ -1,0 +1,10 @@
+metric,value
+total_rows,650913
+total_columns,7
+complete_rows,650913
+rows_with_any_null,0
+duplicate_rows,0
+invalid_year_rows,0
+invalid_month_rows,0
+invalid_num_taxpayers_rows,0
+invalid_turnover_rows,176

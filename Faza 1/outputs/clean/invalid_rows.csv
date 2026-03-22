@@ -1,0 +1,177 @@
+year,month,primary_sector,municipality,registration_status,num_taxpayers,turnover_eur,invalid_reason
+2025.0,1.0,Industria nxjerrese,GJAKOVË,SH.P.K.,6.0,-21691.74,invalid_turnover
+2025.0,1.0,Ndertimtaria,LIPJAN,SH.P.K.,3.0,-1055.01,invalid_turnover
+2025.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,3.0,-45191.96,invalid_turnover
+2025.0,2.0,Industria perpunuese,GRAÇANICË,SH.P.K.,1.0,-10469.9,invalid_turnover
+2025.0,3.0,Ndertimtaria,LIPJAN,SH.P.K.,3.0,-17995.97,invalid_turnover
+2025.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,LIPJAN,SH.P.K.,1.0,-13067.79,invalid_turnover
+2025.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,KOMPANI E HUAJ,1.0,-8500.0,invalid_turnover
+2025.0,4.0,Industria perpunuese,FERIZAJ,SH.P.K.,3.0,-594.08,invalid_turnover
+2025.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,2.0,-20358.25,invalid_turnover
+2025.0,6.0,Bujqesia;Pylltaria dhe Peshkimi,SUHAREKË,SH.P.K.,2.0,-29661.02,invalid_turnover
+2025.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MITROVICË VERIORE,SH.P.K.,1.0,-338.81,invalid_turnover
+2025.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,SH.P.K.,3.0,-1844.65,invalid_turnover
+2025.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,SH.P.K.,4.0,-8642.72,invalid_turnover
+2025.0,9.0,Industria perpunuese,PRIZREN,INDIVIDUAL,4.0,-11802.68,invalid_turnover
+2025.0,10.0,Industria perpunuese,SUHAREKË,SH.P.K.,4.0,-266.94,invalid_turnover
+2025.0,10.0,Industria perpunuese,PRIZREN,INDIVIDUAL,3.0,-40334.3,invalid_turnover
+2025.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,SH.P.K.,2.0,-138.2,invalid_turnover
+2025.0,12.0,Informimi dhe komunikimi,PRISHTINË,KOMPANI E HUAJ,3.0,-1953.07,invalid_turnover
+2024.0,1.0,Industria perpunuese,GRAÇANICË,SH.P.K.,1.0,-53.32,invalid_turnover
+2024.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GLLOGOC,SH.P.K.,2.0,-517.98,invalid_turnover
+2024.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,-833.31,invalid_turnover
+2024.0,2.0,Industria perpunuese,PRISHTINË,SH.P.K.,2.0,-39366.34,invalid_turnover
+2024.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SHTIME,KOMPANI E HUAJ,1.0,-4791.61,invalid_turnover
+2024.0,3.0,Aktivitetet e patundshmerise,SUHAREKË,SH.P.K.,4.0,-7200.0,invalid_turnover
+2024.0,4.0,Bujqesia;Pylltaria dhe Peshkimi,OBILIQ,SH.P.K.,2.0,-29603.61,invalid_turnover
+2024.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,-57628.53,invalid_turnover
+2024.0,5.0,Bujqesia;Pylltaria dhe Peshkimi,FERIZAJ,SH.P.K.,1.0,-72.2,invalid_turnover
+2024.0,5.0,Industria perpunuese,GJILAN,SH.P.K.,3.0,-3683.79,invalid_turnover
+2024.0,5.0,"Aktivitetet profesionale, shkencore dhe teknike",FUSHË KOSOVË,SH.P.K.,4.0,-5849.56,invalid_turnover
+2024.0,7.0,Bujqesia;Pylltaria dhe Peshkimi,FERIZAJ,SH.P.K.,1.0,-680.0,invalid_turnover
+2024.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,-43255.27,invalid_turnover
+2024.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,INDIVIDUAL,1.0,-1967.51,invalid_turnover
+2024.0,8.0,Industria perpunuese,VUSHTRRI,SH.P.K.,5.0,-110660.23,invalid_turnover
+2024.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,1.0,-1298.42,invalid_turnover
+2024.0,11.0,Informimi dhe komunikimi,FERIZAJ,SH.P.K.,2.0,-5989.84,invalid_turnover
+2024.0,12.0,Bujqesia;Pylltaria dhe Peshkimi,GLLOGOC,INDIVIDUAL,6.0,-1952.54,invalid_turnover
+2023.0,1.0,Industria perpunuese,GRAÇANICË,SH.P.K.,1.0,-386.8,invalid_turnover
+2023.0,1.0,Industria perpunuese,GJAKOVË,INDIVIDUAL,2.0,-9112.65,invalid_turnover
+2023.0,1.0,Industria perpunuese,FUSHË KOSOVË,SH.P.K.,1.0,-1367.75,invalid_turnover
+2023.0,1.0,Industria perpunuese,MITROVICË,SH.P.K.,2.0,-4656.78,invalid_turnover
+2023.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GJILAN,INDIVIDUAL,2.0,-12875.01,invalid_turnover
+2023.0,2.0,Industria perpunuese,PODUJEVË,INDIVIDUAL,1.0,-386.05,invalid_turnover
+2023.0,2.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-3821.18,invalid_turnover
+2023.0,3.0,Industria perpunuese,PRISHTINË,SH.P.K.,2.0,-87.49,invalid_turnover
+2023.0,3.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-10046.19,invalid_turnover
+2023.0,4.0,Aktivitetet e patundshmerise,GRAÇANICË,SH.P.K.,1.0,-40000.0,invalid_turnover
+2023.0,5.0,Industria perpunuese,GRAÇANICË,SH.P.K.,1.0,-92.15,invalid_turnover
+2023.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,2.0,-21090.6,invalid_turnover
+2023.0,6.0,Industria perpunuese,PRISHTINË,SH.P.K.,3.0,-240.84,invalid_turnover
+2023.0,6.0,Industria perpunuese,PRISHTINË,SH.P.K.,2.0,-7656.76,invalid_turnover
+2023.0,7.0,Industria perpunuese,GRAÇANICË,SH.P.K.,1.0,-105.52,invalid_turnover
+2023.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,1.0,-377.08,invalid_turnover
+2023.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,2.0,-6732.47,invalid_turnover
+2023.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,1.0,-5932.2,invalid_turnover
+2023.0,8.0,Bujqesia;Pylltaria dhe Peshkimi,MALISHEVË,SH.P.K.,3.0,-4400.0,invalid_turnover
+2023.0,8.0,Industria perpunuese,LIPJAN,SH.P.K.,1.0,-1005.45,invalid_turnover
+2023.0,9.0,Sherbimet administrative dhe mbeshtetese,SUHAREKË,SH.P.K.,2.0,-5180.0,invalid_turnover
+2023.0,9.0,Aktivitetet e tjera sherbyese,PRIZREN,SH.P.K.,1.0,-335.59,invalid_turnover
+2023.0,12.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,SHOQËRI AKCIONARE,2.0,-141891.52,invalid_turnover
+2022.0,1.0,Industria perpunuese,VUSHTRRI,SH.P.K.,1.0,-993.72,invalid_turnover
+2022.0,1.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,KOMPANI E HUAJ,1.0,-1718.98,invalid_turnover
+2022.0,1.0,Informimi dhe komunikimi,FERIZAJ,SH.P.K.,1.0,-55.1,invalid_turnover
+2022.0,1.0,Administrimi publik dhe mbrojtja; Sigurimi social i detyrueshem,PRISHTINË,SH.P.K.,3.0,-1327.45,invalid_turnover
+2022.0,1.0,Arsimi,LIPJAN,SH.P.K.,1.0,-681.72,invalid_turnover
+2022.0,2.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-18171.44,invalid_turnover
+2022.0,2.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-166.87,invalid_turnover
+2022.0,2.0,"Aktivitetet profesionale, shkencore dhe teknike",FERIZAJ,SH.P.K.,10.0,-20922.61,invalid_turnover
+2022.0,2.0,Aktivitetet e tjera sherbyese,VUSHTRRI,OJQ,1.0,-666.86,invalid_turnover
+2022.0,3.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-15528.03,invalid_turnover
+2022.0,3.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-302.93,invalid_turnover
+2022.0,4.0,Ndertimtaria,PODUJEVË,INDIVIDUAL,4.0,-11980.96,invalid_turnover
+2022.0,4.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-266.26,invalid_turnover
+2022.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,-142449.42,invalid_turnover
+2022.0,5.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-977.17,invalid_turnover
+2022.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FUSHË KOSOVË,SH.P.K.,4.0,-8969.85,invalid_turnover
+2022.0,6.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-118.6,invalid_turnover
+2022.0,7.0,Ndertimtaria,GJAKOVË,SH.P.K.,1.0,-3185.0,invalid_turnover
+2022.0,7.0,Ndertimtaria,PRISHTINË,KOMPANI E HUAJ,1.0,-5103.99,invalid_turnover
+2022.0,7.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-1250.07,invalid_turnover
+2022.0,8.0,Ndertimtaria,PRISHTINË,KOMPANI E HUAJ,1.0,-45936.0,invalid_turnover
+2022.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,-6678.26,invalid_turnover
+2022.0,8.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-1235.13,invalid_turnover
+2022.0,10.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-66.39,invalid_turnover
+2022.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,-13249.58,invalid_turnover
+2022.0,11.0,Aktivitetet e patundshmerise,FERIZAJ,SH.P.K.,2.0,-49039.02,invalid_turnover
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,SHTIME,SH.P.K.,1.0,-118660.12,invalid_turnover
+2022.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,-1088.63,invalid_turnover
+2021.0,1.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-96.16,invalid_turnover
+2021.0,2.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-33358.09,invalid_turnover
+2021.0,2.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,INDIVIDUAL,6.0,-11407.14,invalid_turnover
+2021.0,2.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-219.57,invalid_turnover
+2021.0,3.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-14976.34,invalid_turnover
+2021.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,INDIVIDUAL,2.0,-3546.86,invalid_turnover
+2021.0,3.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-1370.31,invalid_turnover
+2021.0,4.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-1390.69,invalid_turnover
+2021.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,1.0,-42244.81,invalid_turnover
+2021.0,6.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-152.7,invalid_turnover
+2021.0,7.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-540.45,invalid_turnover
+2021.0,8.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-832.53,invalid_turnover
+2021.0,9.0,Bujqesia;Pylltaria dhe Peshkimi,SUHAREKË,SH.P.K.,1.0,-841.83,invalid_turnover
+2021.0,9.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PODUJEVË,SH.P.K.,2.0,-2131.35,invalid_turnover
+2021.0,9.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-377.82,invalid_turnover
+2021.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,SH.P.K.,1.0,-3952.48,invalid_turnover
+2021.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,SH.P.K.,1.0,-18007.97,invalid_turnover
+2021.0,10.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-503.11,invalid_turnover
+2021.0,11.0,Industria perpunuese,VUSHTRRI,SH.P.K.,1.0,-4022.87,invalid_turnover
+2021.0,11.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,KOMPANI E HUAJ,2.0,-5438.5,invalid_turnover
+2021.0,11.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-122.31,invalid_turnover
+2021.0,11.0,Administrimi publik dhe mbrojtja; Sigurimi social i detyrueshem,PRISHTINË,SH.P.K.,3.0,-3367.05,invalid_turnover
+2021.0,12.0,Informimi dhe komunikimi,PRISHTINË,KOMPANI E HUAJ,1.0,-25382.72,invalid_turnover
+2020.0,1.0,Industria perpunuese,GRAÇANICË,SH.P.K.,1.0,-2734.33,invalid_turnover
+2020.0,1.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-11672.5,invalid_turnover
+2020.0,2.0,Bujqesia;Pylltaria dhe Peshkimi,MALISHEVË,SH.P.K.,2.0,-8.06,invalid_turnover
+2020.0,2.0,Industria perpunuese,PRIZREN,SH.P.K.,3.0,-622.7,invalid_turnover
+2020.0,2.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-21695.8,invalid_turnover
+2020.0,2.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-4451.83,invalid_turnover
+2020.0,3.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-3177.12,invalid_turnover
+2020.0,3.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRISHTINË,KOMPANI E HUAJ,1.0,-36704.37,invalid_turnover
+2020.0,3.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-2325.17,invalid_turnover
+2020.0,3.0,Sherbimet administrative dhe mbeshtetese,PRIZREN,SH.P.K.,3.0,-23678.24,invalid_turnover
+2020.0,4.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,INDIVIDUAL,10.0,-295.14,invalid_turnover
+2020.0,4.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-32.86,invalid_turnover
+2020.0,4.0,Sherbimet administrative dhe mbeshtetese,FERIZAJ,INDIVIDUAL,6.0,-5340.77,invalid_turnover
+2020.0,4.0,Sherbimet administrative dhe mbeshtetese,PRIZREN,SH.P.K.,2.0,-2189.0,invalid_turnover
+2020.0,4.0,Sherbimet administrative dhe mbeshtetese,GRAÇANICË,SH.P.K.,1.0,-305.0,invalid_turnover
+2020.0,4.0,Sherbimet administrative dhe mbeshtetese,PRIZREN,SH.P.K.,2.0,-35.0,invalid_turnover
+2020.0,5.0,Industria perpunuese,PRIZREN,SH.P.K.,4.0,-187.97,invalid_turnover
+2020.0,5.0,Industria perpunuese,PRISHTINË,INDIVIDUAL,5.0,-1322.65,invalid_turnover
+2020.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,MALISHEVË,SH.P.K.,1.0,-2725.0,invalid_turnover
+2020.0,5.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-920.62,invalid_turnover
+2020.0,5.0,Sherbimet administrative dhe mbeshtetese,PRIZREN,SH.P.K.,2.0,-3920.0,invalid_turnover
+2020.0,5.0,Sherbimet administrative dhe mbeshtetese,GRAÇANICË,SH.P.K.,1.0,-583.0,invalid_turnover
+2020.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,SH.P.K.,2.0,-12844.55,invalid_turnover
+2020.0,6.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-1353.66,invalid_turnover
+2020.0,6.0,Sherbimet administrative dhe mbeshtetese,GRAÇANICË,SH.P.K.,1.0,-596.0,invalid_turnover
+2020.0,7.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-42.35,invalid_turnover
+2020.0,7.0,Arsimi,PRISHTINË,SH.P.K.,2.0,-11810.0,invalid_turnover
+2020.0,7.0,Arsimi,GJILAN,SH.P.K.,2.0,-687.14,invalid_turnover
+2020.0,8.0,Bujqesia;Pylltaria dhe Peshkimi,PRISHTINË,SH.P.K.,3.0,-48268.1,invalid_turnover
+2020.0,8.0,Industria perpunuese,VUSHTRRI,SH.P.K.,1.0,-22.88,invalid_turnover
+2020.0,8.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,RAHOVEC,SH.P.K.,1.0,-1830.59,invalid_turnover
+2020.0,8.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-280.66,invalid_turnover
+2020.0,8.0,"Aktivitetet profesionale, shkencore dhe teknike",FUSHË KOSOVË,SH.P.K.,4.0,-27550.0,invalid_turnover
+2020.0,8.0,Arsimi,PRISHTINË,SH.P.K.,2.0,-100.0,invalid_turnover
+2020.0,9.0,Bujqesia;Pylltaria dhe Peshkimi,PRIZREN,SH.P.K.,1.0,-3095.25,invalid_turnover
+2020.0,9.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-9910.19,invalid_turnover
+2020.0,9.0,Arsimi,PRISHTINË,SH.P.K.,2.0,-8624.42,invalid_turnover
+2020.0,10.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,GRAÇANICË,SH.P.K.,1.0,-17567.18,invalid_turnover
+2020.0,10.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-10804.74,invalid_turnover
+2020.0,10.0,Arsimi,PRISHTINË,SH.P.K.,2.0,-1100.73,invalid_turnover
+2020.0,11.0,Industria perpunuese,GJILAN,SH.P.K.,1.0,-104969.75,invalid_turnover
+2020.0,11.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-776.36,invalid_turnover
+2020.0,12.0,Bujqesia;Pylltaria dhe Peshkimi,SUHAREKË,SH.P.K.,1.0,-1035.5,invalid_turnover
+2019.0,1.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-1759.23,invalid_turnover
+2019.0,1.0,"Aktivitetet profesionale, shkencore dhe teknike",PRISHTINË,PËRFAQËSUES FISKAL,1.0,-3856.15,invalid_turnover
+2019.0,1.0,Arsimi,PRISHTINË,SH.P.K.,2.0,-2634.0,invalid_turnover
+2019.0,2.0,Industria perpunuese,MITROVICË,SH.P.K.,1.0,-11829.7,invalid_turnover
+2019.0,2.0,Industria perpunuese,SHTIME,INDIVIDUAL,1.0,-1357.62,invalid_turnover
+2019.0,2.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-6018.22,invalid_turnover
+2019.0,3.0,Industria perpunuese,PEJË,INDIVIDUAL,2.0,-7254.44,invalid_turnover
+2019.0,3.0,Industria perpunuese,PEJË,SH.P.K.,2.0,-3080.72,invalid_turnover
+2019.0,3.0,Industria perpunuese,GLLOGOC,INDIVIDUAL,1.0,-1475.0,invalid_turnover
+2019.0,3.0,Arsimi,PRISHTINË,SH.P.K.,4.0,-790.0,invalid_turnover
+2019.0,4.0,Industria perpunuese,SHTIME,INDIVIDUAL,1.0,-738.64,invalid_turnover
+2019.0,4.0,Arsimi,PRISHTINË,SH.P.K.,2.0,-1884.98,invalid_turnover
+2019.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,PRIZREN,SH.P.K.,3.0,-6473.14,invalid_turnover
+2019.0,5.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,ISTOG,SH.P.K.,1.0,-1895.51,invalid_turnover
+2019.0,5.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-3465.44,invalid_turnover
+2019.0,6.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,FERIZAJ,INDIVIDUAL,2.0,-10593.22,invalid_turnover
+2019.0,7.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,OBILIQ,SH.P.K.,3.0,-1764.76,invalid_turnover
+2019.0,9.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-289311.34,invalid_turnover
+2019.0,10.0,Ndertimtaria,PRISHTINË,SH.P.K.,4.0,-6000.0,invalid_turnover
+2019.0,11.0,Bujqesia;Pylltaria dhe Peshkimi,ISTOG,SH.P.K.,4.0,-23950.0,invalid_turnover
+2019.0,12.0,Tregtia me shumice dhe pakice; Riparimi i mjeteve motorike dhe motoeikletave,VUSHTRRI,SH.P.K.,1.0,-2850000.0,invalid_turnover
+2019.0,12.0,Aktivitetet financiare dhe te sigurimit,PRISHTINË,KOMPANI E HUAJ,1.0,-5554.3,invalid_turnover
+2019.0,12.0,Aktivitetet e shendetit te njeriut dhe te punes sociale,GRAÇANICË,SH.P.K.,3.0,-63770.36,invalid_turnover

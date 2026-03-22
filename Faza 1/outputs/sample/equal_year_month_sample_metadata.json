@@ -1,0 +1,7 @@
+{
+  "method": "equal_year_month",
+  "sample_size": 1200,
+  "seed": 42,
+  "stratify_by": null,
+  "equal_by_period": true
+}

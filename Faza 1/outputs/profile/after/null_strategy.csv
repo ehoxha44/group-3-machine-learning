@@ -1,0 +1,4 @@
+column_role,strategy
+numeric,"preserve nulls in strict dataset, median-impute only in model-ready dataset"
+categorical,"preserve nulls in strict dataset, fill with Unknown only in model-ready dataset"
+row_filtering,drop only rows with all critical business fields missing or repeated header rows

@@ -1,0 +1,8 @@
+column,null_count,null_rate_decimal,null_rate_percent,non_null_count
+year,1,1.33e-06,0.000133%,753890
+month,1,1.33e-06,0.000133%,753890
+num_taxpayers,1,1.33e-06,0.000133%,753890
+turnover_eur,1,1.33e-06,0.000133%,753890
+primary_sector,1,1.33e-06,0.000133%,753890
+municipality,1,1.33e-06,0.000133%,753890
+registration_status,1,1.33e-06,0.000133%,753890

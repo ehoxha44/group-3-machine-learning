@@ -1,0 +1,22 @@
+column,dtype,semantic_type,null_count,null_rate_decimal,null_rate_percent,unique_count,sample_values
+"Viti
+Godina
+Year",float64,numeric,1,1.33e-06,0.000133%,7,2025.0 | 2025.0 | 2025.0
+"Muaji
+Mesec
+Month",float64,numeric,1,1.33e-06,0.000133%,12,1.0 | 1.0 | 1.0
+"Përshkrimi i Sektorit (Kryesor)
+Opis (Glavnog) Sektora
+Description of (Primary) Sector",object,categorical,1,1.33e-06,0.000133%,23,Bujqesia;Pylltaria dhe Peshkimi | Bujqesia;Pylltaria dhe Peshkimi | Bujqesia;Pylltaria dhe Peshkimi
+"Komuna
+Opština
+Municipality ",object,categorical,1,1.33e-06,0.000133%,38,KLINË | PODUJEVË | MITROVICË VERIORE
+"Statusi i Regjistrimit
+Status Registracije
+Registration Status",object,categorical,1,1.33e-06,0.000133%,30,SH.P.K. | SH.P.K. | SH.P.K.
+"Numri i Tatimpaguesve
+Broj Poreskih Obveznika 
+Number of Taxpayers",float64,numeric,1,1.33e-06,0.000133%,477,2.0 | 2.0 | 1.0
+"Qarkullimi në Euro
+Promet u evrima
+Turnover in Euro ",float64,numeric,1,1.33e-06,0.000133%,442973,0.0 | 13436.77 | 0.0

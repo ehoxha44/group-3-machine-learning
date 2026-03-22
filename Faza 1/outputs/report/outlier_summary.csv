@@ -1,0 +1,6 @@
+metric,count
+turnover_eur_outlier_iqr,96473
+turnover_eur_outlier_zscore,5455
+num_taxpayers_outlier_iqr,79451
+num_taxpayers_outlier_zscore,8101
+turnover_eur_outlier_log_iqr,104535
