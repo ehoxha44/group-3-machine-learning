@@ -1,0 +1,6 @@
+metric,value
+kmeans_inertia,11300.967150530327
+kmeans_silhouette,0.1806079412510003
+kmeans_davies_bouldin,1.5839433150387934
+pca_variance_2d,0.5993185409589625
+pca_components_95pct,4.0

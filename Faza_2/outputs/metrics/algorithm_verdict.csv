@@ -1,0 +1,11 @@
+Metric,RandomForest,XGBoost
+Accuracy (hold-out),0.5896 ,0.6250 ✓
+Precision macro (hold-out),0.4744 ,0.4822 ✓
+Recall macro (hold-out),0.4710 ✓,0.4384 
+F1-Score macro (hold-out),0.4685 ✓,0.4342 
+Cohen's Kappa (hold-out),0.2556 ✓,0.2433 
+Accuracy (CV mean),0.5811±0.0091 ,0.6317±0.0059 ✓
+Precision macro (CV),0.4536±0.0107 ,0.4948±0.0204 ✓
+Recall macro (CV),0.4574±0.0111 ✓,0.4481±0.0060 
+F1-Score macro (CV),0.4533±0.0110 ✓,0.4472±0.0082 
+Cohen's Kappa (CV),0.2425±0.0138 ,0.2594±0.0130 ✓
