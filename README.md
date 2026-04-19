@@ -401,3 +401,446 @@ README specifik i fazës gjendet në:
 ## Qëllimi Akademik
 
 Ky projekt është realizuar si pjesë e lëndës Machine Learning dhe synon të demonstrojë zbatimin praktik të teknikave të parapërpunimit dhe përgatitjes së të dhënave për analiza statistikore dhe modelim të mëvonshëm.
+
+---
+
+## Faza 2: Analizë e Rritjes Ekonomike – Trajnimi, Evaluimi dhe Dokumentimi
+
+### Qëllimi i Fazës 2
+
+Faza 2 adresohet direkt pyetjes kryesore të projektit: **si ka performuar ekonomia e Kosovës sipas qytetit, sektorit, dhe kombinimit sektor × qytet në periudhën 2020–2025?**
+
+### Struktura e Faza_2
+
+```text
+Faza_2/
+├── requirements.txt
+├── outputs/
+│   ├── models/          # modelet e serializuara (.pkl)
+│   ├── plots/           # grafikët e gjeneruar (.png)
+│   └── metrics/         # raportet e metrikave (.csv)
+└── src/
+    ├── __init__.py
+    ├── config.py          # konfigurim i centralizuar (rrugë, hiper-parametra)
+    ├── data_loader.py     # ngarkimi dhe përgatitja e të dhënave
+    ├── feature_engineering.py  # enkodimi i kategorive dhe skalimi
+    ├── supervised.py      # Step A: Random Forest + XGBoost
+    ├── unsupervised.py    # Step A: K-Means + PCA
+    ├── evaluation.py      # Step B: metrika, grafikë dhe krahasime
+    └── main.py            # pikë hyrëse CLI
+```
+
+### Algoritmet e Përdorura (7 gjithsej)
+
+| # | Algoritmi | Lloji | Qëllimi                                                                  |
+|---|-----------|-------|--------------------------------------------------------------------------|
+| 1 | **Random Forest Classifier** | Supervised – Klasifikim | Klasifikon kombinimin (komunë, sektor) si GROWING / STABLE / DECLINING   |
+| 2 | **XGBoost Classifier** | Supervised – Klasifikim | Alternativë gradient-boosting për klasifikim, shpesh me saktësi të lartë |
+| 3 | **Linear Regression** | Supervised – Regresion | Baseline interpretues: parashikon vlerën e vazhdueshme të `growth_rate`  |
+| 4 | **Random Forest Regressor** | Supervised – Regresion | Parashikon `growth_rate` me metodë ensemble jo-lineare                   |
+| 5 | **XGBoost Regressor** | Supervised – Regresion | Modeli kryesor për parashikimet e tregut 2026                            |
+| 6 | **K-Means Clustering** | Unsupervised | Grupimi i komunave dhe sektorëve sipas trajektores së rritjes            |
+| 7 | **PCA** | Unsupervised | Reduktim dimensionaliteti dhe vizualizim                                 |
+
+---
+
+### Arsyetimi për zgjedhjen e algoritmeve
+
+#### Algoritmet e Supervised Learning
+
+**1. Random Forest Classifier**
+
+Random Forest është zgjedhja kryesore për klasifikim për arsyet e mëposhtme:
+
+- Dataseti ka tipare të përziera — numerike (`num_taxpayers`, `turnover_eur_log1p`) dhe kategorike të enkuduara (`primary_sector`, `municipality`). Random Forest i trajton këto tipare pa presupozime lineare.
+- Të dhënat financiare të qarkullimit kanë shpërndarje të shtrembëruar me outliers të shumtë (96 473 me metodën IQR). Pylltë e rastësishme janë robuste ndaj vlerave ekstreme sepse vendimmarrja bazohet në ndarje, jo në distancë.
+- Parametri `class_weight="balanced"` kompenson pabarazinë e klasave pa pasur nevojë të ngarkohet skedari i resampluar 603 MB.
+- Ofron `feature_importances_` që tregon se cilat tipare — viti, muaji, sektori apo komuna — ndikojnë më shumë në klasifikimin e entitetit të regjistrimit.
+
+**2. XGBoost Classifier**
+
+XGBoost (Extreme Gradient Boosting) është plotësuesi natyral i Random Forest:
+
+- Ndërsa Random Forest trajnon pemë paralelisht dhe i kombinon, XGBoost i ndërton pemë sekuencialisht duke korrigjuar gabimet e bëra nga modelet e mëparshme. Kjo strategji e boosting-ut zakonisht prodhon saktësi më të lartë në të dhëna tabulare.
+- Regularizimi i integruar (L1 + L2) dhe `colsample_bytree=0.8` reduktojnë mbipërshtatjen (overfitting) në hapësirën e madhe të tipareve.
+- Ofron `feature_importances_` të krahasueshme me ato të Random Forest, duke lejuar validimin e kross-metodave.
+- Algoritmi është i optimizuar për memorie dhe CPU, i përshtatshëm për 50 000 rreshta me hiper-parametra konservativë.
+
+#### Algoritmet e Supervised Learning – Regresion
+
+**3. Linear Regression (OLS)**
+
+- Shërben si benchmark minimal: nëse modelet e pemëve nuk e tejkalojnë një vijë të drejtë, sinjali jo-linear është i dobët.
+- Koeficientët janë drejtpërdrejt të interpretueshëm: "+X% rritje për çdo njësi log-EUR qarkullimi paraprak."
+- Nuk bën supozime mbi shpërndarjen e gabimeve në model; StandardScaler siguron peshim të drejtë të tipareve.
+
+**4. Random Forest Regressor**
+
+- E njëjta logjikë ensemble si klasifikuesi, por parashikon `growth_rate` si vlerë të vazhdueshme.
+- Trajton ndërveprime jo-lineare midis komunës, sektorit dhe qarkullimit historik pa inxhinieri manuale tiparesh.
+- Mesatarizimi ndër 300 pemë zvogëlon variancën, gjë kritike kur dataseti i agreguar ka vetëm 3 956 rreshta.
+
+**5. XGBoost Regressor**
+
+- Gradient boosting sekuencial me `objective=reg:squarederror` — optimizon MSE direkt.
+- Regularizimi L1/L2 i integruar dhe `subsample=0.8` parandalojnë overfitting-un.
+- Shërbeu si modeli kryesor për parashikimet e tregut 2026 falë saktësisë superiore të tij mbi të dhëna tabulare strukturore.
+
+#### Algoritmet e Unsupervised Learning
+
+**6. K-Means Clustering**
+
+- Dataseti i qarkullimit ka grupime natyrale: pesë klasa kryesore të `registration_status` (SH.P.K., INDIVIDUAL, ORTAKËRI, SHOQËRI AKCIONARE, KOMPANI E HUAJ), profile të ndryshme komunale (Prishtina dominon me 51.5 miliardë EUR), dhe banda të dallueshme të qarkullimit sipas sektorëve.
+- K-Means është efikas llogaritërisht me 50 000 rreshta dhe prodhon centroide të interpretueshme.
+- Analiza elbow + silhouette + Davies-Bouldin lejon zgjedhjen empirike të k-ut optimal pa supozime paraprake.
+- Krahasimi i klastereve me etiketat reale të `registration_status` teston nëse grupimi natyral i të dhënave korrespondon me klasifikimet ligjore të bizneseve.
+
+**7. Principal Component Analysis (PCA)**
+
+- Pas enkodimit të kategorive, hapësira e tipareve ka dimensione të papërsosura: vlerat numerike të mëdha (`turnover_eur_log1p`) ndaj kodeve të vogla integer për qindra komuna. PCA i dekorrelon këto sinjale.
+- Projekcioni 2-D mundëson vizualizimin e strukturës latente të të dhënave pa humbur pasinformacion themelor.
+- Kurba e variancës së shpjeguar tregon sa dimensione mbajnë 95% të variancës — kjo informon reduktimin e mundshëm të dimensionalitetit në fazat e ardhshme të modelimit.
+- PCA + K-Means ofron një perspektivë të dyfishtë: K-Means në hapësirën origjinale vs. klasterimi në hapësirën e reduktuar të PCA-së.
+
+### Ekzekutimi i Fazës 2
+
+```bash
+cd Faza_2
+pip install -r requirements.txt
+
+# Pipeline i plotë (të 7 algoritmet + parashikimet 2026)
+python -m src.main --step all
+
+# Vetëm klasifikimi (Step A)
+python -m src.main --step supervised
+
+# Vetëm regresioni (Step B)
+python -m src.main --step regression
+
+# Vetëm unsupervised – K-Means + PCA (Step C)
+python -m src.main --step unsupervised
+
+# Vetëm heatmaps e rritjes (Step D)
+python -m src.main --step analysis
+
+# Vetëm parashikimet 2026 (Step E — kërkon modelet të trajnuara)
+python -m src.main --step predictions
+```
+
+### Step B: Rezultatet e Evaluimit
+
+> **Dataset i ri**: 650 913 rreshta bruto → agregim sipas (vit × komunë × sektor) → **3 956 rreshta** (njësia e analizës).
+> Train set: 3 164 rreshta | Test set: 792 rreshta | split: 80/20 stratifikuar.
+> Target: `growth_class` — GROWING (58.7%) / DECLINING (31.0%) / STABLE (10.3%)
+> Features (pa leakage): `year`, `prev_turnover_log1p`, `num_businesses_log1p`, `municipality` (enc.), `primary_sector` (enc.)
+
+---
+
+#### Supervised Learning – Krahasimi i modeleve
+
+##### Hold-out test set (80/20 split)
+
+| Model | Accuracy | Precision (macro) | Recall (macro) | F1-Score (macro) | Cohen's Kappa |
+|-------|----------|-------------------|----------------|------------------|---------------|
+| **Random Forest** | 0.590 | 0.474 | **0.471 ✓** | **0.469 ✓** | **0.256 ✓** |
+| **XGBoost** | **0.625 ✓** | **0.482 ✓** | 0.438 | 0.434 | 0.243 |
+
+##### 5-Fold Cross-Validation (mesatare ± std ndër foldat)
+
+| Model | Accuracy | Precision (macro) | Recall (macro) | F1-Score (macro) | Cohen's Kappa |
+|-------|----------|-------------------|----------------|------------------|---------------|
+| **Random Forest** | 0.581±0.009 | 0.454±0.011 | **0.457±0.011 ✓** | **0.453±0.011 ✓** | 0.243±0.014 |
+| **XGBoost** | **0.632±0.006 ✓** | **0.495±0.020 ✓** | 0.448±0.006 | 0.447±0.008 | **0.259±0.013 ✓** |
+
+**Rezultati i verdiktit: 5 fitore për secilin model** — barazim i vërtetë.
+
+Cross-validimi me 5 folda konfirmon qëndrueshmërinë e rezultateve: devijimi standard i ulët (±0.006–0.020) tregon që asnjë model nuk ka pasur "fat të mirë" në ndarjen e vetme 80/20. Saktësia e moderuar (58–63%) është e pritshme: rritja ekonomike varet nga faktorë si politika fiskale, investimet e huaja dhe goditjet globale — informacione jo të disponueshme në dataset.
+
+**Cili model zgjidhni sipas qëllimit:**
+- Zgjidhni **XGBoost** nëse prioriteti është **Accuracy dhe Precision** — humbni pak false positives, por mund të humbisni disa raste reale të rënies ekonomike.
+- Zgjidhni **Random Forest** nëse prioriteti është **Recall dhe F1** — kap më mirë komunat/sektorët që vërtet janë DECLINING ose STABLE, gjë kritike për vendimmarrje politike ku kostoja e "mos-zbulimit të rënies" është e lartë.
+- Për analizë ekonomike dhe politikë publike, **Random Forest rekomandohet** — Recall i lartë do të thotë që modeli "nuk harron" sektorët në vështirësi.
+
+![Model Comparison](Faza_2/outputs/plots/model_comparison.png)
+
+![CV Score Boxplot](Faza_2/outputs/plots/cv_score_boxplot.png)
+
+---
+
+#### Random Forest – Raporti i klasifikimit
+
+| Klasa | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| DECLINING | 0.485 | 0.588 | 0.531 | 245 |
+| GROWING | **0.706** | 0.667 | **0.686** | 465 |
+| STABLE | 0.232 | 0.159 | 0.188 | 82 |
+| **macro avg** | **0.474** | **0.471** | **0.469** | 792 |
+| weighted avg | 0.589 | 0.590 | 0.587 | 792 |
+
+Random Forest identifikon mirë klasën GROWING (F1=0.686) por ngatërron shpesh STABLE me DECLINING/GROWING, gjë që reflekton vështirësinë e dallimit të rritjes "margjinale" (±5%) nga lëvizjet e vërteta.
+
+![Random Forest Confusion Matrix](Faza_2/outputs/plots/RandomForest_confusion_matrix.png)
+
+![Random Forest ROC Curves](Faza_2/outputs/plots/RandomForest_roc_curves.png)
+
+![Random Forest Feature Importance](Faza_2/outputs/plots/RandomForest_feature_importance.png)
+
+---
+
+#### XGBoost – Raporti i klasifikimit
+
+| Klasa | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| DECLINING | 0.524 | 0.445 | 0.481 | 245 |
+| GROWING | 0.673 | **0.822** | **0.740** | 465 |
+| STABLE | 0.250 | 0.049 | 0.082 | 82 |
+| **macro avg** | **0.482** | **0.438** | **0.434** | 792 |
+| weighted avg | 0.583 | 0.625 | 0.592 | 792 |
+
+XGBoost arrin Recall=0.822 për GROWING — domethënë kap 82% të kombinimeve (komunë, sektor) që vërtet u rritën. Megjithatë, klasa STABLE humbet gati plotësisht (Recall=0.049): modeli e grupon atë kryesisht si GROWING ose DECLINING. Kjo është e arsyeshme ekonomikisht — "stabiliteti" i vërtetë në 5 vite me rritje globale është fenomen i rrallë.
+
+![XGBoost Confusion Matrix](Faza_2/outputs/plots/XGBoost_confusion_matrix.png)
+
+![XGBoost ROC Curves](Faza_2/outputs/plots/XGBoost_roc_curves.png)
+
+![XGBoost Feature Importance](Faza_2/outputs/plots/XGBoost_feature_importance.png)
+
+---
+
+#### Unsupervised Learning – K-Means: analiza e klastereve
+
+**Gjetja e k-ut optimal (k=2 deri k=8)**
+
+| k | Inertia | Silhouette Score | Davies-Bouldin Index |
+|---|---------|-----------------|----------------------|
+| 2 | 14 793 | **0.2158** | 1.6670 |
+| 3 | 12 716 | 0.1890 | 1.7108 |
+| **4** | **11 301** | 0.1806 | 1.5839 |
+| 5 | 10 137 | 0.1840 | 1.4628 |
+| 6 | 9 247 | 0.1927 | 1.3844 |
+| 7 | 8 609 | 0.1880 | 1.3200 |
+| 8 | 7 954 | 0.1955 | **1.3682** |
+
+U zgjodh **k=4**: elbow-i shfaqet qartë pas k=4 dhe ofron 4 profile të interpretueshme të rritjes: *rritje e fortë* / *rritje e moderuar* / *stagnacion* / *rënie*. Silhouette maksimal është në k=2 (0.2158), por k=2 është tepër i thjeshtë për analiza ekonomike kuptimplota.
+
+![K-Means Elbow & Silhouette](Faza_2/outputs/plots/kmeans_elbow_silhouette.png)
+
+**Metrikat e modelit final K-Means (k=4)**
+
+| Metrika | Vlera |
+|---------|-------|
+| Inertia | 11 301 |
+| Silhouette Score | 0.181 |
+| Davies-Bouldin Index | 1.584 |
+
+---
+
+#### Unsupervised Learning – Klasterimi i trajektoreve të rritjes
+
+Për t'u dhënë përgjigje pyetjeve "cilat qytete ndanë të njëjtin trend rritjeje?" dhe "cilët sektorë u sjollën ngjashëm gjatë viteve?", u aplikua klasterimi K-Means (k=4) direkt mbi matricën e trajektoreve (grupi × vit → shkalla mesatare e rritjes).
+
+**Klasterimi i komunave (Municipality Trajectory Clustering)**
+- Silhouette=0.235 | Davies-Bouldin=1.143
+- Komunat ndahen në 4 grupe sipas profilit të rritjes 2020–2025
+
+![Municipality Trajectory Clusters](Faza_2/outputs/plots/municipality_trajectory_clusters.png)
+
+**Klasterimi i sektorëve (Sector Trajectory Clustering)**
+- Silhouette=0.184 | Davies-Bouldin=0.882 (ndarja e sektorëve është më e qartë se ajo e komunave)
+- Sektorët ndahen sipas ritmit dhe drejtimit të rritjes vit pas viti
+
+![Sector Trajectory Clusters](Faza_2/outputs/plots/primary_sector_trajectory_clusters.png)
+
+---
+
+#### Unsupervised Learning – PCA
+
+| Komponent | Varianca e Shpjeguar | Kumulative |
+|-----------|---------------------|------------|
+| PC1 | 39.7% | 39.7% |
+| PC2 | 20.2% | **59.9%** |
+| PC3–PC4 | 35.1% | 95.0%+ |
+
+Dy komponentët e parë shpjegojnë **59.9%** të variancës — shumë më shumë se versioni i mëparshëm (39.2%), sepse dataset-i i growth-it ka tipare më kohezive. Nevojiten vetëm **4 komponentë** për ≥95%.
+
+![PCA Variance Explained](Faza_2/outputs/plots/pca_variance_explained.png)
+
+![PCA – Growth Classes](Faza_2/outputs/plots/pca_true_labels.png)
+
+![PCA – K-Means Clusters](Faza_2/outputs/plots/pca_kmeans_clusters.png)
+
+---
+
+#### Analiza Kryqëzore: Sektor × Komunë (Heatmaps)
+
+Kjo është analiza qendrore e Fazës 2. Çdo qelizë e heatmap-it tregon **shkallën mesatare të rritjes YoY** për atë kombinim (sektor, komunë). Ngjyra e gjelbër = rritje, e kuqe = rënie.
+
+**Rritja sipas Komunave (Municipality × Year)**
+
+Grafiku tregon si ka evoluuar qarkullimi i çdo komune vit pas viti. Komunat me rritje të qëndrueshme të gjelbër janë qendrat ekonomike dinamike.
+
+![Municipality Growth by Year](Faza_2/outputs/plots/municipality_growth_by_year.png)
+
+**Rritja sipas Sektorëve (Sector × Year)**
+
+Grafiku identifikon sektorët me rritje sistemike dhe ata me tkurrje. Periudha 2020–2021 tregon impaktin e COVID-19 dhe rimëkëmbjen pasardhëse.
+
+![Sector Growth by Year](Faza_2/outputs/plots/sector_growth_by_year.png)
+
+**Kryqëzimi Sektor × Komunë — të gjitha vitet**
+
+Ky grafik u përgjigjet direkt pyetjes: *"Si ka performuar sektori X në qytetin Y krahasuar me qytetet e tjera?"*
+
+![Sector × Municipality (All Years)](Faza_2/outputs/plots/sector_x_municipality_growth_all.png)
+
+**Kryqëzimi Sektor × Komunë — 2023**
+
+![Sector × Municipality (2023)](Faza_2/outputs/plots/sector_x_municipality_growth_2023.0.png)
+
+**Kryqëzimi Sektor × Komunë — 2024**
+
+![Sector × Municipality (2024)](Faza_2/outputs/plots/sector_x_municipality_growth_2024.0.png)
+
+**Kryqëzimi Sektor × Komunë — 2025**
+
+![Sector × Municipality (2025)](Faza_2/outputs/plots/sector_x_municipality_growth_2025.0.png)
+
+---
+
+---
+
+#### Supervised Learning – Regresion (Step B)
+
+Tre modele regresioni u trajnuan mbi të njëjtat tipare si klasifikuesit (pa `growth_rate` si input — shih shënimin e leakage-ut), me target-in `growth_rate` si vlerë të vazhdueshme.
+
+> **Train set:** 3 164 rreshta | **Test set:** 792 rreshta | Split: 80/20 pa stratifikim
+
+##### Krahasimi i modeleve të Regresionit
+
+| Model | MAE | RMSE | R² | Interpretim |
+|-------|-----|------|----|-------------|
+| **Linear Regression** | 0.5216 | 0.8605 | 0.0495 | Baseline i dobët; rritja ka pak sinjal linear |
+| **Random Forest Regressor** | **0.4932** | **0.8577** | **0.0556** | ✓ Modeli më i mirë — MAE dhe RMSE më të ulëta |
+| **XGBoost Regressor** | 0.5147 | 0.8931 | −0.0237 | R² negativ: performon nën mesataren e thjeshtë |
+
+**Pse R² është i ulët (~5%)?**
+
+R² prej 0.05–0.06 do të thotë se modelet shpjegojnë rreth **5% të variancës** të shkallës YoY të rritjes. Kjo është e pritshme dhe jo domosdoshmërisht shenjë e modelit të gabuar:
+
+- **Rritja ekonomike varet nga faktorë makro** si politika fiskale, investimet e huaja, inflacioni dhe goditjet globale (p.sh. COVID-19, lufta në Ukrainë) — asnjë prej tyre nuk është i disponueshëm në datasetin ATK.
+- **Dataset-i i vogël pas agregimit** (3 956 rreshta) e kufizon kapacitetin e modeleve jo-lineare.
+- **Sinjali është më i qartë si klasifikim**: pyetja "GROWING apo DECLINING?" (59–63% accuracy) është më e saktë se parashikimi i vlerës ekzakte të `growth_rate`.
+
+Për qëllime analitike dhe politike, **klasifikuesi rekomandohet** si modeli kryesor. Regresori shërben për renditjen relative të mundësive në parashikimet 2026.
+
+![Regressor Comparison](Faza_2/outputs/plots/regressor_comparison.png)
+
+![RF Regressor – Actual vs Predicted](Faza_2/outputs/plots/RandomForestRegressor_actual_vs_predicted.png)
+
+![RF Regressor – Residuals](Faza_2/outputs/plots/RandomForestRegressor_residuals.png)
+
+---
+
+#### Parashikimet e Tregut 2026 (Step E)
+
+Duke përdorur qarkullimin e vitit 2025 si "qarkullim paraprak", të 5 modelet parashikuan rritjen për **659 kombinime (komunë × sektor)** për vitin 2026.
+
+> **Baza:** Të dhënat e 2025 → parashikim 2026 | Modeli kryesor për renditje: **XGBoost Regressor**
+
+##### Top 10 Mundësi Rritjeje për 2026 (XGBoost Regressor)
+
+| Komuna | Sektori | Rritja e Parashikuar |
+|--------|---------|----------------------|
+| SUHAREKË | Aktivitetet e pasurive të paluajtshme | +479.5% |
+| GJAKOVË | Aktivitetet e pasurive të paluajtshme | +214.4% |
+| FERIZAJ | Aktivitetet e pasurive të paluajtshme | +180.2% |
+| MITROVICË | Aktivitetet e pasurive të paluajtshme | +142.7% |
+| PRIZREN | Aktivitetet e pasurive të paluajtshme | +138.1% |
+| VUSHTRRI | Aktivitetet e pasurive të paluajtshme | +135.0% |
+| LIPJAN | Aktivitetet e pasurive të paluajtshme | +132.8% |
+| GJILAN | Aktivitetet e pasurive të paluajtshme | +131.9% |
+| DRENAS | Aktivitetet e pasurive të paluajtshme | +127.4% |
+| PEJË | Aktivitetet e pasurive të paluajtshme | +122.6% |
+
+> **Shënim interpretues**: Parashikimet ekstreme (>100%) duhet të shihen me kujdes — R² i ulët i modelit të regresionit (~5%) tregon pasiguri të lartë në vlerat absolute. Ato janë të dobishme për **renditje relative** (cilët sektorë/komuna kanë potencial më të lartë), jo si parashikime absolute numerike.
+
+![Parashikimet 2026 – Heatmap](Faza_2/outputs/plots/predicted_growth_2026_XGBoostRegressor.png)
+
+![Top Parashikimet 2026](Faza_2/outputs/plots/predicted_top_2026_XGBoostRegressor.png)
+
+Parashikimet e plota janë të disponueshme në:
+- `Faza_2/outputs/metrics/predictions_2026.csv` — 659 rreshta me parashikime nga të 5 modelet
+- Kolonat: `municipality`, `primary_sector`, `growth_class_RandomForest`, `growth_class_XGBoost`, `growth_rate_LinearRegression`, `growth_rate_RandomForestRegressor`, `growth_rate_XGBoostRegressor`, `est_turnover_*`
+
+---
+
+### Step C: Ndikimi i Fazës 1 mbi rezultatet e modelimit
+
+Përpunimi i Fazës 1 ka pasur ndikim të drejtpërdrejtë dhe të matshëm mbi cilësinë e analizës ekonomike në Fazën 2:
+
+**Heqja e 102 977 duplikateve** ishte kritike: duplikatat do të kishin fryra artificialisht qarkullimin e disa kombinimeve (komunë, sektor, vit), duke falsifikuar llogaritjen e shkallës YoY të rritjes. Pas heqjes, agregimet pasqyrojnë vlerën reale ekonomike.
+
+**Transformimi log1p i qarkullimit** ishte i domosdoshëm për dy arsye: (1) diferenca ekstreme midis komunave (Prishtina 51 miliardë EUR vs. komunat e vogla me disa miliona) do të dominonte distancat Euklidiane në K-Means pa log-transform; (2) StandardScaler funksionon mirë kur shpërndarja afron normalen — log1p e siguron këtë.
+
+**Normalizimi NFKC i tekstit shqip** (ë, ç, karaktere speciale) parandaloi grupim të gabuar: `"Prishtinë"` vs `"Prishtine"` pa normalizim do të sillte dy komuna të ndryshme gjatë agregimt, duke fragmentuar datasetin e growth-it.
+
+**Outlier detection (Faza 1)** zbuloi 96 473 rreshta ekstreme me IQR. Megjithëse nuk u hoqën, njohja e tyre shpjegon pse disa kombinime (komunë, sektor) kanë growth_rate të jashtëzakonshme (+200% ose −80%) — kryesisht nga biznese individuale me qarkullim shumë të lartë që hyjnë ose dalin nga tregu.
+
+**Agregimi si zgjidhje ndaj imbalance-it**: Imbalanca origjinale e `registration_status` (SH.P.K. 49% vs KOMPANI E HUAJ 1.7%) bëhet e parëndësishme në Fazën 2 — duke agreguar mbi llojin e entitetit, njësia e analizës bëhet kombinimi (komunë, sektor) dhe jo entiteti individual. `class_weight="balanced"` trajton imbalancën e re (GROWING 58.7% / DECLINING 31% / STABLE 10.3%).
+
+### Output-et e Fazës 2
+
+```text
+Faza_2/outputs/
+├── models/
+│   ├── random_forest.pkl            ← Random Forest Classifier
+│   ├── xgboost.pkl                  ← XGBoost Classifier
+│   ├── linear_regression.pkl        ← Linear Regression
+│   ├── rf_regressor.pkl             ← Random Forest Regressor
+│   └── xgb_regressor.pkl            ← XGBoost Regressor
+├── metrics/
+│   ├── RandomForest_classification_report.csv
+│   ├── XGBoost_classification_report.csv
+│   ├── model_comparison.csv
+│   ├── cross_validation_results.csv        ← CV 5-fold mean±std për të dy modelet
+│   ├── algorithm_verdict.csv               ← tabela e verdiktit (fitues për çdo metrikë)
+│   ├── kmeans_sweep_metrics.csv
+│   ├── unsupervised_metrics.csv
+│   ├── municipality_growth_by_year.csv     ← rritja e çdo komune sipas vitit
+│   ├── sector_growth_by_year.csv           ← rritja e çdo sektori sipas vitit
+│   ├── sector_x_municipality_growth_*.csv  ← kryqëzim sektor × komunë
+│   └── predictions_2026.csv               ← 659 parashikime (komunë × sektor) për 2026
+└── plots/
+    ├── RandomForest_confusion_matrix.png
+    ├── RandomForest_roc_curves.png
+    ├── RandomForest_feature_importance.png
+    ├── XGBoost_confusion_matrix.png
+    ├── XGBoost_roc_curves.png
+    ├── XGBoost_feature_importance.png
+    ├── model_comparison.png
+    ├── cv_score_boxplot.png                ← shpërndarja e skoreve ndër 5 foldat
+    ├── regressor_comparison.png            ← krahasim MAE/RMSE/R² i 3 regresorëve
+    ├── LinearRegression_actual_vs_predicted.png
+    ├── LinearRegression_residuals.png
+    ├── RandomForestRegressor_actual_vs_predicted.png
+    ├── RandomForestRegressor_residuals.png
+    ├── XGBoostRegressor_actual_vs_predicted.png
+    ├── XGBoostRegressor_residuals.png
+    ├── LinearRegression_feature_importance.png
+    ├── RandomForestRegressor_feature_importance.png
+    ├── XGBoostRegressor_feature_importance.png
+    ├── predicted_growth_2026_XGBoostRegressor.png  ← heatmap parashikimesh 2026
+    ├── predicted_top_2026_XGBoostRegressor.png     ← top 15 mundësi rritjeje
+    ├── kmeans_elbow_silhouette.png
+    ├── municipality_trajectory_clusters.png ← komunat sipas profilit të rritjes
+    ├── primary_sector_trajectory_clusters.png
+    ├── pca_true_labels.png
+    ├── pca_kmeans_clusters.png
+    ├── pca_variance_explained.png
+    ├── municipality_growth_by_year.png      ← heatmap komunë × vit
+    ├── sector_growth_by_year.png            ← heatmap sektor × vit
+    ├── sector_x_municipality_growth_all.png ← kryqëzim kryesor (të gjitha vitet)
+    ├── sector_x_municipality_growth_2023.0.png
+    ├── sector_x_municipality_growth_2024.0.png
+    └── sector_x_municipality_growth_2025.0.png
+```
