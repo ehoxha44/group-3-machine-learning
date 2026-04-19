@@ -398,13 +398,9 @@ README specifik i fazës gjendet në:
 - Hapi `resample` është opsional dhe përdoret vetëm kur zgjidhet një kolonë target.
 - Dataseti i pastruar kanonik nuk modifikohet nga eksperimentet opsionale të resampling-ut.
 
-## Qëllimi Akademik
-
-Ky projekt është realizuar si pjesë e lëndës Machine Learning dhe synon të demonstrojë zbatimin praktik të teknikave të parapërpunimit dhe përgatitjes së të dhënave për analiza statistikore dhe modelim të mëvonshëm.
-
 ---
 
-## Faza 2: Analizë e Rritjes Ekonomike – Trajnimi, Evaluimi dhe Dokumentimi
+## Faza 2: Trajnimi I Modelit
 
 ### Qëllimi i Fazës 2
 
@@ -421,9 +417,9 @@ Faza_2/
 │   └── metrics/         # raportet e metrikave (.csv)
 └── src/
     ├── __init__.py
-    ├── config.py          # konfigurim i centralizuar (rrugë, hiper-parametra)
+    ├── config.py          # konfigurim i centralizuar
     ├── data_loader.py     # ngarkimi dhe përgatitja e të dhënave
-    ├── feature_engineering.py  # enkodimi i kategorive dhe skalimi
+    ├── feature_engineering.py  # enkodimi i kategorive dhe shtrirja
     ├── supervised.py      # Step A: Random Forest + XGBoost
     ├── unsupervised.py    # Step A: K-Means + PCA
     ├── evaluation.py      # Step B: metrika, grafikë dhe krahasime
@@ -476,9 +472,9 @@ XGBoost (Extreme Gradient Boosting) është plotësuesi natyral i Random Forest:
 
 **4. Random Forest Regressor**
 
-- E njëjta logjikë ensemble si klasifikuesi, por parashikon `growth_rate` si vlerë të vazhdueshme.
-- Trajton ndërveprime jo-lineare midis komunës, sektorit dhe qarkullimit historik pa inxhinieri manuale tiparesh.
-- Mesatarizimi ndër 300 pemë zvogëlon variancën, gjë kritike kur dataseti i agreguar ka vetëm 3 956 rreshta.
+- E njëjta logjikë si klasifikuesi, por parashikon `growth_rate` si vlerë të vazhdueshme.
+- Trajton ndërveprime jo-lineare midis komunës, sektorit dhe qarkullimit historik.
+- Mesatarja ndër 300 pemë zvogëlon variancën, gjë kritike kur dataseti i agreguar ka vetëm 3 956 rreshta.
 
 **5. XGBoost Regressor**
 
@@ -803,7 +799,7 @@ Faza_2/outputs/
 │   ├── XGBoost_classification_report.csv
 │   ├── model_comparison.csv
 │   ├── cross_validation_results.csv        ← CV 5-fold mean±std për të dy modelet
-│   ├── algorithm_verdict.csv               ← tabela e verdiktit (fitues për çdo metrikë)
+│   ├── algorithm_verdict.csv               ← tabela e verdiktit 
 │   ├── kmeans_sweep_metrics.csv
 │   ├── unsupervised_metrics.csv
 │   ├── municipality_growth_by_year.csv     ← rritja e çdo komune sipas vitit
@@ -818,7 +814,7 @@ Faza_2/outputs/
     ├── XGBoost_roc_curves.png
     ├── XGBoost_feature_importance.png
     ├── model_comparison.png
-    ├── cv_score_boxplot.png                ← shpërndarja e skoreve ndër 5 foldat
+    ├── cv_score_boxplot.png                ← shpërndarja
     ├── regressor_comparison.png            ← krahasim MAE/RMSE/R² i 3 regresorëve
     ├── LinearRegression_actual_vs_predicted.png
     ├── LinearRegression_residuals.png
@@ -844,3 +840,6 @@ Faza_2/outputs/
     ├── sector_x_municipality_growth_2024.0.png
     └── sector_x_municipality_growth_2025.0.png
 ```
+## Qëllimi Akademik
+
+Ky projekt është realizuar si pjesë e lëndës Machine Learning dhe synon të demonstrojë zbatimin praktik të teknikave të parapërpunimit dhe përgatitjes së të dhënave për analiza statistikore dhe modelim të mëvonshëm.
