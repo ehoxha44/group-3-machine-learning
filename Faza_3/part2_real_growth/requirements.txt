@@ -1,0 +1,10 @@
+# Part 2 inherits everything from Faza_3/requirements.txt.
+# These are listed here for self-containment.
+pandas
+numpy
+scikit-learn
+matplotlib
+xgboost
+joblib
+imbalanced-learn
+category-encoders

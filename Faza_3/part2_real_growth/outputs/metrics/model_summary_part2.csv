@@ -1,0 +1,16 @@
+track,model,kind,accuracy,f1_macro,kappa,metric_R2
+M_nominal,RandomForest,classifier,0.5919161676646707,0.5138538024877558,0.32564251085073603,
+M_nominal,XGBoost,classifier,0.6175149700598802,0.5376999617094924,0.3696075366090541,
+M_nominal,LinearRegression,regressor,,,,0.24649249593580136
+M_nominal,RandomForestRegressor,regressor,,,,0.49619370879945324
+M_nominal,XGBoostRegressor,regressor,,,,0.5022210933482512
+M_real,RandomForest,classifier,0.644311377245509,0.5100282919859042,0.3591684526222457,
+M_real,XGBoost,classifier,0.61437125748503,0.5112726768183211,0.35905014888914677,
+M_real,LinearRegression,regressor,,,,0.244616729966037
+M_real,RandomForestRegressor,regressor,,,,0.49645391435776676
+M_real,XGBoostRegressor,regressor,,,,0.49738626705831634
+M_real_no_covid,RandomForest,classifier,0.6830838323353293,0.5160967221693419,0.3829233942887438,
+M_real_no_covid,XGBoost,classifier,0.6025449101796407,0.4994258311234188,0.33809192272028943,
+M_real_no_covid,LinearRegression,regressor,,,,0.25649252880639295
+M_real_no_covid,RandomForestRegressor,regressor,,,,0.47374550012899874
+M_real_no_covid,XGBoostRegressor,regressor,,,,0.47212787615704

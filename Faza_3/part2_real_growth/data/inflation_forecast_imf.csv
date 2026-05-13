@@ -1,0 +1,7 @@
+year,scenario,cpi_yoy_pct,source
+2026,low,1.5,IMF WEO Oct 2025 (low scenario)
+2026,central,2.0,IMF WEO Oct 2025 (baseline)
+2026,high,3.5,IMF WEO Oct 2025 (high scenario)
+2027,low,1.5,IMF WEO Oct 2025 (low scenario)
+2027,central,2.5,IMF WEO Oct 2025 (baseline)
+2027,high,4.0,IMF WEO Oct 2025 (high scenario)
